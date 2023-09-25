@@ -18,7 +18,9 @@
       "cache": false,
       "persistent": true
     },
-    "parse": {},
+    "parse": {
+      "cache": false
+    },
     "storybook": {}
   }
 }

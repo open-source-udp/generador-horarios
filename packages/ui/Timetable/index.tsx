@@ -1,31 +1,35 @@
 import { Table } from "@mui/material";
 import { TableHead, TableRow, TableBody, TableCell } from "@mui/material";
 import { memo } from "react";
+import { TimeBlockItem, Block, Day } from "contracts";
 
-type TimeTableProps = {};
+type TimeTableProps = Record<Day, Record<Block, TimeBlockItem>>;
 
-const Timetable: React.FC<TimeTableProps> = () => {
+const Timetable: React.FC<TimeTableProps> = (schedule) => {
   return (
-    <Table sx={{ border: "1px solid red" }}>
+    <Table>
       <TableHead>
         <TableRow>
-          <TableCell>Time</TableCell>
-          <TableCell>Monday</TableCell>
-          <TableCell>Tuesday</TableCell>
-          <TableCell>Wednesday</TableCell>
-          <TableCell>Thursday</TableCell>
-          <TableCell>Friday</TableCell>
+          <TableCell>*</TableCell>
+          <TableCell>Lunes</TableCell>
+          <TableCell>Martes</TableCell>
+          <TableCell>Miercoles</TableCell>
+          <TableCell>Jueves</TableCell>
+          <TableCell>Viernes</TableCell>
         </TableRow>
       </TableHead>
       <TableBody>
-        <TableRow>
-          <TableCell>8:00</TableCell>
-          <TableCell>Math</TableCell>
-          <TableCell>Math</TableCell>
-          <TableCell>Math</TableCell>
-          <TableCell>Math</TableCell>
-          <TableCell>Math</TableCell>
-        </TableRow>
+        {Object.keys(schedule).map((day) => (
+          <TableRow key={day}>
+            <TableCell>{day}</TableCell>
+            {Object.keys(schedule[day as Day]).map((block) => (
+              <TableCell key={block}>
+                {schedule[day as Day][block as Block].name}
+                {schedule[day as Day][block as Block].description}
+              </TableCell>
+            ))}
+          </TableRow>
+        ))}
       </TableBody>
     </Table>
   );

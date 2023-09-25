@@ -49,6 +49,7 @@ export default class XLSParser {
                 description: row["Descrip. Evento"] || "",
                 isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
                 teacher: row.Profesor || "",
+                name: row["Nombre Asig."] || "",
               })),
             ],
           },
@@ -66,6 +67,7 @@ export default class XLSParser {
               description: row["Descrip. Evento"] || "",
               isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
               teacher: row.Profesor || "",
+              name: row["Nombre Asig."] || "",
             })),
           ],
         };
@@ -76,6 +78,7 @@ export default class XLSParser {
             description: row["Descrip. Evento"] || "",
             isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
             teacher: row.Profesor || "",
+            name: row["Nombre Asig."] || "",
           });
         }
       }

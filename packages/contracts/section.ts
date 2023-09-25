@@ -1,8 +1,11 @@
+export type Block = "A" | "B" | "C" | "D" | "E" | "F" | "G" | "H" | "I";
+export type Day = "LU" | "MA" | "MI" | "JU" | "VI" | "SA";
 export interface TimeBlockItem {
-  day: "LU" | "MA" | "MI" | "JU" | "VI" | "SA";
-  block: "A" | "B" | "C" | "D" | "E" | "F" | "G" | "H" | "I";
+  block: Block;
+  day: Day;
   description: string;
   isMandatory: boolean;
+  name: string;
   teacher: string;
 }
 
