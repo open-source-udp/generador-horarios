@@ -1,5 +1,3 @@
-// import { TimeBlockItem } from "contracts";
-
 import { TimeBlockItem } from "contracts";
 
 export const timeBlockMappings = {

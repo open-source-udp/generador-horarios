@@ -40,8 +40,9 @@ export default class XLSParser {
         references: row["Asig. Referenciadas"]?.split(/\s*,\s*/) ?? [],
         sections: {
           [row.Sección]: {
-            code: row.Paquete || '',
+            code: row.Paquete || "",
             section: row.Sección,
+            name: row["Nombre Asig."] || "",
             timeBlocks: [
               ...timeBlocks.map((timeBlock) => ({
                 ...timeBlock,
@@ -56,8 +57,9 @@ export default class XLSParser {
     } else {
       if (!this.outputData[subjectCode].sections[row.Sección]) {
         this.outputData[subjectCode].sections[row.Sección] = {
-          code: row.Paquete || '',
+          code: row.Paquete || "",
           section: row.Sección,
+          name: row["Nombre Asig."] || "",
           timeBlocks: [
             ...timeBlocks.map((timeBlock) => ({
               ...timeBlock,
