@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "parse": "node build/index.js"
+    "parse": "node build/index.js && cp -r output/* ../web/public"
   },
   "dependencies": {
     "xlsx": "^0.18.5",

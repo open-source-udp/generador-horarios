@@ -5,13 +5,12 @@ export interface TimeBlockItem {
   day: Day;
   description: string;
   isMandatory: boolean;
-  name: string;
   teacher: string;
 }
 
 export interface Section {
   code: string;
-  name: string;
+  subjectCode: string;
   section: string;
   timeBlocks: TimeBlockItem[];
 }

@@ -1,23 +1,24 @@
-import { Subject, XLSXRow } from "contracts";
+import { Section, Subject, XLSXRow } from "contracts";
 import { readFile, utils } from "xlsx";
-import { join } from "node:path";
+import { join, dirname } from "node:path";
 import parseTimeBlocks from "./parseTimeBlocks";
-import { writeFileSync } from "fs";
+import { writeFileSync, existsSync, mkdirSync } from "node:fs";
 
 export default class XLSParser {
   rows: XLSXRow[];
   fileName: string;
-  private outputData: Record<string, Subject> = {};
+  private subjectsOutputData: Record<string, Subject> = {};
+  private sectionsOutputData: Record<string, Section> = {};
   constructor(file: string) {
     this.fileName = file;
-    const workbook = readFile(join(__dirname, "../input", file), {});
+    const workbook = readFile(file, {});
     const sheetName = workbook.SheetNames[0];
     const sheet = workbook.Sheets[sheetName];
     this.rows = utils.sheet_to_json(sheet);
   }
 
   parseRows() {
-    if (Object.keys(this.outputData).length) {
+    if (Object.keys(this.subjectsOutputData).length) {
       throw new Error("This method can only be called once");
     }
 
@@ -27,58 +28,56 @@ export default class XLSParser {
   }
 
   parseRow(row: XLSXRow) {
-    if (!row.Asignatura || !row.Sección || !row.Horario) {
+    if (!row.Asignatura || !row.Horario || !row.Paquete) {
+      console.error("Invalid row", row);
       return;
     }
     const subjectCode = row.Asignatura;
+    const sectionCode = row.Paquete;
     const timeBlocks = parseTimeBlocks(row.Horario);
-    if (!this.outputData[subjectCode]) {
-      this.outputData[subjectCode] = {
+    if (!this.subjectsOutputData[subjectCode]) {
+      this.subjectsOutputData[subjectCode] = {
         code: subjectCode,
         name: row["Nombre Asig."] || "",
         credits: row["Créditos Asignatura"] || 0,
         references: row["Asig. Referenciadas"]?.split(/\s*,\s*/) ?? [],
-        sections: {
-          [row.Sección]: {
-            code: row.Paquete || "",
-            section: row.Sección,
-            name: row["Nombre Asig."] || "",
-            timeBlocks: [
-              ...timeBlocks.map((timeBlock) => ({
-                ...timeBlock,
-                description: row["Descrip. Evento"] || "",
-                isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
-                teacher: row.Profesor || "",
-                name: row["Nombre Asig."] || "",
-              })),
-            ],
-          },
-        },
+      };
+
+      this.sectionsOutputData[sectionCode] = {
+        code: sectionCode,
+        subjectCode: subjectCode,
+        section: row.Sección || "Sección 1",
+        timeBlocks: [
+          ...timeBlocks.map((timeBlock) => ({
+            ...timeBlock,
+            description: row["Descrip. Evento"] || "",
+            isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
+            teacher: row.Profesor || "",
+          })),
+        ],
       };
     } else {
-      if (!this.outputData[subjectCode].sections[row.Sección]) {
-        this.outputData[subjectCode].sections[row.Sección] = {
+      if (!this.sectionsOutputData[sectionCode]) {
+        this.sectionsOutputData[sectionCode] = {
           code: row.Paquete || "",
-          section: row.Sección,
-          name: row["Nombre Asig."] || "",
+          subjectCode: subjectCode,
+          section: row.Sección || "Sección 1",
           timeBlocks: [
             ...timeBlocks.map((timeBlock) => ({
               ...timeBlock,
               description: row["Descrip. Evento"] || "",
               isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
               teacher: row.Profesor || "",
-              name: row["Nombre Asig."] || "",
             })),
           ],
         };
       } else {
         for (const timeBlock of timeBlocks) {
-          this.outputData[subjectCode].sections[row.Sección].timeBlocks.push({
+          this.sectionsOutputData[sectionCode].timeBlocks.push({
             ...timeBlock,
             description: row["Descrip. Evento"] || "",
             isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
             teacher: row.Profesor || "",
-            name: row["Nombre Asig."] || "",
           });
         }
       }
@@ -86,14 +85,37 @@ export default class XLSParser {
   }
 
   getOutputData() {
-    return this.outputData;
+    return [this.subjectsOutputData, this.sectionsOutputData];
   }
 
   saveOutputData() {
+    const [subjectsOutputData, sectionsOutputData] = this.getOutputData();
     const outputFileName = this.fileName.replace(".xlsx", ".json");
-    const outputPath = join(__dirname, "../output", outputFileName);
-    const outputData = this.getOutputData();
-    const outputDataString = JSON.stringify(outputData, null, 2);
-    writeFileSync(outputPath, outputDataString);
+
+    const subjectOutputFileName = outputFileName.replace(
+      "input",
+      "output/subjects"
+    );
+    mkdirSync(dirname(subjectOutputFileName), { recursive: true });
+    writeFileSync(
+      subjectOutputFileName,
+      JSON.stringify(Object.values(subjectsOutputData), null, 2),
+      {
+        encoding: "utf-8",
+      }
+    );
+
+    const sectionOutputFileName = outputFileName.replace(
+      "input",
+      "output/sections"
+    );
+    mkdirSync(dirname(sectionOutputFileName), { recursive: true });
+    writeFileSync(
+      sectionOutputFileName,
+      JSON.stringify(Object.values(sectionsOutputData), null, 2),
+      {
+        encoding: "utf-8",
+      }
+    );
   }
 }
