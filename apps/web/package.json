@@ -18,6 +18,7 @@
     "react-dom": "^18.2.0",
     "swr": "^2.2.4",
     "ui": "*",
+    "utils": "^0.0.0",
     "zustand": "^4.4.3"
   },
   "devDependencies": {

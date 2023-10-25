@@ -1,12 +1,12 @@
 import { Button } from "ui";
 import { memo } from "react";
-import { useSelectedSubjects } from "@/store/selectedSubjects";
+import {  useSyncSelectedSubjects } from "@/store/selectedSubjects";
 
 type AddSubjectButtonProps = {};
 
 const AddSubjectButton: React.FC<AddSubjectButtonProps> = memo(
   function AddSubjectButton() {
-    const { add } = useSelectedSubjects(({ add }) => ({ add }));
+    const { add } = useSyncSelectedSubjects(({ add }) => ({ add }));
     return (
       <Button
         onClick={() => {

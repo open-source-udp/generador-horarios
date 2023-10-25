@@ -1,3 +1,4 @@
+"use client";
 import { Subject } from "contracts";
 import useSWR from "swr";
 
@@ -8,7 +9,7 @@ const useSubjects = (career: string) => {
   // TODO: add subjects of CFGS
 
   return {
-    subjects: data,
+    subjects: data || [],
     error,
     isLoading,
   };

@@ -3,7 +3,7 @@
 import { Autocomplete, Chip, TextField } from "@mui/material";
 import { memo } from "react";
 
-type Option = { value: string; label: string };
+type Option = { value: string | number; label: string };
 
 export type SelectProps = {
   options: Array<Option>;
@@ -14,6 +14,7 @@ export type SelectProps = {
   defaultValue?: Option;
   placeholder: string;
   label: string;
+  getOptionDisabled?: (option: Option) => boolean;
 };
 
 const Select: React.FC<SelectProps> = memo(function Select({
@@ -22,6 +23,7 @@ const Select: React.FC<SelectProps> = memo(function Select({
   defaultValue,
   placeholder,
   label,
+  getOptionDisabled
 }) {
   return (
     <Autocomplete
@@ -51,6 +53,7 @@ const Select: React.FC<SelectProps> = memo(function Select({
       value={defaultValue}
       getOptionLabel={(option) => option?.label}
       isOptionEqualToValue={(option, value) => option?.value === value?.value}
+      getOptionDisabled={getOptionDisabled}
       loadingText={"Cargando..."}
     />
   );

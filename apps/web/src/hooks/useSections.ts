@@ -1,14 +1,8 @@
+'use client';
 import { Section } from "contracts";
 import useSWR from "swr";
 import { useEffect, useState } from "react";
-
-export function getNumberFromString(str: string) {
-  const matches = str.match(/\d+/g);
-  if (matches) {
-    return parseInt(matches[0]);
-  }
-  return 0;
-}
+import { getSectionsFromSubjectCode } from "utils";
 
 const useSections = (career: string, subjectCode?: string) => {
   const [sections, setSections] = useState<Section[]>([]);
@@ -17,16 +11,12 @@ const useSections = (career: string, subjectCode?: string) => {
   );
 
   useEffect(() => {
-    if (subjectCode && data) {
-      setSections(
-        data
-          .filter((section) => section.subjectCode === subjectCode)
-          .sort((a, b) => {
-            return (
-              getNumberFromString(a.section) - getNumberFromString(b.section)
-            );
-          })
-      );
+    if (data) {
+      if (subjectCode) {
+        setSections(getSectionsFromSubjectCode(data, subjectCode));
+      } else {
+        setSections(data);
+      }
     }
   }, [subjectCode, data]);
 

@@ -2,12 +2,13 @@
 import { useSections, useSubjects } from "@/hooks";
 import { memo } from "react";
 import { Select } from "ui";
-import { SelectedSubject, useSelectedSubjects } from "@/store/selectedSubjects";
+import { SelectedSubject, useSelectedSubjects, useSyncSelectedSubjects } from "@/store/selectedSubjects";
 import { useParams } from "next/navigation";
 import { Subject, Section } from "contracts";
 import Grid from "@mui/material/Unstable_Grid2";
 import Delete from "@mui/icons-material/Delete";
 import { IconButton } from "@mui/material";
+import { getSectionsFromSubjectCode, timeBlocksDontOverlap } from "utils";
 
 type SubjectSelectProps = {
   index: number;
@@ -15,7 +16,7 @@ type SubjectSelectProps = {
 };
 const AUTO_SECTION = {
   label: "Auto",
-  value: null,
+  value: -1,
 };
 
 const SubjectSelect: React.FC<SubjectSelectProps> = memo(
@@ -24,26 +25,25 @@ const SubjectSelect: React.FC<SubjectSelectProps> = memo(
     const { subjects, isLoading } = useSubjects(params?.career as string);
     const { sections } = useSections(
       params?.career as string,
-      selectedSubject?.subjectCode
+      subjects[selectedSubject?.subjectIndex]?.code
     );
+    const { sections: allSections } = useSections(params?.career as string);
+    const selectedSubjects = useSelectedSubjects("selectedSubjects");
 
-    const { update, clear } = useSelectedSubjects(({ update, clear }) => ({
-      update,
-      clear,
-    }));
+    // const { update, selectedSubjects, remove } = useSelectedSubjects(
+    //   ({ update, selectedSubjects, remove }) => ({
+    //     update,
+    //     selectedSubjects,
+    //     remove,
+    //   })
+    // );
+    const { update, remove } = useSyncSelectedSubjects()
 
     let currentSubject: Subject | null = null;
     let currentSection: Section | null = null;
     if (!isLoading && subjects) {
-      currentSubject = subjects.find(
-        (subject) => subject.code === selectedSubject?.subjectCode
-      );
-      currentSection = sections.find(
-        (section) => section.code === selectedSubject?.sectionCode
-      );
-      if (selectedSubject?.sectionCode && !currentSubject) {
-        clear();
-      }
+      currentSubject = subjects[selectedSubject?.subjectIndex] || null;
+      currentSection = sections[selectedSubject?.sectionIndex] || null;
     }
 
     return (
@@ -55,28 +55,34 @@ const SubjectSelect: React.FC<SubjectSelectProps> = memo(
               currentSubject
                 ? {
                     label: currentSubject.name,
-                    value: currentSubject.code,
+                    value: selectedSubject.subjectIndex,
                   }
                 : null
             }
             onChange={(e, newValue) => {
               if (!newValue) {
                 update(index, {
-                  subjectCode: undefined,
-                  sectionCode: undefined,
+                  subjectIndex: -1,
+                  sectionIndex: -1,
                 });
                 return;
               }
               update(index, {
-                subjectCode: newValue.value,
-                sectionCode: undefined,
+                subjectIndex: newValue.value as number,
+                sectionIndex: -1,
               });
             }}
-            options={subjects?.map((subject) => ({
+            options={subjects?.map((subject, subjectIndex) => ({
               label: subject.name,
-              value: subject.code,
+              value: subjectIndex,
             }))}
             placeholder="Selecciona un ramo"
+            getOptionDisabled={(option) =>
+              selectedSubjects.some(
+                (selectedSubject) =>
+                  selectedSubject?.subjectIndex === option.value
+              )
+            }
           />
         </Grid>
         <Grid lg={5}>
@@ -85,33 +91,59 @@ const SubjectSelect: React.FC<SubjectSelectProps> = memo(
             onChange={(e, newValue) => {
               if (!newValue) {
                 update(index, {
-                  subjectCode: currentSubject?.code,
-                  sectionCode: undefined,
+                  subjectIndex: selectedSubject.subjectIndex,
+                  sectionIndex: -1,
                 });
                 return;
               }
               update(index, {
-                subjectCode: currentSubject?.code,
-                sectionCode: newValue.value,
+                subjectIndex: selectedSubject.subjectIndex,
+                sectionIndex: newValue.value as number,
               });
             }}
             options={[
               AUTO_SECTION,
-              ...sections?.map((section) => ({
+              ...sections?.map((section, i) => ({
                 label: section.section,
-                value: section.code,
+                value: i,
               })),
             ]}
             defaultValue={
               currentSubject &&
               (currentSection
                 ? {
-                    value: currentSection.code,
+                    value: selectedSubject.sectionIndex,
                     label: currentSection.section,
                   }
                 : AUTO_SECTION)
             }
             placeholder="Agrega una sección"
+            getOptionDisabled={(option) => {
+              if (option.value === null || option.value === -1) {
+                return false;
+              }
+              const selectedSections = selectedSubjects.map((subject) => {
+                if (!subject) return null;
+                const { subjectIndex, sectionIndex } = subject;
+                const subjectCode = subjects[subjectIndex]?.code;
+                const sections = getSectionsFromSubjectCode(
+                  allSections,
+                  subjectCode
+                );
+                if (selectedSubject.subjectIndex === subjectIndex)
+                  return {
+                    timeBlocks: [],
+                  } as Section;
+                return sections[sectionIndex];
+              });
+              const selectedTimeBlocks = selectedSections.flatMap((section) =>
+                section ? section.timeBlocks : []
+              );
+              const newSection = sections[option.value];
+              const newTimeBlocks = newSection.timeBlocks;
+              const timeBlocks = [...selectedTimeBlocks, ...newTimeBlocks];
+              return !timeBlocksDontOverlap(timeBlocks);
+            }}
           />
         </Grid>
         <Grid
@@ -120,7 +152,7 @@ const SubjectSelect: React.FC<SubjectSelectProps> = memo(
           justifyContent={"center"}
           display={"flex"}
         >
-          <IconButton>
+          <IconButton onClick={() => remove(index)}>
             <Delete />
           </IconButton>
         </Grid>
