@@ -1,12 +1,14 @@
 {
   "private": true,
   "scripts": {
-    "build": "turbo run build",
+    "build": "npm run parser:build && npm run parse && npm run web:build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "clean": "git clean -dfqX -- ./node_modules **/dist/ **/node_modules/ **/tsconfig*tsbuildinfo **/.turbo **/output",
-    "parse": "turbo run parse"
+    "parse": "turbo run parse",
+    "parser:build": "turbo run --scope parser build",
+    "web:build": "turbo run --scope web build"
   },
   "devDependencies": {
     "@turbo/gen": "^1.9.7",
