@@ -1,0 +1,50 @@
+[
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "CIG1015",
+    "name": "INGLÉS GENERAL IV",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

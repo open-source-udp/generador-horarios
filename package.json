@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "npm run parser:build && npm run parse && npm run web:build",
-    "dev": "turbo run dev",
+    "dev": "NEXT_PUBLIC_LAST_UPDATED=$(date '+%Y-%m-%d') turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "clean": "git clean -dfqX -- ./node_modules **/dist/ **/node_modules/ **/tsconfig*tsbuildinfo **/.turbo **/output",

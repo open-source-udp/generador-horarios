@@ -1,0 +1,656 @@
+[
+  {
+    "code": "CPO3002",
+    "name": "TEORÍAS Y CONCEPTOS DE RELACIONES INTERN",
+    "credits": 5,
+    "references": [
+      "DER9896"
+    ]
+  },
+  {
+    "code": "CPO3003",
+    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
+    "credits": 5,
+    "references": [
+      "DER9897"
+    ]
+  },
+  {
+    "code": "CPO3011",
+    "name": "DESARROLLO POLÍTICO Y ECONÓMICO DE AMÉRI",
+    "credits": 5,
+    "references": [
+      "DER9898"
+    ]
+  },
+  {
+    "code": "CPO3012",
+    "name": "RELACIONES INTERNACIONALES EN AMÉRICA LA",
+    "credits": 5,
+    "references": [
+      "DER9899"
+    ]
+  },
+  {
+    "code": "DER0011",
+    "name": "ARGUMENTACIÓN JURÍDICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0012",
+    "name": "ARBITRAJE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0015",
+    "name": "RESOLUCIÓN DE CASOS EN MATERÍA CIVIL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0017",
+    "name": "SISTEMA ALTERNATIVO DE RESOLUCIÓN DE CON",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0021",
+    "name": "SELECCIÓN Y PREPARACIÓN PARA CONCURSOS I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0024",
+    "name": "RESOLUCIONES DE CASOS PROCESALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0035",
+    "name": "INGLÉS LEGAL BÁSICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5010",
+    "name": "DERECHO DE OBLIGACIONES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5013",
+    "name": "INTRODUCCIÓN A LA TEORÍA DEL DELITO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5017",
+    "name": "FORMAS ESPECIALES DE APARICIÓN DEL DELIT",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5018",
+    "name": "RESPONSABILIDAD CIVIL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5020",
+    "name": "DERECHO ADMINISTRATIVO I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5021",
+    "name": "DERECHO PENAL PARTE ESPECIAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5024",
+    "name": "DERECHO ADMINISTRATIVO II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5025",
+    "name": "PROCESO PENAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5026",
+    "name": "DERECHO DEL TRABAJO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5028",
+    "name": "INSTITUCIONES DE DERECHO COMERCIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5029",
+    "name": "DERECHO ECONÓMICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5030",
+    "name": "FILOSOFÍA DEL DERECHO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5031",
+    "name": "DERECHO INTERNACIONAL PÚBLICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5032",
+    "name": "DERECHO DE FAMILIA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5033",
+    "name": "SOCIEDADES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5034",
+    "name": "DERECHO TRIBUTARIO I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5035",
+    "name": "CONTRATOS COMERCIALES",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5036",
+    "name": "CLÍNICAS JURÍDICAS",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5037",
+    "name": "INSOLVENCIA Y QUIEBRA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5038",
+    "name": "DERECHO TRIBUTARIO II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5042",
+    "name": "CONTRATOS CIVILES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5043",
+    "name": "DERECHO SUCESORIO, PARTICIÓN Y CONTRATOS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5044",
+    "name": "INSTITUCIONES COMUNES A TODO PROCEDIMIEN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5045",
+    "name": "PROCEDIMIENTOS CIVILES Y VIAS DE IMPUGNA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5046",
+    "name": "PROCEDIMIENTOS ESPECIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5048",
+    "name": "ESCRITURA LEGAL",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5047",
+    "name": "COMUNICACIÓN ORAL",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5049",
+    "name": "JURISDICCIÓN CONSTITUCIONAL Y DERECHOS F",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5050",
+    "name": "DERECHOS Y GARANTIAS CONSTITUCIONALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5051",
+    "name": "RESPONSABILIDAD PROFESIONAL DEL ABOGADO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9024",
+    "name": "DERECHO AMBIENTAL INTERNACIONAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9109",
+    "name": "PROPIEDAD INDUSTRIAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9442",
+    "name": "DERECHO DE LA SEGURIDAD SOCIAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9570",
+    "name": "DERECHOS FUNDAMENTALES Y NUEVA JUSTICIA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9588",
+    "name": "SISTEMA INTERAMERICANO DE DERECHOS HUMAN",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9591",
+    "name": "DERECHO AMBIENTAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "DER0042",
+    "name": "INGLÉS BÁSICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0044",
+    "name": "INGLÉS AVANZADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9846",
+    "name": "BUSQUEDA DE EMPLEO Y ESTRAT LABORAL",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "DER9856",
+    "name": "GENERO Y JUSTICIA: VIOLENCIA CONTRA LAS",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9858",
+    "name": "LOS DERECHOS DEL NIÑO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3521",
+    "name": "POLÍTICA Y GÉNERO",
+    "credits": 5,
+    "references": [
+      "DER9900"
+    ]
+  },
+  {
+    "code": "DER0048",
+    "name": "STARTUP LAW: INNOVACIÓN Y DERECHO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0049",
+    "name": "DEBATE ACADEMICO Y COMPETITIVO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9883",
+    "name": "PENSAMIENTO POLITICO MODERNO TEMPRANO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9881",
+    "name": "PENSAMIENTO POLITICO ANTIGUO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9885",
+    "name": "MACROECONOMÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0053",
+    "name": "SEMILLERO PROCESAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO00002",
+    "name": "POLITICA (S) DEL MEDIO AMBIENTE",
+    "credits": 5,
+    "references": [
+      "DER9903"
+    ]
+  },
+  {
+    "code": "DER0056",
+    "name": "PRACTICA ELECTIVA (DESTREZAS)",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER06111",
+    "name": "FUNDAMENTOS HISTÓRICO-SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER06112",
+    "name": "INSTITUCIONES POLÍTICAS Y DERECHOS HUMAN",
+    "credits": 5,
+    "references": [
+      "DER5003"
+    ]
+  },
+  {
+    "code": "DER06113",
+    "name": "TALLER DE RAZONAMIENTO JURÍDICO",
+    "credits": 10,
+    "references": [
+      "DER5001"
+    ]
+  },
+  {
+    "code": "DER06114",
+    "name": "TALLER DE INV Y ESCRITURA LEGAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER06115",
+    "name": "COMUNICACIÓN ORAL",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER06121",
+    "name": "PERSONA Y ACTO JURÍDICO",
+    "credits": 5,
+    "references": [
+      "DER5006"
+    ]
+  },
+  {
+    "code": "DER06122",
+    "name": "DERECHO CONSTITUCIONAL ORGÁNICO",
+    "credits": 5,
+    "references": [
+      "DER5008"
+    ]
+  },
+  {
+    "code": "DER06123",
+    "name": "INTRODUCCIÓN AL DERECHO I",
+    "credits": 5,
+    "references": [
+      "DER5041"
+    ]
+  },
+  {
+    "code": "DER06124",
+    "name": "BASES GENERALES DEL DERECHO PROCESAL",
+    "credits": 5,
+    "references": [
+      "DER5011"
+    ]
+  },
+  {
+    "code": "DER06211",
+    "name": "DERECHOS REALES Y DERECHO INMOBILIARIO",
+    "credits": 5,
+    "references": [
+      "DER5014"
+    ]
+  },
+  {
+    "code": "DER06212",
+    "name": "DERECHOS FUNDAMENTALES",
+    "credits": 7,
+    "references": [
+      "DER5040"
+    ]
+  },
+  {
+    "code": "DER06213",
+    "name": "INTRODUCCIÓN AL DERECHO II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER06214",
+    "name": "ECONOMÍA Y DERECHO (FI)",
+    "credits": 5,
+    "references": [
+      "DER5009"
+    ]
+  },
+  {
+    "code": "DER9907",
+    "name": "INTERP. JURÍDICA Y DER. FUNDAMENTALES",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9908",
+    "name": "DERECHO MIGRATORIO CHILENO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9909",
+    "name": "DERECHO PENAL ECONÓMICO. PARTE GENERAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER0057",
+    "name": "COMPONENTE PSICOSOCIAL EN EL DERECHO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

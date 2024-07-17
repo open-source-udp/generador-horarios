@@ -1,0 +1,706 @@
+[
+  {
+    "code": "ICO8107",
+    "name": "ORGANIZACIÓN INDUSTRIAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8307",
+    "name": "GESTIÓN DE OPERACIONES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8404",
+    "name": "FINANZAS I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8405",
+    "name": "FINANZAS II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8406",
+    "name": "DIRECCION FINANCIERA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8503",
+    "name": "INVESTIGACIÓN DE MERCADOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8704",
+    "name": "INGLÉS IV",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8803",
+    "name": "TALLER DE ANÁLISIS DE EMPRESAS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8804",
+    "name": "JUEGO DE NEGOCIOS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ICG9039",
+    "name": "CONTROL DE GESTIÓN DE T.I.",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8892",
+    "name": "TÓPICOS EN ECONOMÍA LABORAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09111",
+    "name": "MATEMÁTICAS I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09112",
+    "name": "PROGRAMACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09113",
+    "name": "FUNDAMENTOS DE ADM. Y NEGOCIOS I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09114",
+    "name": "TALLER DE COMUNICACIÓN I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09121",
+    "name": "MATEMÁTICAS II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09122",
+    "name": "MICROECONOMÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09123",
+    "name": "CONTABILIDAD I",
+    "credits": 6,
+    "references": [
+      "ICO8401"
+    ]
+  },
+  {
+    "code": "ICO09124",
+    "name": "FUNDAMENTOS DE ADM. Y NEGOCIOS II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09211",
+    "name": "MATEMÁTICAS III",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09212",
+    "name": "ESTADÍSTICA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09213",
+    "name": "MACROECONOMÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09214",
+    "name": "TECNOLOGÍA Y EMPRESA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09215",
+    "name": "TALLER DE COMUNICACIÓN II",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09221",
+    "name": "ESTADÍSTICA II",
+    "credits": 6,
+    "references": [
+      "ICO8306"
+    ]
+  },
+  {
+    "code": "ICO09222",
+    "name": "MICROECONOMÍA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09223",
+    "name": "CONTABILIDAD II",
+    "credits": 6,
+    "references": [
+      "ICO8402"
+    ]
+  },
+  {
+    "code": "ICO09224",
+    "name": "PERSONAS Y EQUIPOS",
+    "credits": 6,
+    "references": [
+      "ICO8203"
+    ]
+  },
+  {
+    "code": "ICO09225",
+    "name": "TALLER DE LIDERAZGO Y TRABAJO EN EQUIPO",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09226",
+    "name": "INGLÉS IV",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09322",
+    "name": "GLOBALIZACIÓN Y SUSTENTABILIDAD",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09324",
+    "name": "GESTIÓN DE OPERACIONES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09323",
+    "name": "MARKETING",
+    "credits": 6,
+    "references": [
+      "ICO8501"
+    ]
+  },
+  {
+    "code": "ICO09321",
+    "name": "CIENCIA DE DATOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09411",
+    "name": "FUNDAMENTOS ECONÓMICOS DE LA ORG.",
+    "credits": 6,
+    "references": [
+      "ICO8105"
+    ]
+  },
+  {
+    "code": "ICO09412",
+    "name": "FINANZAS II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09413",
+    "name": "RECURSOS HUMANOS",
+    "credits": 6,
+    "references": [
+      "ICO8204"
+    ]
+  },
+  {
+    "code": "ICO09414",
+    "name": "TALLER EMPRENDIMIENTO",
+    "credits": 6,
+    "references": [
+      "ICO8824"
+    ]
+  },
+  {
+    "code": "ICO09415",
+    "name": "MATEMÁTICA PARA ECONOMÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09416",
+    "name": "ECONOMETRÍA II",
+    "credits": 6,
+    "references": [
+      "ICO8119"
+    ]
+  },
+  {
+    "code": "ICO09417",
+    "name": "TEORÍA DE JUEGOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09418",
+    "name": "CRECIMIENTO Y DESARROLLO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09410",
+    "name": "EMPRENDIMIENTO Y LIDERAZGO DE EQUIPOS I",
+    "credits": 24,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09421",
+    "name": "CIENCIA DE DATOS PARA LOS NEGOCIOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09422",
+    "name": "IMPLEMENTACIÓN ESTRATÉGICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09423",
+    "name": "DERECHO PARA LOS NEGOCIOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09424",
+    "name": "TALLER DE JUEGO DE NEGOCIOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09425",
+    "name": "CIENCIA DE DATOS PARA ECONOMÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09426",
+    "name": "ECO DE LA INFO Y COMPETENCIA IMPERFECTA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09427",
+    "name": "POLÍTICA ECONÓMICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09428",
+    "name": "TALLER DE SIMULACIÓN ECONÓMICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09511",
+    "name": "EMPRENDIMIENTO Y LID. DE EQUIPOS III",
+    "credits": 24,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8912",
+    "name": "ECONOMÍA DE PENSIONES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09311",
+    "name": "ECONOMETRÍA I",
+    "credits": 6,
+    "references": [
+      "ICO8106"
+    ]
+  },
+  {
+    "code": "ICO09312",
+    "name": "MACROECONOMÍA II",
+    "credits": 6,
+    "references": [
+      "ICO8104"
+    ]
+  },
+  {
+    "code": "ICO09313",
+    "name": "FINANZAS I",
+    "credits": 6,
+    "references": [
+      "ICO8403"
+    ]
+  },
+  {
+    "code": "ICO09314",
+    "name": "ESTRATEGIA",
+    "credits": 6,
+    "references": [
+      "ICO8205"
+    ]
+  },
+  {
+    "code": "ICO09315",
+    "name": "TALLER DE ÉTICA EN LA TOMA DE DECISIONES",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09316",
+    "name": "INGLÉS V",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEPO001",
+    "name": "PROYECTO 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA001",
+    "name": "PROYECTO 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND003",
+    "name": "BUSINESS ANALYTICS I",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEFI002",
+    "name": "MERCADO DE CAPITALES E INS. DE INVERSIÓN",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEPO002",
+    "name": "GESTIÓN DEL CAMBIO Y TRANSFORMACIÓN DIGI",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEPO003",
+    "name": "ESTRUCTURA Y DISEÑO DE COMPENSACIONES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEPO004",
+    "name": "ANALÍTICA DE PERSONAS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA002",
+    "name": "GESTIÓN DE PRODUCTO, MARCA Y CLIENTES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA003",
+    "name": "MARKETING DIGITAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA004",
+    "name": "MARKETING, ANALÍTICA Y MÉTRICAS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND001",
+    "name": "PROYECTO 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND002",
+    "name": "MODELOS DE NEGOCIOS DIGITALES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEFI001",
+    "name": "PROYECTO 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEFI003",
+    "name": "INSTRUMENTOS DERIVADOS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEFI004",
+    "name": "MÉTODOS ECONOMÉTRICOS EN FINANZAS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND006",
+    "name": "BUSINESS PROJECT",
+    "credits": 11,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEPO006",
+    "name": "BUSINESS PROJECT",
+    "credits": 11,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND004",
+    "name": "BUSINESS ANALYTICS II",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND005",
+    "name": "PROYECTO 2",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEPO005",
+    "name": "PROYECTO 2",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8926",
+    "name": "COMPLIANCE, ÉTICA Y BUENAS CONDUCTAS EMP",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8929",
+    "name": "ECONOMÍA AMBIENTAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG9050",
+    "name": "HERRAMIENTAS FORENSES DIGITALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG9051",
+    "name": "TOMA DE DECISIONES BASADAS EN DATOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  }
+]

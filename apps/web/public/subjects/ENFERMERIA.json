@@ -1,0 +1,232 @@
+[
+  {
+    "code": "ENF2036",
+    "name": "SEMINARIO PROFESIONAL I",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF9001",
+    "name": "ONCOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF9009",
+    "name": "SALUD OCUPACIONAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "FSO9100",
+    "name": "PRÁCTICA ELECTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF3000",
+    "name": "QUÍMICA",
+    "credits": 5,
+    "references": [
+      "ENF2000"
+    ]
+  },
+  {
+    "code": "ENF3001",
+    "name": "BIOLOGÍA",
+    "credits": 5,
+    "references": [
+      "ENF2001"
+    ]
+  },
+  {
+    "code": "ENF3002",
+    "name": "BASES TEÓRICAS DE LA ENFERMERÍA I",
+    "credits": 5,
+    "references": [
+      "ENF2002"
+    ]
+  },
+  {
+    "code": "ENF3003",
+    "name": "PRIMEROS AUXILIOS",
+    "credits": 3,
+    "references": [
+      "ENF2003"
+    ]
+  },
+  {
+    "code": "ENF3004",
+    "name": "PSICOLOGÍA EVOLUTIVA",
+    "credits": 5,
+    "references": [
+      "ENF2004"
+    ]
+  },
+  {
+    "code": "ENF3009",
+    "name": "MICROBIOLOGÍA INTEGRADA",
+    "credits": 6,
+    "references": [
+      "ENF2011"
+    ]
+  },
+  {
+    "code": "ENF3010",
+    "name": "MORFOFUNCIÓN II",
+    "credits": 8,
+    "references": [
+      "ENF2012"
+    ]
+  },
+  {
+    "code": "ENF3011",
+    "name": "CUIDADOS DE ENFERMERÍA I",
+    "credits": 9,
+    "references": [
+      "ENF2013"
+    ]
+  },
+  {
+    "code": "ENF3012",
+    "name": "COMP. GEN. PARA EL DESARROLLO PROFESIONA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF3018",
+    "name": "GES. DEL CUIDADO EN LA PERSONA ADULTA",
+    "credits": 12,
+    "references": [
+      "ENF2019"
+    ]
+  },
+  {
+    "code": "ENF3019",
+    "name": "ENFERMERÍA EN PSIQUIATRÍA",
+    "credits": 6,
+    "references": [
+      "ENF2025"
+    ]
+  },
+  {
+    "code": "ENF3020",
+    "name": "BIOÉTICA Y LEGISLACIÓN EN ENFERMERÍA",
+    "credits": 5,
+    "references": [
+      "ENF2023"
+    ]
+  },
+  {
+    "code": "ENF3021",
+    "name": "SALUD PÚBLICA",
+    "credits": 3,
+    "references": [
+      "ENF2021"
+    ]
+  },
+  {
+    "code": "ENF3026",
+    "name": "GESTIÓN DEL CUIDADO EN LA COMUNIDAD II",
+    "credits": 12,
+    "references": [
+      "ENF2024"
+    ]
+  },
+  {
+    "code": "ENF3027",
+    "name": "CALIDAD SEGURIDAD Y GESTIÓN",
+    "credits": 6,
+    "references": [
+      "ENF2026"
+    ]
+  },
+  {
+    "code": "ENF3028",
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN I",
+    "credits": 5,
+    "references": [
+      "ENF2031"
+    ]
+  },
+  {
+    "code": "ENF3033",
+    "name": "INTERNADO COMUNITARIO",
+    "credits": 25,
+    "references": [
+      "ENF2037"
+    ]
+  },
+  {
+    "code": "ENF3035",
+    "name": "INTER. INTRAHOSPITALARIO",
+    "credits": 25,
+    "references": [
+      "ENF2035"
+    ]
+  },
+  {
+    "code": "ENF3034",
+    "name": "INTER. UNIDADES CRÍTICAS Y DE URGENCIAS",
+    "credits": 10,
+    "references": [
+      "ENF2032"
+    ]
+  },
+  {
+    "code": "ENF9012",
+    "name": "ENFERMERÍA EN SALUD DIGITAL",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF9011",
+    "name": "CUIDADOS PALIATIVOS Y FIN DE LA VIDA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  }
+]

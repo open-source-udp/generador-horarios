@@ -1,0 +1,202 @@
+[
+  {
+    "code": "FGD9005",
+    "name": "CAPOEIRA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9007",
+    "name": "KARATE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9009",
+    "name": "TAE KWON DO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9011",
+    "name": "TENIS DE MESA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9012",
+    "name": "AERÓBICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9013",
+    "name": "BASQUETBOL MASCULINO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9024",
+    "name": "BASQUETBOL DAMAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9027",
+    "name": "PILATES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9028",
+    "name": "ACONDICIONAMIENTO FÍSICO I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9033",
+    "name": "YOGA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9035",
+    "name": "DANCE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9036",
+    "name": "ACTIVIDAD FÍSICA Y TRABAJO EN EQUIPOS I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9048",
+    "name": "ACONDICIONAMIENTO FÍSICO Y SALUD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9049",
+    "name": "FUTSAL MASCULINO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9051",
+    "name": "FUTSAL FEMENINO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9056",
+    "name": "PREPARACIÓN FÍSICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9057",
+    "name": "FITTBALL Y GIMNASIA CON IMPLEMENTOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9062",
+    "name": "ENTRENAMIENTO EN CIRCUITO (HUECHURABA)",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9067",
+    "name": "CURSO DEPORTIVO ZUMBA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9068",
+    "name": "CURSO DEPORTIVO TAI-CHI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9069",
+    "name": "MEDITACIÓN EN MOVIMIENTO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9070",
+    "name": "FUTBOLITO MIXTO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9071",
+    "name": "NUTRICIÓN Y VIDA SALUDABLE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9072",
+    "name": "VÓLEYBOL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FGD9073",
+    "name": "MINDFULNESS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

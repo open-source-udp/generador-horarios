@@ -1,0 +1,2921 @@
+[
+  {
+    "code": "EDB4007_VC01",
+    "subjectCode": "EDB4007",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE LA HOZ SILVANA MARCELA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DE LA HOZ SILVANA MARCELA"
+      }
+    ]
+  },
+  {
+    "code": "EDB4007_VC02",
+    "subjectCode": "EDB4007",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDB4007_VC03",
+    "subjectCode": "EDB4007",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CAMPOS MICHEL CAROLINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CAMPOS MICHEL CAROLINA"
+      }
+    ]
+  },
+  {
+    "code": "EDB4008_CA01",
+    "subjectCode": "EDB4008",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      }
+    ]
+  },
+  {
+    "code": "EDB4008_CA02",
+    "subjectCode": "EDB4008",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      }
+    ]
+  },
+  {
+    "code": "EDB4008_CA03",
+    "subjectCode": "EDB4008",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      }
+    ]
+  },
+  {
+    "code": "EDB4018_CA01",
+    "subjectCode": "EDB4018",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ESPINOSA MARIA JESUS"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ESPINOSA MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "EDB4018_CA02",
+    "subjectCode": "EDB4018",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ESPINOSA MARIA JESUS"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ESPINOSA MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "EDB4018_CA03",
+    "subjectCode": "EDB4018",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "DE LA HOZ SILVANA MARCELA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "DE LA HOZ SILVANA MARCELA"
+      }
+    ]
+  },
+  {
+    "code": "EDB4019_CA01",
+    "subjectCode": "EDB4019",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDB4019_AU01",
+    "subjectCode": "EDB4019",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDB4019_CA02",
+    "subjectCode": "EDB4019",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDB4019_AU02",
+    "subjectCode": "EDB4019",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERINO RICHARD CARLOS"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDB4019_CA03",
+    "subjectCode": "EDB4019",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDB4019_AU03",
+    "subjectCode": "EDB4019",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1000_VC01",
+    "subjectCode": "EDD1000",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CONTRERAS VALENTINA INÉS"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CONTRERAS VALENTINA INÉS"
+      }
+    ]
+  },
+  {
+    "code": "EDD1001_VC01",
+    "subjectCode": "EDD1001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1001_FG01",
+    "subjectCode": "EDD1001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1001_VB01",
+    "subjectCode": "EDD1001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1001_VC02",
+    "subjectCode": "EDD1001",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "SAN MARTIN CONSTANZA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1002_VC01",
+    "subjectCode": "EDD1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES RODRIGO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "EDD1002_FG01",
+    "subjectCode": "EDD1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES RODRIGO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "EDD1002_VB",
+    "subjectCode": "EDD1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES RODRIGO ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "EDD1006_VC01",
+    "subjectCode": "EDD1006",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARIELA MACARENA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARIELA MACARENA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARIELA MACARENA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1006_VC02",
+    "subjectCode": "EDD1006",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "OSORIO MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "OSORIO MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1006_VC03",
+    "subjectCode": "EDD1006",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "OSORIO MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1006_VC04",
+    "subjectCode": "EDD1006",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "OSORIO MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1006_VC05",
+    "subjectCode": "EDD1006",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "HIDALGO TERESA IRENE"
+      }
+    ]
+  },
+  {
+    "code": "EDD1006_VC06",
+    "subjectCode": "EDD1006",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "HIDALGO TERESA IRENE"
+      }
+    ]
+  },
+  {
+    "code": "EDD1006_VC07",
+    "subjectCode": "EDD1006",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARIELA MACARENA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARIELA MACARENA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARIELA MACARENA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1007_VC01",
+    "subjectCode": "EDD1007",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1007_VC02",
+    "subjectCode": "EDD1007",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1012_VC01",
+    "subjectCode": "EDD1012",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PESTAN BEATRIZ MACARENA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PESTAN BEATRIZ MACARENA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PESTAN BEATRIZ MACARENA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PESTAN BEATRIZ MACARENA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CAVIEDES CLAUDIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1012_VC02",
+    "subjectCode": "EDD1012",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SANTIS KATINA VALESKA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ORTEGA LUZ MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ORTEGA LUZ MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ORTEGA LUZ MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ORTEGA LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1012_VC03",
+    "subjectCode": "EDD1012",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "VILLALOBOS ANDREA CAROLINA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1012_VC04",
+    "subjectCode": "EDD1012",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ORTIZ RIGOBERTO EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ORTIZ RIGOBERTO EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ORTIZ RIGOBERTO EDUARDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ORTIZ RIGOBERTO EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "CAVIEDES CLAUDIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1012_VC05",
+    "subjectCode": "EDD1012",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "SANTIS KATINA VALESKA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "ORTEGA LUZ MARIA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "ORTEGA LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1016_VC01",
+    "subjectCode": "EDD1016",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "AREVALO RITA ISABEL MARGARITA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLALOBOS ANDREA CAROLINA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLALOBOS ANDREA CAROLINA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLALOBOS ANDREA CAROLINA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLALOBOS ANDREA CAROLINA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1016_VC02",
+    "subjectCode": "EDD1016",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SANTIS KATINA VALESKA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SANTIS KATINA VALESKA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "COLLIN JESSICA DEL PILAR"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "COLLIN JESSICA DEL PILAR"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "COLLIN JESSICA DEL PILAR"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "COLLIN JESSICA DEL PILAR"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1016_VC03",
+    "subjectCode": "EDD1016",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "AREVALO RITA ISABEL MARGARITA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "AREVALO RITA ISABEL MARGARITA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "AREVALO RITA ISABEL MARGARITA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "AREVALO RITA ISABEL MARGARITA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PESTAN BEATRIZ MACARENA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PESTAN BEATRIZ MACARENA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CAVIEDES CLAUDIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1016_VC04",
+    "subjectCode": "EDD1016",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SANTIS KATINA VALESKA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SANTIS KATINA VALESKA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "HUERTA LORENA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "HUERTA LORENA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1028_VC01",
+    "subjectCode": "EDD1028",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MURILLO ALIN JAVIERA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MURILLO ALIN JAVIERA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SANTIBAÑEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SANTIBAÑEZ CAROLINA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1028_VC02",
+    "subjectCode": "EDD1028",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SANTIBAÑEZ CAROLINA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SANTIBAÑEZ CAROLINA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1001_VC01",
+    "subjectCode": "CIG1001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC01",
+    "subjectCode": "CIG1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC10",
+    "subjectCode": "CIG1002",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC11",
+    "subjectCode": "CIG1002",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC12",
+    "subjectCode": "CIG1002",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC13",
+    "subjectCode": "CIG1002",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC14",
+    "subjectCode": "CIG1002",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC15",
+    "subjectCode": "CIG1002",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC16",
+    "subjectCode": "CIG1002",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC17",
+    "subjectCode": "CIG1002",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC18",
+    "subjectCode": "CIG1002",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC19",
+    "subjectCode": "CIG1002",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC02",
+    "subjectCode": "CIG1002",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC20",
+    "subjectCode": "CIG1002",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 20",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 20",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC21",
+    "subjectCode": "CIG1002",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC22",
+    "subjectCode": "CIG1002",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 22",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 22",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC03",
+    "subjectCode": "CIG1002",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC04",
+    "subjectCode": "CIG1002",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC05",
+    "subjectCode": "CIG1002",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC06",
+    "subjectCode": "CIG1002",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC07",
+    "subjectCode": "CIG1002",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC08",
+    "subjectCode": "CIG1002",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC09",
+    "subjectCode": "CIG1002",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC01",
+    "subjectCode": "CIG1003",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC10",
+    "subjectCode": "CIG1003",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC11",
+    "subjectCode": "CIG1003",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC12",
+    "subjectCode": "CIG1003",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC13",
+    "subjectCode": "CIG1003",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC14",
+    "subjectCode": "CIG1003",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC15",
+    "subjectCode": "CIG1003",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC16",
+    "subjectCode": "CIG1003",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC17",
+    "subjectCode": "CIG1003",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "TIZIANI JOSE MARIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "TIZIANI JOSE MARIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC18",
+    "subjectCode": "CIG1003",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC19",
+    "subjectCode": "CIG1003",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC02",
+    "subjectCode": "CIG1003",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC20",
+    "subjectCode": "CIG1003",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CATEDRA INGLES 20",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CATEDRA INGLES 20",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC21",
+    "subjectCode": "CIG1003",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_CB03",
+    "subjectCode": "CIG1003",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES B-LEARNING SECCIÓN 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES B-LEARNING SECCIÓN 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC04",
+    "subjectCode": "CIG1003",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC05",
+    "subjectCode": "CIG1003",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC06",
+    "subjectCode": "CIG1003",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC07",
+    "subjectCode": "CIG1003",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC08",
+    "subjectCode": "CIG1003",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC09",
+    "subjectCode": "CIG1003",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "EDU9205_VC01",
+    "subjectCode": "EDU9205",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OTAEGUI MARIA ALICIA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OTAEGUI MARIA ALICIA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1030_VC01",
+    "subjectCode": "EDD1030",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1030_FG01",
+    "subjectCode": "EDD1030",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1030_BAC1",
+    "subjectCode": "EDD1030",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1030_VC02",
+    "subjectCode": "EDD1030",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1031_VC01",
+    "subjectCode": "EDD1031",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORDENES MIGUEL ANGEL"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORDENES MIGUEL ANGEL"
+      }
+    ]
+  },
+  {
+    "code": "EDD1031_FG01",
+    "subjectCode": "EDD1031",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORDENES MIGUEL ANGEL"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORDENES MIGUEL ANGEL"
+      }
+    ]
+  },
+  {
+    "code": "EDD1031_VB01",
+    "subjectCode": "EDD1031",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORDENES MIGUEL ANGEL"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORDENES MIGUEL ANGEL"
+      }
+    ]
+  },
+  {
+    "code": "EDD1031_VC02",
+    "subjectCode": "EDD1031",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1031_VB02",
+    "subjectCode": "EDD1031",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1031_FG02",
+    "subjectCode": "EDD1031",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDD1032_VC01",
+    "subjectCode": "EDD1032",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TERAN LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TERAN LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1032_VC02",
+    "subjectCode": "EDD1032",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "TERAN LUZ MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "TERAN LUZ MARIA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1034_VC01",
+    "subjectCode": "EDD1034",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MORALES ALEJANDRA EUGENIA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MORALES ALEJANDRA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "EDD1035_VC01",
+    "subjectCode": "EDD1035",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA_01",
+        "isMandatory": true,
+        "teacher": "PANIAGUA XIMENA LORETO"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA_01",
+        "isMandatory": true,
+        "teacher": "PANIAGUA XIMENA LORETO"
+      }
+    ]
+  },
+  {
+    "code": "EDD1036_VC01",
+    "subjectCode": "EDD1036",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA IGNACIO AGUSTIN"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA IGNACIO AGUSTIN"
+      }
+    ]
+  }
+]

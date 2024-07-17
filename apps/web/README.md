@@ -1,28 +1,78 @@
-## Getting Started
+# My Next.js App
 
-First, run the development server:
+This is a Next.js project scaffolded with TypeScript, Material-UI (MUI), and follows the Model-View-Controller (MVC) architecture.
 
-```bash
-yarn dev
+## Project Structure
+
+```
+my-nextjs-app
+├── pages
+│   ├── _app.tsx
+│   ├── index.tsx
+├── public
+├── src
+│   ├── components
+│   ├── controllers
+│   ├── models
+│   ├── views
+├── styles
+│   ├── Home.module.css
+├── node_modules
+├── package.json
+├── tsconfig.json
+├── next.config.js
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Description
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `pages/_app.tsx`: Main entry point for the Next.js application. It initializes pages and allows for global CSS.
+- `pages/index.tsx`: Home page of the Next.js application. It is the default route (`/`).
+- `public`: Directory where static files are stored in Next.js.
+- `src/components`: Directory where reusable React components are stored.
+- `src/controllers`: Directory where the logic for handling requests and responses is stored, following the MVC architecture.
+- `src/models`: Directory where the data models are stored, following the MVC architecture.
+- `src/views`: Directory where the visual templates (React components) are stored, following the MVC architecture.
+- `styles/Home.module.css`: File contains CSS styles for the home page.
+- `node_modules`: Directory where the dependencies of the project are stored.
+- `package.json`: Configuration file for npm. It lists the dependencies and scripts for the project.
+- `tsconfig.json`: Configuration file for TypeScript. It specifies the compiler options and the files to include in the compilation.
+- `next.config.js`: Configuration file for Next.js. It allows for custom advanced behavior of Next.js.
 
-To create [API routes](https://nextjs.org/docs/app/building-your-application/routing/router-handlers) add an `api/` directory to the `app/` directory with a `route.ts` file. For individual endpoints, create a subfolder in the `api` directory, like `api/hello/route.ts` would map to [http://localhost:3000/api/hello](http://localhost:3000/api/hello).
+## Installation
 
-## Learn More
+To install the dependencies, run the following command:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm install
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn/foundations/about-nextjs) - an interactive Next.js tutorial.
+## Running the Application
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To start the application, run the following command:
 
-## Deploy on Vercel
+```bash
+npm run dev
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_source=github.com&utm_medium=referral&utm_campaign=turborepo-readme) from the creators of Next.js.
+The application will start on `http://localhost:3000`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Building the Application
+
+To build the application for production, run the following command:
+
+```bash
+npm run build
+```
+
+## Testing the Application
+
+To test the application, run the following command:
+
+```bash
+npm run test
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)

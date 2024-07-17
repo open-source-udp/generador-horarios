@@ -1,0 +1,232 @@
+[
+  {
+    "code": "KIN0902",
+    "name": "KINESIOLOGÍA DEPORTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1004",
+    "name": "MATEMÁTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1011",
+    "name": "BASES DEL MOVIMIENTO HUMANO I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1012",
+    "name": "SALUD PÚBLICA Y EPIDEMIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1020",
+    "name": "ANÁLISIS DEL MOVIMIENTO HUMANO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1021",
+    "name": "EVALUACIÓN MUSCULOESQUELÉTICA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1022",
+    "name": "FISIOLOGÍA DE LA ACTIVIDAD FÍSICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1023",
+    "name": "EVALUACIÓN CARDIORESPIRATORIA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1024",
+    "name": "DISFUNCIÓN EN NEUROKINESIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1030",
+    "name": "INTERVENCIÓN KINÉSICA MUSCULOESQUELÉTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1031",
+    "name": "FISIOTERAPIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1032",
+    "name": "INTERVENCIÓN KINÉSICA CARDIORESPIRATORIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1033",
+    "name": "INTERVENCIÓN EN NEUROKINESIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1034",
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN 1 : SALU",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0904",
+    "name": "DEPORTE ADAPTADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "FSO9100",
+    "name": "PRÁCTICA ELECTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0914",
+    "name": "PRESCRIPCION DE EJERCICIO FISICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN02111",
+    "name": "MORFOFUNCIÓN I",
+    "credits": 8,
+    "references": [
+      "KIN1001"
+    ]
+  },
+  {
+    "code": "KIN02112",
+    "name": "BIOLOGÍA CELULAR Y MOLECULAR",
+    "credits": 5,
+    "references": [
+      "KIN1003"
+    ]
+  },
+  {
+    "code": "KIN02113",
+    "name": "BASES MATEMÁTICAS Y BIOFÍSICAS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN02114",
+    "name": "FUNDAMENTOS DE LA KINESIOLOGÍA",
+    "credits": 5,
+    "references": [
+      "KIN1005"
+    ]
+  },
+  {
+    "code": "KIN02211",
+    "name": "FUNCIONAMIENTO HUMANO Y SALUD",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN02212",
+    "name": "DESEMPEÑO SENSORIOMOTOR EN KINESIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0915",
+    "name": "ERGONOMÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0917",
+    "name": "KINESIOLOGÍA EN PERSONA MAYOR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

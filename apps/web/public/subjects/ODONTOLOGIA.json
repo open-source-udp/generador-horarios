@@ -1,0 +1,114 @@
+[
+  {
+    "code": "ODT3001",
+    "name": "MORFOFUNCIÓN I",
+    "credits": 11,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3002",
+    "name": "MATEMÁTICAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3003",
+    "name": "BIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3004",
+    "name": "QUÍMICA GENERAL Y ORGÁNICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3005",
+    "name": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3010",
+    "name": "ANATOMÍA APLICADA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3011",
+    "name": "MICROBIOLOGÍA Y PARASITOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3012",
+    "name": "PATOLOGÍA GENERAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3014",
+    "name": "BIOÉTICA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3019",
+    "name": "DIAGNÓSTICO POR IMÁGENES I",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3021",
+    "name": "PATOLOGÍA ORAL II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3035",
+    "name": "PROMOCIÓNY PREVENCIÓN EN SALUD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3036",
+    "name": "INGLÉS II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3041",
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "code": "EDP4000",
+    "name": "APRENDIZAJE Y DESARROLLO I NEUROCIENCIAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4001",
+    "name": "LITERATURA INFANTIL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4002",
+    "name": "CURRÍCULO PARA LA EDUCACIÓN PARVULARÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4003",
+    "name": "SIST. ED. Y P. PÚBLICAS PARA LA INFANCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4008",
+    "name": "APRENDIZAJE Y DESARROLLO III: PSICOMOTRI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4009",
+    "name": "LENGUAJE ARTÍSTICO II: EXPRESIÓN MUSICAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4010",
+    "name": "ADQUISICIÓN DEL LEGUAJE: PRAGMÁTICO Y S",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4011",
+    "name": "CONST. CONOC. MAT. I: FUND.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4012",
+    "name": "NECESIDADES EDUCATIVAS ESPECIALES EN EDU",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4018",
+    "name": "ENSEÑANZA DEL MUNDO SOCIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4019",
+    "name": "ALFABETIZACIÓN EMERGENTE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4020",
+    "name": "CONST. CONOC. MAT. III: ESPACIO Y GEOM",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4021",
+    "name": "FORMACIÓN PRÁCTICA 2",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4027",
+    "name": "MÉTODOS DE INVESTIGACIÓN EN EDUCACIÓN",
+    "credits": 5,
+    "references": [
+      "EDP3025"
+    ]
+  },
+  {
+    "code": "EDP4028",
+    "name": "LIDERAZGO Y GESTIÓN EN EDUC. PARVULARIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4029",
+    "name": "PRÁCTICA PROFESIONAL I",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDU4000",
+    "name": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDU4001",
+    "name": "EDUCACIÓN EN DERECHOS HUMANOS Y DIVERSID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "EDU9205",
+    "name": "EDUCACIÓN SEXUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1039",
+    "name": "GESTIÓN DE AULA Y TRABAJO COLABORATORIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

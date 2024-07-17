@@ -1,0 +1,1129 @@
+[
+  {
+    "code": "INL1900_VC01",
+    "subjectCode": "INL1900",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_02",
+    "subjectCode": "INL1900",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_03",
+    "subjectCode": "INL1900",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_04",
+    "subjectCode": "INL1900",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_05",
+    "subjectCode": "INL1900",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_06",
+    "subjectCode": "INL1900",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_07",
+    "subjectCode": "INL1900",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 07",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_08",
+    "subjectCode": "INL1900",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL1900_09",
+    "subjectCode": "INL1900",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EVE0101_VC03",
+    "subjectCode": "EVE0101",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 3",
+        "isMandatory": true,
+        "teacher": "OLGUIN MARIO"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 3",
+        "isMandatory": true,
+        "teacher": "OLGUIN MARIO"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "AYUDANTÍA OBLIGATORIA 03",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 1",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 1",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "AYUDANTÍA OBLIGATORIA 1",
+        "isMandatory": true,
+        "teacher": "URREA JOSÉ DAVID"
+      }
+    ]
+  },
+  {
+    "code": "EVE0101_FG01",
+    "subjectCode": "EVE0101",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 1",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 1",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "AYUDANTÍA OBLIGATORIA 1",
+        "isMandatory": true,
+        "teacher": "URREA JOSÉ DAVID"
+      }
+    ]
+  },
+  {
+    "code": "IVE4101_CA01",
+    "subjectCode": "IVE4101",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA_01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ SOFIA IGNACIA"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA_01",
+        "isMandatory": true,
+        "teacher": "MARTINEZ SOFIA IGNACIA"
+      },
+      {
+        "day": "MI",
+        "block": "J",
+        "description": "AYUDANTIA OBLIGATORIA_01",
+        "isMandatory": true,
+        "teacher": "SALAMANCA CATALINA AYLEEN"
+      }
+    ]
+  },
+  {
+    "code": "INL3403_01",
+    "subjectCode": "INL3403",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CANABES RENATO ADOLFO RAFAEL"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CANABES RENATO ADOLFO RAFAEL"
+      }
+    ]
+  },
+  {
+    "code": "IVE4201_01",
+    "subjectCode": "IVE4201",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ALEJANDRO AUGUSTO"
+      },
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ALEJANDRO AUGUSTO"
+      },
+      {
+        "day": "JU",
+        "block": "J",
+        "description": "AYUDANTIA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "MIRANDA MOISÉS AARÓN"
+      }
+    ]
+  },
+  {
+    "code": "IVE4201_FG1",
+    "subjectCode": "IVE4201",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ALEJANDRO AUGUSTO"
+      },
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ALEJANDRO AUGUSTO"
+      },
+      {
+        "day": "JU",
+        "block": "J",
+        "description": "AYUDANTIA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "MIRANDA MOISÉS AARÓN"
+      }
+    ]
+  },
+  {
+    "code": "IVE4301_01",
+    "subjectCode": "IVE4301",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ RAFAEL MANUEL"
+      },
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ RAFAEL MANUEL"
+      },
+      {
+        "day": "JU",
+        "block": "J",
+        "description": "AYUDANTIA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "GONZALES GIULLIANA"
+      }
+    ]
+  },
+  {
+    "code": "IVE2702_VC01",
+    "subjectCode": "IVE2702",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MARTEL BASTIAN FELIPE"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MARTEL BASTIAN FELIPE"
+      },
+      {
+        "day": "MA",
+        "block": "J",
+        "description": "AYUDANTIA OBLIGATORIA",
+        "isMandatory": true,
+        "teacher": "GARCÍA FELIPE IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "IVE2603_VC01",
+    "subjectCode": "IVE2603",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ROBOTHAM HUGO EDUARDO"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ROBOTHAM HUGO EDUARDO"
+      },
+      {
+        "day": "VI",
+        "block": "J",
+        "description": "AYUDANTIA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "ACOSTA VALENTÍN"
+      }
+    ]
+  },
+  {
+    "code": "INL7605_CAT0",
+    "subjectCode": "INL7605",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL3801_VC01",
+    "subjectCode": "INL3801",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES GUILLERMO ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES GUILLERMO ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "INL3902_VC01",
+    "subjectCode": "INL3902",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PASTEN ALEXIS HERNAN"
+      },
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PASTEN ALEXIS HERNAN"
+      }
+    ]
+  },
+  {
+    "code": "INL3113_VC01",
+    "subjectCode": "INL3113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BARRIGA OSCAR ALFREDO"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BARRIGA OSCAR ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "INL7801_CAT0",
+    "subjectCode": "INL7801",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA_01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC10",
+    "subjectCode": "INL7801",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 10",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC11",
+    "subjectCode": "INL7801",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 11",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC12",
+    "subjectCode": "INL7801",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 12",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC13",
+    "subjectCode": "INL7801",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 13",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC14",
+    "subjectCode": "INL7801",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 14",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC15",
+    "subjectCode": "INL7801",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 15",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC16",
+    "subjectCode": "INL7801",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 16",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC17",
+    "subjectCode": "INL7801",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 17",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC18",
+    "subjectCode": "INL7801",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 18",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC19",
+    "subjectCode": "INL7801",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 19",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_CAT2",
+    "subjectCode": "INL7801",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA_02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC20",
+    "subjectCode": "INL7801",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 20",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_CAT3",
+    "subjectCode": "INL7801",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA_03",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_CAT4",
+    "subjectCode": "INL7801",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA_04",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_CAT5",
+    "subjectCode": "INL7801",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA_05",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_CAT6",
+    "subjectCode": "INL7801",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA_06",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_CAT7",
+    "subjectCode": "INL7801",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA_07",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC08",
+    "subjectCode": "INL7801",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 08",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "INL7801_VC09",
+    "subjectCode": "INL7801",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 09",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "IIG4001_VC01",
+    "subjectCode": "IIG4001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "J",
+        "description": "AYUDANTÍA OBLIGATORIA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "RIQUELME RAUL ANTONIO"
+      },
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "RIQUELME RAUL ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "INL4080_CAT0",
+    "subjectCode": "INL4080",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CANABES RENATO ADOLFO RAFAEL"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CANABES RENATO ADOLFO RAFAEL"
+      }
+    ]
+  },
+  {
+    "code": "EVE5802_VC01",
+    "subjectCode": "EVE5802",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA1",
+        "isMandatory": true,
+        "teacher": "DÍAZ JUAN ESTEBAN"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA1",
+        "isMandatory": true,
+        "teacher": "DÍAZ JUAN ESTEBAN"
+      }
+    ]
+  },
+  {
+    "code": "EVE5804_VC01",
+    "subjectCode": "EVE5804",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FARIAS JOSE LUIS"
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FARIAS JOSE LUIS"
+      }
+    ]
+  },
+  {
+    "code": "EVE5806_VC01",
+    "subjectCode": "EVE5806",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CASTRO FELIPE"
+      },
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CASTRO FELIPE"
+      }
+    ]
+  },
+  {
+    "code": "CAV00006_VC1",
+    "subjectCode": "CAV00006",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GANGAS JUAN BAUTISTA"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GANGAS JUAN BAUTISTA"
+      }
+    ]
+  },
+  {
+    "code": "EVE08111_VC2",
+    "subjectCode": "EVE08111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "MA",
+        "block": "J",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": "URREA JOSÉ DAVID"
+      }
+    ]
+  },
+  {
+    "code": "EVE08111_VC1",
+    "subjectCode": "EVE08111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MESSER VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MESSER VILMA"
+      },
+      {
+        "day": "VI",
+        "block": "J",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "URREA JOSÉ DAVID"
+      }
+    ]
+  },
+  {
+    "code": "EVE08111_VC3",
+    "subjectCode": "EVE08111",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "AYUDANTÍA OBLIGATORIA",
+        "isMandatory": true,
+        "teacher": "MIRANDA MOISÉS AARÓN"
+      }
+    ]
+  },
+  {
+    "code": "INL03112_VC1",
+    "subjectCode": "INL03112",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CANABES RENATO ADOLFO RAFAEL"
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CANABES RENATO ADOLFO RAFAEL"
+      }
+    ]
+  },
+  {
+    "code": "INL03113_VC1",
+    "subjectCode": "INL03113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CACERES LUIS DOMINGO"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CACERES LUIS DOMINGO"
+      },
+      {
+        "day": "JU",
+        "block": "J",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "IVE03111_VC1",
+    "subjectCode": "IVE03111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES GUILLERMO ANTONIO"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES GUILLERMO ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "IVE03111_FG1",
+    "subjectCode": "IVE03111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES GUILLERMO ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "TALLER 01",
+        "isMandatory": true,
+        "teacher": "OLIVARES GUILLERMO ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "IVE03111_VC2",
+    "subjectCode": "IVE03111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GUZMAN MARCIA IVONNE"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "GUZMAN MARCIA IVONNE"
+      }
+    ]
+  },
+  {
+    "code": "IVE03111_FG2",
+    "subjectCode": "IVE03111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GUZMAN MARCIA IVONNE"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "TALLER 02",
+        "isMandatory": true,
+        "teacher": "GUZMAN MARCIA IVONNE"
+      }
+    ]
+  },
+  {
+    "code": "IVE03123_VC1",
+    "subjectCode": "IVE03123",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "VI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MUÑOZ JUAN ALBERTO"
+      },
+      {
+        "day": "MA",
+        "block": "J",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": "MIRANDA MOISÉS AARÓN"
+      }
+    ]
+  }
+]

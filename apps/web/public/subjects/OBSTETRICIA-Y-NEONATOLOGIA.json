@@ -1,0 +1,208 @@
+[
+  {
+    "code": "OBS0001",
+    "name": "GESTACIÓN CONSCIENTE Y PARTO RESPETADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS0002",
+    "name": "INTRODUCCIÓN A LA ULTRASONOGRAFÍA OBSTÉT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2020",
+    "name": "BIOESTADÍSTICA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2021",
+    "name": "CLÍNICA I",
+    "credits": 23,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2022",
+    "name": "GESTIÓN EN SALUD III",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2028",
+    "name": "INVESTIGACIÓN CUALITATIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2029",
+    "name": "GINECOLOGÍA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2030",
+    "name": "BIOÉTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2031",
+    "name": "MEDICINA LEGAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2034",
+    "name": "INTERNADO DE NEONATOLOGÍA",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2035",
+    "name": "INTERNADO DE ATENCIÓN PRIMARIA URBANA Y",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "OBS2036",
+    "name": "INTERNADO DE GINECOLOGÍA",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2037",
+    "name": "INTERNADO DE OBSTETRICIA",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FSO9100",
+    "name": "PRÁCTICA ELECTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03111",
+    "name": "BASES CIENTÍFICAS DEL FUNC. HUMANO",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03112",
+    "name": "CUIDADOS EN SALUD MENTAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03113",
+    "name": "FUNDAMENTOS DE LA MATRONERÍA",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03114",
+    "name": "SALUD CON PERSPECTIVA DE GÉNERO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03211",
+    "name": "MORFOFUNCIÓN II",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03212",
+    "name": "CUIDADO INTEGRAL DE LA/EL RN SANO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03213",
+    "name": "CUID. INTEG. EN EL PERÍODO GRÁVIDO PUERP",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03214",
+    "name": "ATENCIÓN EN SALUD REPRODUCTIVA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  }
+]

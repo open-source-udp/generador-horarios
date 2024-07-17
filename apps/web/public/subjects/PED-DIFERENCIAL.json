@@ -1,0 +1,186 @@
+[
+  {
+    "code": "EDB4007",
+    "name": "ADQUI. LENGUA ORAL Y ESCRITA F. PRÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4008",
+    "name": "MATEMÁTICAS 2: GEOMETRÍA I Y SU DIDÁCTIC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4018",
+    "name": "ESCRITURA Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4019",
+    "name": "MATEMÁTICAS 4: GEOMETRÍA II Y SU DIDÁCTI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1000",
+    "name": "APRENDIZAJE Y DESARROLLO 1:FUNCIONAMIENT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1001",
+    "name": "POLÍTICAS EDUCATIVAS Y EDUCACIÓN ESPECIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1002",
+    "name": "FUNDAMENTOS DISCIPLINARIOS DE LA EDUCACI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1006",
+    "name": "FORMACIÓN PRÁCTICA 2",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1007",
+    "name": "APRENDIZAJE Y DESARROLLO 3: DESARROLLO A",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1012",
+    "name": "FORMACIÓN PRÁCTICA 4: EVALUACIÓN PSICOPE",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1016",
+    "name": "PRÁCTICA PROFESIONAL 1: FLEXIBILIZACIÓN",
+    "credits": 12,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1028",
+    "name": "DIDÁCTICAS PARA LA COMPRENSIÓN DEL MEDIO",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "EDU9205",
+    "name": "EDUCACIÓN SEXUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1030",
+    "name": "PSICOLOGÍA DEL APRENDIZAJE Y DEL DES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1031",
+    "name": "INVEST-ACCIÓN EN EL CONTEXTO ESCOLAR",
+    "credits": 5,
+    "references": [
+      "EDD1026"
+    ]
+  },
+  {
+    "code": "EDD1032",
+    "name": "DIDACTICA DEL LENGUAJE  Y COMUNICACIÓN",
+    "credits": 5,
+    "references": [
+      "EDD1013"
+    ]
+  },
+  {
+    "code": "EDD1034",
+    "name": "DESARROLLO COGNITIVO 2",
+    "credits": 5,
+    "references": [
+      "EDD1017"
+    ]
+  },
+  {
+    "code": "EDD1035",
+    "name": "DIDÁCTICA DE LA MATEMÁTICA",
+    "credits": 4,
+    "references": [
+      "EDD1018"
+    ]
+  },
+  {
+    "code": "EDD1036",
+    "name": "DISEÑO DE UN PROYECTO DE INV ACCIÓN",
+    "credits": 4,
+    "references": [
+      "EDD1019"
+    ]
+  }
+]

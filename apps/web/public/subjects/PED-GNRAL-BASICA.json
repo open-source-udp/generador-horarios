@@ -1,0 +1,186 @@
+[
+  {
+    "code": "EDB4000",
+    "name": "LITERATURA INFANTIL Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4001",
+    "name": "PSICOLOGÍA DEL DESARROLLO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4002",
+    "name": "CURRÍCULUM PARA ED. BÁSICA. F. PRÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4007",
+    "name": "ADQUI. LENGUA ORAL Y ESCRITA F. PRÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4008",
+    "name": "MATEMÁTICAS 2: GEOMETRÍA I Y SU DIDÁCTIC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4009",
+    "name": "C. NATURALES 1: UNIV., TIERRA Y AMBIENTE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4010",
+    "name": "E. SOCIALES 1: C. SOCIALES Y SU DIDACT.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4017",
+    "name": "FORMACIÓN PRÁCTICA. FOCO: MATEMÁTICAS.",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4018",
+    "name": "ESCRITURA Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4019",
+    "name": "MATEMÁTICAS 4: GEOMETRÍA II Y SU DIDÁCTI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4020",
+    "name": "EVALUACIÓN PARA EL APRENDIZAJE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4026",
+    "name": "PRÁCTICA PROFESIONAL I",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4027",
+    "name": "MÉTODOS DE INVESTIGACIÓN EN EDUCACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4028",
+    "name": "JEFATURA DE CURSO Y CLIMA DE AULA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1006",
+    "name": "FORMACIÓN PRÁCTICA 2",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDU4000",
+    "name": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDU4001",
+    "name": "EDUCACIÓN EN DERECHOS HUMANOS Y DIVERSID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "EDU9205",
+    "name": "EDUCACIÓN SEXUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1039",
+    "name": "GESTIÓN DE AULA Y TRABAJO COLABORATORIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

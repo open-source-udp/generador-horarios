@@ -1,0 +1,758 @@
+[
+  {
+    "code": "FGS90005_VC0",
+    "subjectCode": "FGD9005",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PIRANGI ORMANDO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PIRANGI ORMANDO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9007_FG01",
+    "subjectCode": "FGD9007",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SOFFIA MIGUEL ANGEL"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SOFFIA MIGUEL ANGEL"
+      }
+    ]
+  },
+  {
+    "code": "FGD9009_FG01",
+    "subjectCode": "FGD9009",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "REYES ERNESTO CRISTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "REYES ERNESTO CRISTIAN"
+      }
+    ]
+  },
+  {
+    "code": "FGD9009_FG02",
+    "subjectCode": "FGD9009",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "REYES ERNESTO CRISTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "REYES ERNESTO CRISTIAN"
+      }
+    ]
+  },
+  {
+    "code": "FGD9011_FG01",
+    "subjectCode": "FGD9011",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "FGD9012_FG01",
+    "subjectCode": "FGD9012",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO MONICA SOLEDAD"
+      },
+      {
+        "day": "VI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO MONICA SOLEDAD"
+      }
+    ]
+  },
+  {
+    "code": "FGD9012_FG02",
+    "subjectCode": "FGD9012",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO MONICA SOLEDAD"
+      }
+    ]
+  },
+  {
+    "code": "FGD9013_FG01",
+    "subjectCode": "FGD9013",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOSQUEIRA MARCELO ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOSQUEIRA MARCELO ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9024_FG01",
+    "subjectCode": "FGD9024",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOSQUEIRA MARCELO ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MOSQUEIRA MARCELO ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9027_FG01",
+    "subjectCode": "FGD9027",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CACERES LORENA CECILIA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CACERES LORENA CECILIA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9027_FG02",
+    "subjectCode": "FGD9027",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CACERES LORENA CECILIA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CACERES LORENA CECILIA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9027_FG03",
+    "subjectCode": "FGD9027",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CACERES LORENA CECILIA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CACERES LORENA CECILIA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9028_FG01",
+    "subjectCode": "FGD9028",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ CARLOS EDUARDO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ CARLOS EDUARDO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9028_FG02",
+    "subjectCode": "FGD9028",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9028_FG03",
+    "subjectCode": "FGD9028",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "HERRERA FELIPE MARTINIANO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "HERRERA FELIPE MARTINIANO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9033_FG01",
+    "subjectCode": "FGD9033",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CARO PAULA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CARO PAULA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9033_VC02",
+    "subjectCode": "FGD9033",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CARO PAULA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CARO PAULA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9033_FG03",
+    "subjectCode": "FGD9033",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CARO PAULA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CARO PAULA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9035_FG01",
+    "subjectCode": "FGD9035",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARANCIBIA CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARANCIBIA CAROLINA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9036_FG01",
+    "subjectCode": "FGD9036",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ CARLOS EDUARDO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ CARLOS EDUARDO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9048_FG01",
+    "subjectCode": "FGD9048",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MORAGA HECTOR RAMON"
+      }
+    ]
+  },
+  {
+    "code": "FGD9048_FG02",
+    "subjectCode": "FGD9048",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MORAGA HECTOR RAMON"
+      }
+    ]
+  },
+  {
+    "code": "FGD9048_FG03",
+    "subjectCode": "FGD9048",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CARRASCO MARIO ARTURO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CARRASCO MARIO ARTURO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9049_FG01",
+    "subjectCode": "FGD9049",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HERRERA FELIPE MARTINIANO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HERRERA FELIPE MARTINIANO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9049_FG02",
+    "subjectCode": "FGD9049",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9051_FG01",
+    "subjectCode": "FGD9051",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9056_FG01",
+    "subjectCode": "FGD9056",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PIRANGI ORMANDO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PIRANGI ORMANDO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9057_FG01",
+    "subjectCode": "FGD9057",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO MONICA SOLEDAD"
+      }
+    ]
+  },
+  {
+    "code": "FGD9062_FG01",
+    "subjectCode": "FGD9062",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SOTO MAX BRUNO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9067_VC01",
+    "subjectCode": "FGD9067",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "LAGOS JENIFER ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "LAGOS JENIFER ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9067_VC02",
+    "subjectCode": "FGD9067",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "LAGOS JENIFER ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "LAGOS JENIFER ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9068_VC01",
+    "subjectCode": "FGD9068",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "POBLETE JORGE IGNACIO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "POBLETE JORGE IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9068_VC02",
+    "subjectCode": "FGD9068",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "POBLETE JORGE IGNACIO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "POBLETE JORGE IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9069_FGD0",
+    "subjectCode": "FGD9069",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MAHIAS MARIELA FABIOLA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MAHIAS MARIELA FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9070_FG01",
+    "subjectCode": "FGD9070",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HERRERA FELIPE MARTINIANO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HERRERA FELIPE MARTINIANO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9071_FG01",
+    "subjectCode": "FGD9071",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MORALES CASSANDRA CAMILA"
+      }
+    ]
+  },
+  {
+    "code": "FGD9072_FG01",
+    "subjectCode": "FGD9072",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MEZA VICENTE IGNACIO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MEZA VICENTE IGNACIO"
+      }
+    ]
+  },
+  {
+    "code": "FGD9073_FGO1",
+    "subjectCode": "FGD9073",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLAFRANCA DARIO IGNACIO"
+      }
+    ]
+  }
+]

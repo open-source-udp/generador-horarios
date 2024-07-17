@@ -1,0 +1,370 @@
+[
+  {
+    "code": "ARQ9099",
+    "name": "TALLER VERTICAL DE ARQUITECTURA EN VIVIE",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9151",
+    "name": "TALLER VERTICAL DE ARQUITECTURA - PARTIC",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9157",
+    "name": "TALLER VERTICAL DE ARQUITECTURA E INNOVA",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FAD1017",
+    "name": "TALLER LATITUD SUR",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "ARQ4112",
+    "name": "HISTORIA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3123",
+      "ARQ3151"
+    ]
+  },
+  {
+    "code": "ARQ4113",
+    "name": "ARQUITECTURA CLÁSICA",
+    "credits": 5,
+    "references": [
+      "ARQ3117",
+      "ARQ3152"
+    ]
+  },
+  {
+    "code": "ARQ4114",
+    "name": "CIENCIAS PARA LA ARQUITECTURA",
+    "credits": 6,
+    "references": [
+      "ARQ3120"
+    ]
+  },
+  {
+    "code": "ARQ4115",
+    "name": "VISUALIZACIÓN Y MATERIA",
+    "credits": 5,
+    "references": [
+      "ARQ3153"
+    ]
+  },
+  {
+    "code": "ARQ4121",
+    "name": "ANÁLISIS ESTRUCTURAL",
+    "credits": 5,
+    "references": [
+      "ARQ3124"
+    ]
+  },
+  {
+    "code": "ARQ4122",
+    "name": "PROCESOS CONSTRUCTIVOS MACIZOS",
+    "credits": 5,
+    "references": [
+      "ARQ3118"
+    ]
+  },
+  {
+    "code": "ARQ4123",
+    "name": "DISEÑO ASISTIDO POR COMPUTADOR",
+    "credits": 5,
+    "references": [
+      "ARQ3131"
+    ]
+  },
+  {
+    "code": "ARQ4231",
+    "name": "TALLER 3+4",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4232",
+    "name": "PAISAJE Y LUGAR",
+    "credits": 5,
+    "references": [
+      "ARQ3156"
+    ]
+  },
+  {
+    "code": "ARQ4233",
+    "name": "TEORÍA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3132"
+    ]
+  },
+  {
+    "code": "ARQ4234",
+    "name": "ARQUITECTURA MODERNA",
+    "credits": 5,
+    "references": [
+      "ARQ3128"
+    ]
+  },
+  {
+    "code": "ARQ4242",
+    "name": "DISEÑO ESTRUCTURAL",
+    "credits": 5,
+    "references": [
+      "ARQ3129"
+    ]
+  },
+  {
+    "code": "ARQ4243",
+    "name": "SISTEMAS RETICULADOS",
+    "credits": 5,
+    "references": [
+      "ARQ3130"
+    ]
+  },
+  {
+    "code": "ARQ4244",
+    "name": "MODELADO DE INFORMACIÓN DE CONSTRUCCIÓN",
+    "credits": 5,
+    "references": [
+      "ARQ3159"
+    ]
+  },
+  {
+    "code": "ARQ4351",
+    "name": "TALLER 5 +6",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4352",
+    "name": "PAISAJE Y TERRITORIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4353",
+    "name": "PRÁCTICA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3140"
+    ]
+  },
+  {
+    "code": "ARQ4354",
+    "name": "ARQUITECTURA CONTEMPORÁNEA",
+    "credits": 5,
+    "references": [
+      "ARQ3136"
+    ]
+  },
+  {
+    "code": "ARQ4362",
+    "name": "LAB.DE APLICACIÓN ESTRUCT.",
+    "credits": 5,
+    "references": [
+      "ARQ3160"
+    ]
+  },
+  {
+    "code": "ARQ4363",
+    "name": "INFRAESTRUCTURAS DE LA EDIFICACIÓN",
+    "credits": 5,
+    "references": [
+      "ARQ3158"
+    ]
+  },
+  {
+    "code": "ARQ4364",
+    "name": "FABRICACIÓN DIGITAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4510",
+    "name": "SEMINARIO Y ANTEPROYECTO",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4591",
+    "name": "PRÁCTICA PROFESIONAL INTENSIVA",
+    "credits": 21,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4592",
+    "name": "SEMINARIO PROFESIONAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4611",
+    "name": "PROYECTO DE TITULO",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ARQ4236",
+    "name": "SEMINARIO DE EXTENSIÓN 1",
+    "credits": 2,
+    "references": [
+      "ARQ4245"
+    ]
+  },
+  {
+    "code": "ARQ4356",
+    "name": "SEMINARIO DE EXTENSIÓN 2",
+    "credits": 2,
+    "references": [
+      "ARQ4365"
+    ]
+  },
+  {
+    "code": "ARQ9362",
+    "name": "TERRITORIO Y MOVILIDAD SOSTENIBLE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9383",
+    "name": "CATÁLOGO CIENTÍFICO DE BIOMATERIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9401",
+    "name": "COMPONENTES ARQUITECTÓNICOS DINÁMICOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9410",
+    "name": "CIUDADES Y COMUNIDADES SOSTENIBLES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9417",
+    "name": "TALLER VERTICAL EN PAISAJE Y SUSTENTABIL",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9418",
+    "name": "ESCRITURAS Y ORALIDADES PARA UNA PON",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9428",
+    "name": "DISEÑO INFORMADO POR VARIABLES DEL CONT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9432",
+    "name": "OTREDADES: FORMAS ARQUITECTÓNICAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9429",
+    "name": "FABRICACIÓN AVANZADA: GRADOS DE LIBERTAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9430",
+    "name": "NATURALEZA Y CIUDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9431",
+    "name": "INFRAESTRUCTURA AZUL: ESPACIO PÚBLICO C.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "code": "TEM4023",
+    "name": "HEMATOLOGÍA CLÍNICA I",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4026",
+    "name": "BIOLOGÍA MOLECULAR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4027",
+    "name": "BIOÉTICA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4029",
+    "name": "MICROBIOLOGÍA CLÍNICA I",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4033",
+    "name": "INMUNOHEMATOLOGÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4035",
+    "name": "SALUD PÚBLICA Y EPIDEMIOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4037",
+    "name": "GESTIÓN DE CALIDAD",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4043",
+    "name": "INTERNADO EN LABORATORIO CLÍNICO I",
+    "credits": 18,
+    "references": [
+      "TEM3043"
+    ]
+  },
+  {
+    "code": "TEM4044",
+    "name": "CASOS CLÍNICOS INTEGRADOS LAB. CLÍNICO",
+    "credits": 4,
+    "references": [
+      "TEM3044"
+    ]
+  },
+  {
+    "code": "TEM4046",
+    "name": "FÍSICA APLICADA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4047",
+    "name": "ANATOMÍA IMAGINOLÓGICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4049",
+    "name": "RADIODIAGNÓSTICO I",
+    "credits": 11,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4052",
+    "name": "PROTECCIÓN RADIOLÓGICA Y DOSIMETRÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4057",
+    "name": "RADIOTERAPIA",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4058",
+    "name": "MEDICINA NUCLEAR",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4062",
+    "name": "TALLER DE INDUCCIÓN A CAMPOS CLÍNICOS",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4063",
+    "name": "BIOQUÍMICA EXPERIMENTAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4065",
+    "name": "BIOQUÍMICA CLÍNICA II",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4071",
+    "name": "TOMOGRAFÍA COMPUTADA II",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4072",
+    "name": "RESONANCIA MAGNÉTICA II",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4073",
+    "name": "CASOS CLÍNICOS INTEGRADOS EN IMAGINOLOGÍ",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4093",
+    "name": "FISIOLOGÍA E HISTOLOGÍA OCULAR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4094",
+    "name": "NEURO OFTALMOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4095",
+    "name": "MÉTODOS DE EXPLORACIÓN OCULAR",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4096",
+    "name": "ÓPTICA FÍSICA Y GEOMÉTRICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4109",
+    "name": "CASOS CLÍNICOS INTEGRADOS EN OFTALMOLOGÍ",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM9005",
+    "name": "TALLER DE COMUNICACIÓN LABORAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEMEXAI",
+    "name": "EXAMEN DE TÍTULO IMAG. Y FÍS. MÉDICA",
+    "credits": 0,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEMEXAL",
+    "name": "EXAMEN DE TÍTULO DE LABORATORIO CLÍNICO",
+    "credits": 0,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEMEXAO",
+    "name": "EXAMEN DE TÍTULO OFTALM. Y OPTOM.",
+    "credits": 0,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "TEM4500",
+    "name": "GLAUCOMA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4506",
+    "name": "ESTRABISMO II",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4502",
+    "name": "IMAGENOLOGIA OCULAR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4505",
+    "name": "ATENCIÓN PRIMARIA Y BAJA VISIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM4600",
+    "name": "INTERNADO I EN OFTALMOLOG Y OPTOMETRÍA",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "TEM9010",
+    "name": "ANATOMÍA TOPOGRÁFICA POR IMÁGENES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM9011",
+    "name": "FARMACOTERAPIA OCULAR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FSO9100",
+    "name": "PRÁCTICA ELECTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM9017",
+    "name": "PREANALÍTICA DE EXAMENES LABORATORIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM051101",
+    "name": "MORFOFUNCIÓN I",
+    "credits": 8,
+    "references": [
+      "TEM4060"
+    ]
+  },
+  {
+    "code": "TEM051102",
+    "name": "MATEMÁTICAS Y BIOFÍSICA APLICADA",
+    "credits": 7,
+    "references": [
+      "TEM4009"
+    ]
+  },
+  {
+    "code": "TEM051103",
+    "name": "BIOLOGÍA CELULAR Y GENÉTICA",
+    "credits": 6,
+    "references": [
+      "TEM4001"
+    ]
+  },
+  {
+    "code": "TEM051104",
+    "name": "COMUNIC. Y USO DE HERRAMIENT. TECNOLÓG.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM051105",
+    "name": "ORIENTACIÓN Y ÉTICA PROFESIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "TEM052101",
+    "name": "FISIOPATOLOGÍA Y FARMACOLOGÍA",
+    "credits": 10,
+    "references": [
+      "TEM4017",
+      "TEM4021"
+    ]
+  },
+  {
+    "code": "TEM052102",
+    "name": "BIOQUÍMICA",
+    "credits": 5,
+    "references": [
+      "TEM4018"
+    ]
+  },
+  {
+    "code": "TEM9019",
+    "name": "ELECTIVO DE RADIOLOGÍA ESPECIALIZADA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

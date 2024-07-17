@@ -1,0 +1,378 @@
+[
+  {
+    "code": "EAI7701",
+    "name": "ACTIVIDAD TITULACIÓN",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "AUD8041",
+    "name": "SOCIEDAD Y ENTORNO LEGAL DE LA EMPRESA",
+    "credits": 5,
+    "references": [
+      "EAI7041"
+    ]
+  },
+  {
+    "code": "AUD8051",
+    "name": "MATEMÁTICAS I, ADMINISTRACIÓN Y NEGOCIOS",
+    "credits": 5,
+    "references": [
+      "EAI7051"
+    ]
+  },
+  {
+    "code": "AUD8061",
+    "name": "SOCIEDAD,ORGANIZACIÓN EMPRESA Y PERSONAS",
+    "credits": 5,
+    "references": [
+      "EAI7061"
+    ]
+  },
+  {
+    "code": "AUD8091",
+    "name": "SISTEMA DE INFORMACIÓN Y COMUNICACIÓN I",
+    "credits": 5,
+    "references": [
+      "EAI7091"
+    ]
+  },
+  {
+    "code": "AUD8112",
+    "name": "EXPRESIÓN Y COMUNICACIÓN",
+    "credits": 5,
+    "references": [
+      "EAI7101"
+    ]
+  },
+  {
+    "code": "AUD8011",
+    "name": "PRINCIPIOS DE CONTABILIDAD IFRS",
+    "credits": 5,
+    "references": [
+      "EAI7011"
+    ]
+  },
+  {
+    "code": "AUD8052",
+    "name": "MATEMÁTICAS II ADMINIST. Y NEGOCIOS",
+    "credits": 5,
+    "references": [
+      "EAI7052"
+    ]
+  },
+  {
+    "code": "AUD8092",
+    "name": "SISTEMAS DE INFORMACIÓN Y COMUNIC. II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8012",
+    "name": "PROCESOS CONTABILIDAD BÁSICA IFRS",
+    "credits": 5,
+    "references": [
+      "EAI7012"
+    ]
+  },
+  {
+    "code": "AUD8042",
+    "name": "DERECHO DEL TRABAJO Y SEGURIDAD SOCIAL",
+    "credits": 5,
+    "references": [
+      "EAI7042"
+    ]
+  },
+  {
+    "code": "AUD8053",
+    "name": "MATEMÁTICAS III ADMINISTR. Y NEGOCIOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8081",
+    "name": "SOCIEDAD Y ENTORNO MICROECONÓMICO",
+    "credits": 5,
+    "references": [
+      "EAI7081"
+    ]
+  },
+  {
+    "code": "AUD8013",
+    "name": "PROCESOS CONTABILIDAD INTERMEDIA IFRS",
+    "credits": 5,
+    "references": [
+      "EAI7013"
+    ]
+  },
+  {
+    "code": "AUD8044",
+    "name": "DERECHO TRIBUTARIO",
+    "credits": 5,
+    "references": [
+      "EAI7044"
+    ]
+  },
+  {
+    "code": "AUD8021",
+    "name": "CONTABILIDAD Y PROCESOS DE COSTOS",
+    "credits": 5,
+    "references": [
+      "EAI7021"
+    ]
+  },
+  {
+    "code": "AUD8071",
+    "name": "FINANZAS DE LA EMPRESA CORTO PLAZO",
+    "credits": 5,
+    "references": [
+      "EAI7071"
+    ]
+  },
+  {
+    "code": "AUD8014",
+    "name": "PROCESOS CONTABILIDAD SUPERIOR IFRS",
+    "credits": 5,
+    "references": [
+      "EAI7014"
+    ]
+  },
+  {
+    "code": "AUD8045",
+    "name": "DERECHO TRIBUTARIO EMPRESAS",
+    "credits": 5,
+    "references": [
+      "EAI7045"
+    ]
+  },
+  {
+    "code": "AUD8025",
+    "name": "GESTIÓN Y CONTROL PRESUPUESTARIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8054",
+    "name": "ESTADÍSTICAS, AUDITORIA Y NEGOCIOS",
+    "credits": 5,
+    "references": [
+      "EAI7053"
+    ]
+  },
+  {
+    "code": "AUD8064",
+    "name": "COMPORTAMIENTO ORGANIZACIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8115",
+    "name": "INGLÉS ESPECIFICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8015",
+    "name": "PROCESOS CONTABILIDAD AVANZADA IFRS",
+    "credits": 5,
+    "references": [
+      "EAI7015"
+    ]
+  },
+  {
+    "code": "AUD8031",
+    "name": "GESTIÓN EN AUDITORÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8072",
+    "name": "FINANZAS DE LA EMPRESA LARGO PLAZO",
+    "credits": 5,
+    "references": [
+      "EAI7072"
+    ]
+  },
+  {
+    "code": "AUD8093",
+    "name": "SISTEMAS DE INFORMACIÓN Y COMUNIC. III",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8033",
+    "name": "AUDITORÍA TRIBUTARIA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8034",
+    "name": "GESTIÓN EN AUDITORIA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8073",
+    "name": "FINANZAS CORPORATIVAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8065",
+    "name": "DIRECCIÓN ESTRATEGICA DE EMPRESAS",
+    "credits": 5,
+    "references": [
+      "EAI7065"
+    ]
+  },
+  {
+    "code": "AUD8032",
+    "name": "AUDITORIA Y SEGURIDAD SISTEMAS DE INF.",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8036",
+    "name": "AUDITORIA FORENSE/FRAUDE Y DELITOS ECON",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8035",
+    "name": "AUDITORIAS ESPECIALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8074",
+    "name": "GESTIÓN DE RIESGOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8024",
+    "name": "CONTROL DE GESTIÓN ESTRAT. Y OPERAC.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8018",
+    "name": "JUEGO DE AUDITORIA BASADO EN RIESGOS",
+    "credits": 13,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8421",
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "credits": 5,
+    "references": [
+      "EAI7609"
+    ]
+  },
+  {
+    "code": "AUD8701",
+    "name": "SEMINARIO DE TITULO",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8423",
+    "name": "ESTADOS FINANCIEROS DE LA EMPRESA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8422",
+    "name": "CIENCIA DE DATOS CON PYTHON",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8429",
+    "name": "TRIBUTACIÓN AVANZADA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8431",
+    "name": "BUSINESS INTELLIGENCE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

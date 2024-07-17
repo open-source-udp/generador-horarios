@@ -1,0 +1,7380 @@
+[
+  {
+    "code": "MED1012_2024",
+    "subjectCode": "MED1012",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALLEJO BELEN"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "VALLEJO BELEN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MERCADO CRISTIAN FERNANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "COMUNICACION",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "COMUNICACION",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "GIGOUX NATALIA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "GIGOUX NATALIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CHÁVEZ JAVIER IGNACIO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "RAZONAMIENTO CLINICO",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "RAZONAMIENTO CLINICO",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "RAZONAMIENTO CLINICO",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "CHAVEZ ONEIVIC"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "CHAVEZ ONEIVIC"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "CHAVEZ ONEIVIC"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "ROBLES MARIA PAZ"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "ROBLES MARIA PAZ"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "ROBLES MARIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "MED1013_VC",
+    "subjectCode": "MED1013",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "OBANDO RITA MERCEDES"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "MUÑOZ OLGA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "MUÑOZ OLGA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ACTIVIDADES TEÓRICAS Y PRÁCTICAS",
+        "isMandatory": true,
+        "teacher": "MUÑOZ OLGA PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "MED1018_VC1",
+    "subjectCode": "MED1018",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "GARRIDO JOSEFINA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "GARRIDO JOSEFINA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "GARRIDO JOSEFINA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "MERCADO CRISTIAN FERNANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "MERCADO CRISTIAN FERNANDO"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FLORES MARÍA JOSÉ"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FLORES MARÍA JOSÉ"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FLORES MARÍA JOSÉ"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FLORES MARÍA JOSÉ"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FLORES MARÍA JOSÉ"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FLORES MARÍA JOSÉ"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "RAZONAMIENTO CLINICO",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "RAZONAMIENTO CLINICO",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "RAZONAMIENTO CLINICO",
+        "isMandatory": true,
+        "teacher": "MONTALDO GUSTAVO ADRIAN"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": "ACUÑA JUAN CARLOS"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": "ACUÑA JUAN CARLOS"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SANTOS CARLOS MIGUEL"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SANTOS CARLOS MIGUEL"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SANTOS CARLOS MIGUEL"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED1037_VC01",
+    "subjectCode": "MED1037",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "HERRERA TANIA SUSANA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ALVARADO NELLY DE LOURDES"
+      }
+    ]
+  },
+  {
+    "code": "MED2003_VC",
+    "subjectCode": "MED2003",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CATEDRA B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "KAUNE HEIDY KAREN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "TALLER B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      }
+    ]
+  },
+  {
+    "code": "MED2005_VC01",
+    "subjectCode": "MED2005",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "OROSTICA MARIA LORENA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "TALLER B-LEARNING 01",
+        "isMandatory": true,
+        "teacher": "PETERMANN FANNY"
+      }
+    ]
+  },
+  {
+    "code": "MED2006_VC",
+    "subjectCode": "MED2006",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "BURROWS JAIME"
+      }
+    ]
+  },
+  {
+    "code": "MED2017_VC2S",
+    "subjectCode": "MED2017",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RIVERA PILAR ALEJANDRA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "JARA MARIA CECILIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "JARA MARIA CECILIA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "JARA MARIA CECILIA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "JARA MARIA CECILIA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CARREÑO GABRIEL"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CARREÑO GABRIEL"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CARREÑO GABRIEL"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RAMÍREZ JAVIERA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RAMÍREZ JAVIERA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "ROJAS DANIEL"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "ROJAS DANIEL"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "ROJAS DANIEL"
+      }
+    ]
+  },
+  {
+    "code": "MED2018_VCS1",
+    "subjectCode": "MED2018",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLINICA CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SEGOVIA JACQUELINE JUDITH"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CATEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "DONOSO VICTOR HUGO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "DONOSO VICTOR HUGO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "DONOSO VICTOR HUGO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "DONOSO VICTOR HUGO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "SIMULACIÓN B-LEARNING",
+        "isMandatory": true,
+        "teacher": "DONOSO VICTOR HUGO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "QUIROZ ALEJANDRA ISABEL"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "QUIROZ ALEJANDRA ISABEL"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "QUIROZ ALEJANDRA ISABEL"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FIGUEROA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "TALLER B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FIGUEROA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "MED2019_VC1G",
+    "subjectCode": "MED2019",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CARREÑO GABRIEL"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CARREÑO GABRIEL"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      }
+    ]
+  },
+  {
+    "code": "MED2019_VC2G",
+    "subjectCode": "MED2019",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CARREÑO GABRIEL"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CARREÑO GABRIEL"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "LOPEZ NANCY"
+      }
+    ]
+  },
+  {
+    "code": "MED2021_VC1G",
+    "subjectCode": "MED2021",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      }
+    ]
+  },
+  {
+    "code": "MED2021_VC2G",
+    "subjectCode": "MED2021",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "HERMOSILLA JUAN PABLO"
+      }
+    ]
+  },
+  {
+    "code": "MED2022_VC1G",
+    "subjectCode": "MED2022",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      }
+    ]
+  },
+  {
+    "code": "MED2022_VC2G",
+    "subjectCode": "MED2022",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE PEDIATRIA",
+        "isMandatory": true,
+        "teacher": "ALAMOS LUCIA IRIS"
+      }
+    ]
+  },
+  {
+    "code": "MED2023_VC1G",
+    "subjectCode": "MED2023",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      }
+    ]
+  },
+  {
+    "code": "MED2023_VC2G",
+    "subjectCode": "MED2023",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "PIZARRO IVANNA BERNARDA"
+      }
+    ]
+  },
+  {
+    "code": "MED2024_VCG1",
+    "subjectCode": "MED2024",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "MED2024_VCG2",
+    "subjectCode": "MED2024",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "MED2024_VCG3",
+    "subjectCode": "MED2024",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "MED2024_VCG4",
+    "subjectCode": "MED2024",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "MUNDT ADRIAN PHILIPP"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "MED2024_VCG5",
+    "subjectCode": "MED2024",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "MED2024_VCG6",
+    "subjectCode": "MED2024",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA CLAUDIO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE SALUD MENTAL",
+        "isMandatory": true,
+        "teacher": "SALLES MARIA JESUS"
+      }
+    ]
+  },
+  {
+    "code": "MED2026_VC1S",
+    "subjectCode": "MED2026",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "INTERNADO ELECTIVO",
+        "isMandatory": true,
+        "teacher": "FRANCO CARLA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "MED2027_VC2S",
+    "subjectCode": "MED2027",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "RAZONAMIENTO CLÍNICO",
+        "isMandatory": true,
+        "teacher": "GOITIA LEONARDO GREGORIO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "RAZONAMIENTO CLÍNICO",
+        "isMandatory": true,
+        "teacher": "GOITIA LEONARDO GREGORIO"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "RAZONAMIENTO CLÍNICO",
+        "isMandatory": true,
+        "teacher": "GOITIA LEONARDO GREGORIO"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "GOITIA LEONARDO GREGORIO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "GOITIA LEONARDO GREGORIO"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "ROMERO RUBEN"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "ROMERO RUBEN"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "ROMERO RUBEN"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "ROMERO RUBEN"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "ROMERO RUBEN"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "VALLEJO BELEN"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "VALLEJO BELEN"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ACUÑA JUAN CARLOS"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ACUÑA JUAN CARLOS"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "TORRES ROBINSON"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "TORRES ROBINSON"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CUELLAR CRISTIAN"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "SIMULACIÓN CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CUELLAR CRISTIAN"
+      }
+    ]
+  },
+  {
+    "code": "MED2028_VC01",
+    "subjectCode": "MED2028",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "QUIROZ DANILO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "QUIROZ DANILO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "QUIROZ DANILO"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "QUIROZ DANILO"
+      }
+    ]
+  },
+  {
+    "code": "MED2029_VC",
+    "subjectCode": "MED2029",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "ALVARADO NELLY DE LOURDES"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ESPINOZA RODRIGO ANDRÉS"
+      }
+    ]
+  },
+  {
+    "code": "MED2031_VC2S",
+    "subjectCode": "MED2032",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA TUTORIAL",
+        "isMandatory": true,
+        "teacher": "ARANGUIZ PAMELA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC01",
+    "subjectCode": "CIG1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLÉS 01",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC10",
+    "subjectCode": "CIG1002",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC11",
+    "subjectCode": "CIG1002",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC12",
+    "subjectCode": "CIG1002",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DINAMARCA OLGA MARGARITA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC13",
+    "subjectCode": "CIG1002",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC14",
+    "subjectCode": "CIG1002",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC15",
+    "subjectCode": "CIG1002",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC16",
+    "subjectCode": "CIG1002",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "ACUÑA SYLVIA VICTORIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC17",
+    "subjectCode": "CIG1002",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC18",
+    "subjectCode": "CIG1002",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC19",
+    "subjectCode": "CIG1002",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC02",
+    "subjectCode": "CIG1002",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLÉS 02",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC20",
+    "subjectCode": "CIG1002",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 20",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 20",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC21",
+    "subjectCode": "CIG1002",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC22",
+    "subjectCode": "CIG1002",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 22",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 22",
+        "isMandatory": true,
+        "teacher": "SALINAS MARTA AZUCENA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC03",
+    "subjectCode": "CIG1002",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 03",
+        "isMandatory": true,
+        "teacher": "PALOMINOS MARCELA CATALINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC04",
+    "subjectCode": "CIG1002",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC05",
+    "subjectCode": "CIG1002",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC06",
+    "subjectCode": "CIG1002",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC07",
+    "subjectCode": "CIG1002",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CONTRERAS EUGENIA BEATRIZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC08",
+    "subjectCode": "CIG1002",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1002_VC09",
+    "subjectCode": "CIG1002",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MOYANO NATALY DEL SOL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC01",
+    "subjectCode": "CIG1003",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 01",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC10",
+    "subjectCode": "CIG1003",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC11",
+    "subjectCode": "CIG1003",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC12",
+    "subjectCode": "CIG1003",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC13",
+    "subjectCode": "CIG1003",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC14",
+    "subjectCode": "CIG1003",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC15",
+    "subjectCode": "CIG1003",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC16",
+    "subjectCode": "CIG1003",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC17",
+    "subjectCode": "CIG1003",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "TIZIANI JOSE MARIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "TIZIANI JOSE MARIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC18",
+    "subjectCode": "CIG1003",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC19",
+    "subjectCode": "CIG1003",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC02",
+    "subjectCode": "CIG1003",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 02",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC20",
+    "subjectCode": "CIG1003",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CATEDRA INGLES 20",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CATEDRA INGLES 20",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC21",
+    "subjectCode": "CIG1003",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_CB03",
+    "subjectCode": "CIG1003",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES B-LEARNING SECCIÓN 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES B-LEARNING SECCIÓN 03",
+        "isMandatory": true,
+        "teacher": "ACEITUNO ADOLFO ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC04",
+    "subjectCode": "CIG1003",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC05",
+    "subjectCode": "CIG1003",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "GARRIDO ALFREDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC06",
+    "subjectCode": "CIG1003",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC07",
+    "subjectCode": "CIG1003",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC08",
+    "subjectCode": "CIG1003",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1003_VC09",
+    "subjectCode": "CIG1003",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "MI",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "MED2033_VCG1",
+    "subjectCode": "MED2033",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "VERGARA LUIS"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "VERGARA LUIS"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "VERGARA LUIS"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      }
+    ]
+  },
+  {
+    "code": "MED2033_VCG2",
+    "subjectCode": "MED2033",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "INTERNADO DE MEDICINA Y GERIATRÍA",
+        "isMandatory": true,
+        "teacher": "LAGUNA JORGE"
+      }
+    ]
+  },
+  {
+    "code": "MED2034_VC1G",
+    "subjectCode": "MED2034",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED2034_VC2G",
+    "subjectCode": "MED2034",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED2034_VCG3",
+    "subjectCode": "MED2034",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED2034_VC4G",
+    "subjectCode": "MED2034",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED2034_VC5G",
+    "subjectCode": "MED2034",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED2034_VC6G",
+    "subjectCode": "MED2034",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "ACTIVIDAD CLÍNICA",
+        "isMandatory": true,
+        "teacher": "CALAS RAFAEL ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC01",
+    "subjectCode": "CIG1014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 01",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 01",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC10",
+    "subjectCode": "CIG1014",
+    "section": "Sección 10",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "JU",
+        "block": "I",
+        "description": "VACANTES CARRERA INGLES 10",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC11",
+    "subjectCode": "CIG1014",
+    "section": "Sección 11",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 11",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC12",
+    "subjectCode": "CIG1014",
+    "section": "Sección 12",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 12",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC13",
+    "subjectCode": "CIG1014",
+    "section": "Sección 13",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 13",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC14",
+    "subjectCode": "CIG1014",
+    "section": "Sección 14",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 14",
+        "isMandatory": true,
+        "teacher": "NORAMBUENA CAROLINA ANGELICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC15",
+    "subjectCode": "CIG1014",
+    "section": "Sección 15",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 15",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC16",
+    "subjectCode": "CIG1014",
+    "section": "Sección 16",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 16",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC17",
+    "subjectCode": "CIG1014",
+    "section": "Sección 17",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 17",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC18",
+    "subjectCode": "CIG1014",
+    "section": "Sección 18",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 18",
+        "isMandatory": true,
+        "teacher": "ARAOS JENNY FABIOLA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC19",
+    "subjectCode": "CIG1014",
+    "section": "Sección 19",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 19",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC02",
+    "subjectCode": "CIG1014",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 02",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 02",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC20",
+    "subjectCode": "CIG1014",
+    "section": "Sección 20",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 20",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 20",
+        "isMandatory": true,
+        "teacher": "NEGRETE NORMA ENRIQUETA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC21",
+    "subjectCode": "CIG1014",
+    "section": "Sección 21",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 21",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC22",
+    "subjectCode": "CIG1014",
+    "section": "Sección 22",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 22",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 22",
+        "isMandatory": true,
+        "teacher": "SCHIAPPACASSE VILMA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC23",
+    "subjectCode": "CIG1014",
+    "section": "Sección 23",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 23",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 23",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC24",
+    "subjectCode": "CIG1014",
+    "section": "Sección 24",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 24",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 24",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC25",
+    "subjectCode": "CIG1014",
+    "section": "Sección 25",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 25",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 25",
+        "isMandatory": true,
+        "teacher": "ARCE CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC26",
+    "subjectCode": "CIG1014",
+    "section": "Sección 26",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 26",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 26",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC27",
+    "subjectCode": "CIG1014",
+    "section": "Sección 27",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 27",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 27",
+        "isMandatory": true,
+        "teacher": "CUITIÑO JOCELYN"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC28",
+    "subjectCode": "CIG1014",
+    "section": "Sección 28",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 28",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 28",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC29",
+    "subjectCode": "CIG1014",
+    "section": "Sección 29",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 29",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 29",
+        "isMandatory": true,
+        "teacher": "LUCERO VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_CB03",
+    "subjectCode": "CIG1014",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANES B-LEARNING SECCION 03",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANES B-LEARNING SECCION 03",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC30",
+    "subjectCode": "CIG1014",
+    "section": "Sección 30",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 30",
+        "isMandatory": true,
+        "teacher": "DIAZ MARIANNE CECILIA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 30",
+        "isMandatory": true,
+        "teacher": "DIAZ MARIANNE CECILIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC31",
+    "subjectCode": "CIG1014",
+    "section": "Sección 31",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 31",
+        "isMandatory": true,
+        "teacher": "DIAZ MARIANNE CECILIA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 31",
+        "isMandatory": true,
+        "teacher": "DIAZ MARIANNE CECILIA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC32",
+    "subjectCode": "CIG1014",
+    "section": "Sección 32",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 32",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 32",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC33",
+    "subjectCode": "CIG1014",
+    "section": "Sección 33",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 33",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 33",
+        "isMandatory": true,
+        "teacher": "RAMIREZ PAMELA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC34",
+    "subjectCode": "CIG1014",
+    "section": "Sección 34",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 34",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 34",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC35",
+    "subjectCode": "CIG1014",
+    "section": "Sección 35",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 35",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 35",
+        "isMandatory": true,
+        "teacher": "CELIS MARIA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC36",
+    "subjectCode": "CIG1014",
+    "section": "Sección 36",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 36",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 36",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC37",
+    "subjectCode": "CIG1014",
+    "section": "Sección 37",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CATEDRA INGLES 37",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CATEDRA INGLES 37",
+        "isMandatory": true,
+        "teacher": "CONTRERAS DANIELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC38",
+    "subjectCode": "CIG1014",
+    "section": "Sección 38",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 38",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 38",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC39",
+    "subjectCode": "CIG1014",
+    "section": "Sección 39",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 39",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 39",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC04",
+    "subjectCode": "CIG1014",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 04",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC40",
+    "subjectCode": "CIG1014",
+    "section": "Sección 40",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 40",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 40",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC41",
+    "subjectCode": "CIG1014",
+    "section": "Sección 41",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 41",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 41",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC42",
+    "subjectCode": "CIG1014",
+    "section": "Sección 42",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 42",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 42",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC43",
+    "subjectCode": "CIG1014",
+    "section": "Sección 43",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 43",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 43",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC44",
+    "subjectCode": "CIG1014",
+    "section": "Sección 44",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 44",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 44",
+        "isMandatory": true,
+        "teacher": "TORRES OSMAN LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC45",
+    "subjectCode": "CIG1014",
+    "section": "Sección 45",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 45",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 45",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC46",
+    "subjectCode": "CIG1014",
+    "section": "Sección 46",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 46",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 46",
+        "isMandatory": true,
+        "teacher": "DIAZ AMANDA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC47",
+    "subjectCode": "CIG1014",
+    "section": "Sección 47",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 47",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 47",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC48",
+    "subjectCode": "CIG1014",
+    "section": "Sección 48",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 48",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 48",
+        "isMandatory": true,
+        "teacher": "RODRIGUEZ KARINA STEPHANIE"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC49",
+    "subjectCode": "CIG1014",
+    "section": "Sección 49",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 49",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "VACANTES CARRERA INGLES 49",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC05",
+    "subjectCode": "CIG1014",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 05",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC50",
+    "subjectCode": "CIG1014",
+    "section": "Sección 50",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 50",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "VACANTES CARRERA INGLES 50",
+        "isMandatory": true,
+        "teacher": "COLLAO MARIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC51",
+    "subjectCode": "CIG1014",
+    "section": "Sección 51",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 51",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 51",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC52",
+    "subjectCode": "CIG1014",
+    "section": "Sección 52",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 52",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 52",
+        "isMandatory": true,
+        "teacher": "CEA KAREM CAROL"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC53",
+    "subjectCode": "CIG1014",
+    "section": "Sección 53",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 53",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "VACANTES CARRERA INGLES 53",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC54",
+    "subjectCode": "CIG1014",
+    "section": "Sección 54",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 54",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "VACANTES CARRERA INGLES 54",
+        "isMandatory": true,
+        "teacher": "SANI QUIRIAN GRISELLI"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC06",
+    "subjectCode": "CIG1014",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "VACANTES CARRERA INGLES 06",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC07",
+    "subjectCode": "CIG1014",
+    "section": "Sección 7",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 07",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC08",
+    "subjectCode": "CIG1014",
+    "section": "Sección 8",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "VACANTES CARRERA INGLES 08",
+        "isMandatory": true,
+        "teacher": "DIAZ MABEL ISAURA"
+      }
+    ]
+  },
+  {
+    "code": "CIG1014_VC09",
+    "subjectCode": "CIG1014",
+    "section": "Sección 9",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      },
+      {
+        "day": "JU",
+        "block": "H",
+        "description": "VACANTES CARRERA INGLES 09",
+        "isMandatory": true,
+        "teacher": "MELLA ALEX AGUSTIN"
+      }
+    ]
+  },
+  {
+    "code": "MED03111_VC1",
+    "subjectCode": "MED03111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CANDIA PAULA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "VILLANUEVA CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "VILLANUEVA CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "TALLER 1",
+        "isMandatory": true,
+        "teacher": "CUELLAR CRISTIAN"
+      }
+    ]
+  },
+  {
+    "code": "MED03111_VC2",
+    "subjectCode": "MED03111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CANDIA PAULA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "TALLER 2",
+        "isMandatory": true,
+        "teacher": "ALVARADO NELLY DE LOURDES"
+      }
+    ]
+  },
+  {
+    "code": "MED03111_VC3",
+    "subjectCode": "MED03111",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "TALLER 3",
+        "isMandatory": true,
+        "teacher": "SANTOS CARLOS MIGUEL"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MUÑOZ OLGA PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "VILLANUEVA CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "VILLANUEVA CAROLINA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "MED03111_VC4",
+    "subjectCode": "MED03111",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "TALLER 4",
+        "isMandatory": true,
+        "teacher": "CANDIA PAULA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CANDIA PAULA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "MED03111_VC5",
+    "subjectCode": "MED03111",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CANDIA PAULA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "TALLER 5",
+        "isMandatory": true,
+        "teacher": "MORENO MARIA IVONNE"
+      }
+    ]
+  },
+  {
+    "code": "MED03111_VC6",
+    "subjectCode": "MED03111",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "TALLER 6",
+        "isMandatory": true,
+        "teacher": "MUÑOZ OLGA PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "SANTOS CARLOS MIGUEL"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "SIMULACIÓN",
+        "isMandatory": true,
+        "teacher": "MALDONADO MARCIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "MED03112_VCA",
+    "subjectCode": "MED03112",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "LABORATORIO A",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "LABORATORIO A",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "OROSTICA MARIA LORENA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "OROSTICA MARIA LORENA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "OROSTICA MARIA LORENA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      }
+    ]
+  },
+  {
+    "code": "MED03112_VCB",
+    "subjectCode": "MED03112",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO B",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "LABORATORIO B",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      }
+    ]
+  },
+  {
+    "code": "MED03112_VCC",
+    "subjectCode": "MED03112",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LABORATORIO C",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "LABORATORIO C",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "TALLER/SEMINARIO",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "GALLARDO MAURICIO ORLANDO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CATEDRA",
+        "isMandatory": true,
+        "teacher": "LAZCANO XIMENA DEL CARMEN"
+      }
+    ]
+  },
+  {
+    "code": "MED03113",
+    "subjectCode": "MED03113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "SEMINARIO",
+        "isMandatory": true,
+        "teacher": "ESPINOZA ALEJANDRA VIVIANA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "ABP",
+        "isMandatory": true,
+        "teacher": "EBLEN ANTONIO ALEJANDRO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "ABP",
+        "isMandatory": true,
+        "teacher": "EBLEN ANTONIO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BORQUEZ DANIEL ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BORQUEZ DANIEL ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "MED03114_VCA",
+    "subjectCode": "MED03114",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "TALLER A",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER A",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      }
+    ]
+  },
+  {
+    "code": "MED03114_VCB",
+    "subjectCode": "MED03114",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "TALLER B",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER B",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      }
+    ]
+  },
+  {
+    "code": "MED03114_VCC",
+    "subjectCode": "MED03114",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "TALLER C",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "TALLER C",
+        "isMandatory": true,
+        "teacher": "SALINAS DINO GONZALO"
+      }
+    ]
+  },
+  {
+    "code": "MED03115_VC",
+    "subjectCode": "MED03115",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "MONTIEL JUAN FIDEL"
+      }
+    ]
+  },
+  {
+    "code": "MED03211_SIM",
+    "subjectCode": "MED03211",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "VILLANUEVA CAROLINA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "MED03211_TA",
+    "subjectCode": "MED03211",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "SIMULACION",
+        "isMandatory": true,
+        "teacher": "VILLANUEVA CAROLINA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "VC1",
+    "subjectCode": "MED03212",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "ABP2 JUEVES",
+        "isMandatory": true,
+        "teacher": "PEREZ DOMINGO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "ABP2 JUEVES",
+        "isMandatory": true,
+        "teacher": "PEREZ DOMINGO"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "LAB LUNES",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "LAB LUNES",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "LAB LUNES",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "RUIZ VICENTE"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "CASTRO NICOLAS IGNACIO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "ALMAGUER LEONARDO SOCRATES"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "SANTOS CARLOS MIGUEL"
+      }
+    ]
+  },
+  {
+    "code": "VC2",
+    "subjectCode": "MED03212",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "ABP1 LUNES",
+        "isMandatory": true,
+        "teacher": "PEREZ DOMINGO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "ABP1 LUNES",
+        "isMandatory": true,
+        "teacher": "PEREZ DOMINGO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "ALMAGUER LEONARDO SOCRATES"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "LAB VIERNES",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "LAB VIERNES",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "LAB VIERNES",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "SANTOS CARLOS MIGUEL"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "CASTRO NICOLAS IGNACIO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "RUIZ VICENTE"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA TODOS",
+        "isMandatory": true,
+        "teacher": "HUMERES ALEXIS JOHANY"
+      }
+    ]
+  },
+  {
+    "code": "MED03213_G1",
+    "subjectCode": "MED03213",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ARANDA WALDO ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "TALLER G1",
+        "isMandatory": true,
+        "teacher": "ARANDA WALDO ARMANDO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "TALLER G1",
+        "isMandatory": true,
+        "teacher": "ARANDA WALDO ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED03213_G2",
+    "subjectCode": "MED03213",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "TALLER G2",
+        "isMandatory": true,
+        "teacher": "ARANDA ANGEL OMAR"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "TALLER G2",
+        "isMandatory": true,
+        "teacher": "ARANDA ANGEL OMAR"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ARANDA WALDO ARMANDO"
+      }
+    ]
+  },
+  {
+    "code": "MED03214",
+    "subjectCode": "MED03214",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MUÑOZ MARA ELIZABETH"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "TALLER",
+        "isMandatory": true,
+        "teacher": "CASAS LIDIA CECILIA"
+      }
+    ]
+  }
+]

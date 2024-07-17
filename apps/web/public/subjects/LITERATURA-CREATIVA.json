@@ -1,0 +1,258 @@
+[
+  {
+    "code": "COM9100",
+    "name": "PRÁCTICA ELECTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT1025",
+    "name": "LITERATURA ESPAÑOLA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT1030",
+    "name": "TALLER DE INTRODUCCIÓN AL ENSAYO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT2001",
+    "name": "SEMINARIO SHAKESPEARE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT2002",
+    "name": "TALLER DE ESCRITURA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT2008",
+    "name": "TALLER DE INTRODUCCIÓN A LA NARRATIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT2012",
+    "name": "LITERATURA ESPAÑOLA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT2026",
+    "name": "LITERATURA HISPANOAMERICANA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT2028",
+    "name": "TALLER DE TITULACIÓN I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT2030",
+    "name": "LINGÜÍSTICA GENERAL I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3000",
+    "name": "GRAMÁTICA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3001",
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN LITERARI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3002",
+    "name": "LATÍN I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3003",
+    "name": "ANÁLISIS DE TEXTOS LITERARIOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3007",
+    "name": "LITERATURA OCCIDENTAL II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3009",
+    "name": "LITERATURA OCCIDENTAL IV",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3011",
+    "name": "PRODUCCIÓN EDITORIAL I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3014",
+    "name": "TEORÍA LITERARIA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3015",
+    "name": "TALLER DE GUIÓN AUDIOVISUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3016",
+    "name": "POESÍA CHILENA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "LIT3019",
+    "name": "TALLER DE REVISTAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PER6113",
+    "name": "REDACCIÓN GENERAL",
+    "credits": 5,
+    "references": [
+      "COM5113"
+    ]
+  },
+  {
+    "code": "LIT9109",
+    "name": "CANAL DE LITERATURA DIGITAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9110",
+    "name": "TALLER WORD FOR WORD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9111",
+    "name": "TALLER DE NO FICCIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9117",
+    "name": "LITERATURA FRANCESA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9121",
+    "name": "LA OTRA ESCRITURA DE JOSÉ DONOSO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9122",
+    "name": "ANÁLISIS DE LITERATURAS INTERMINABLES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

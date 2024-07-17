@@ -1,0 +1,216 @@
+[
+  {
+    "code": "SOC9035",
+    "name": "ANÁLISIS AVANZADOS DE DATOS II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC9056",
+    "name": "MARKETING Y ESTUDIOS DE MERCADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC9076",
+    "name": "SOCIOLOGÍA ORGANIZACIÓNAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC9078",
+    "name": "SOCIOLOGIA URBANA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC9080",
+    "name": "SOCIOLOGÍA POLÍTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "SOC8112",
+    "name": "INTRODUCCIÓN A LAS SOCIEDADES MODERNAS",
+    "credits": 5,
+    "references": [
+      "SOC7112"
+    ]
+  },
+  {
+    "code": "SOC8115",
+    "name": "PROBLEMAS SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8113",
+    "name": "TALLER DE ESCRITURA SOCIOLÓGICA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8315",
+    "name": "DISEÑO DE PROYECTOS",
+    "credits": 5,
+    "references": [
+      "SOC7325"
+    ]
+  },
+  {
+    "code": "SOC8111",
+    "name": "INTRODUCCIÓN A LA SOCIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8114",
+    "name": "MATEMÁTICAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8213",
+    "name": "MÉTODOS CUALITATIVOS I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8215",
+    "name": "MACROECONOMÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8214",
+    "name": "ESTADÍSTICA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8313",
+    "name": "EPISTEMOLOGÍA DE LAS CIENCIAS SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8212",
+    "name": "PROCESOS SOCIALES II",
+    "credits": 5,
+    "references": [
+      "SOC7212"
+    ]
+  },
+  {
+    "code": "SOC8211",
+    "name": "TEORÍA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8311",
+    "name": "TEORÍA IV",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC9101",
+    "name": "DESARROLLO ORGANIZACIONAL APLICADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC00001",
+    "name": "BIG DATA PARA LAS CIENCIAS SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC00002",
+    "name": "ESTUDIOS DE CASO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO00002",
+    "name": "POLITICA (S) DEL MEDIO AMBIENTE",
+    "credits": 5,
+    "references": [
+      "DER9903"
+    ]
+  },
+  {
+    "code": "SOC00009",
+    "name": "INVESTIGACIÓN SOCIAL APLICADA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

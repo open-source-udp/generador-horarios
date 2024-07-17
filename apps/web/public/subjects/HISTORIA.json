@@ -1,0 +1,178 @@
+[
+  {
+    "code": "HIS4001",
+    "name": "HISTORIA DEL PENSAMIENTO POLÍTICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4002",
+    "name": "INTRODUCCIÓN A LA HISTORIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4003",
+    "name": "ESCRITURA HISTÓRICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4004",
+    "name": "PUEBLOS ORIGINARIOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4005",
+    "name": "HISTORIA ANTIGUA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4013",
+    "name": "ANTROPOLOGÍA SOCIOCULTURAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4014",
+    "name": "MÉTODOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4015",
+    "name": "CHILE S. XIX",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4016",
+    "name": "AMÉRICA S XIX",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4017",
+    "name": "HISTORIA MODERNA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4024",
+    "name": "GEOGRAFÍA FÍSICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4027",
+    "name": "SEMINARIO DE INVESTIGACIÓN CHILE I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4028",
+    "name": "SEMINARIO DE INVESTIGACIÓN AMÉRICA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4029",
+    "name": "HISTORIA CONTEMPORÁNEA S. XX",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4038",
+    "name": "ESTUDIOS GLOBALES II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4039",
+    "name": "HISTORIA DE LA EDUCACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4040",
+    "name": "ESPACIO Y TERRITORIALIDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CSH2010",
+    "name": "OPTATIVO ETNOGRAFÍA E HISTORIA ORAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

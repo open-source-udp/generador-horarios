@@ -1,0 +1,352 @@
+[
+  {
+    "code": "ODT3013_VC01",
+    "subjectCode": "ODT3013",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CARBONE MICHELE ANGELO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CARBONE MICHELE ANGELO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CARBONE MICHELE ANGELO"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "CARBONE MICHELE ANGELO"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEREY FRANCISCO  JAVIER"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEREY FRANCISCO  JAVIER"
+      }
+    ]
+  },
+  {
+    "code": "ODT3020_VC01",
+    "subjectCode": "ODT3020",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MENDOZA RUBEN ROBERT CESAR"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MENDOZA RUBEN ROBERT CESAR"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MENDOZA RUBEN ROBERT CESAR"
+      }
+    ]
+  },
+  {
+    "code": "ODT3022_VC01",
+    "subjectCode": "ODT3022",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEREY FRANCISCO  JAVIER"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEREY FRANCISCO  JAVIER"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEREY FRANCISCO  JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEREY FRANCISCO  JAVIER"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SEREY FRANCISCO  JAVIER"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PILARTE ADA MICHELL"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PILARTE ADA MICHELL"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ZUÑIGA MARIO HUGO"
+      }
+    ]
+  },
+  {
+    "code": "ODT3023_VC01",
+    "subjectCode": "ODT3023",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES VICTOR MANUEL"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES VICTOR MANUEL"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ALVAREZ CAMILA ISABEL"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ALVAREZ CAMILA ISABEL"
+      }
+    ]
+  },
+  {
+    "code": "ODT3024_VC01",
+    "subjectCode": "ODT3024",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ ROBERTO IVAN"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ ROBERTO IVAN"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ ROBERTO IVAN"
+      }
+    ]
+  },
+  {
+    "code": "ODT3027_VC01",
+    "subjectCode": "ODT3027",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "NAVECH MARIA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3028_VC01",
+    "subjectCode": "ODT3028",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SANTANA CECILIA VIVIANA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3029_VC01",
+    "subjectCode": "ODT3029",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "OLGUIN CARLOS ANDRES"
+      }
+    ]
+  },
+  {
+    "code": "ODT3030_VC01",
+    "subjectCode": "ODT3030",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA01",
+        "isMandatory": true,
+        "teacher": "ORMAZABAL PILAR"
+      }
+    ]
+  },
+  {
+    "code": "ODT3031_VCO1",
+    "subjectCode": "ODT3031",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "FUENTES VICTOR MANUEL"
+      }
+    ]
+  },
+  {
+    "code": "ODT3033_VC01",
+    "subjectCode": "ODT3033",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ALVARADO MARÍA CAROLINA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3034_VC01",
+    "subjectCode": "ODT3034",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "AUAD MIRENTXU"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SALGADO PABLO LUCIANO"
+      }
+    ]
+  },
+  {
+    "code": "ODT3037_VC01",
+    "subjectCode": "ODT3037",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "WHITE NATALIA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3040_VC1",
+    "subjectCode": "ODT3040",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GONZALEZ ROBERTO EDISON"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TRONCOSO CRISTIAN ALFONSO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TRONCOSO CRISTIAN ALFONSO"
+      }
+    ]
+  }
+]

@@ -1,0 +1,504 @@
+[
+  {
+    "code": "CBE2000",
+    "name": "PROBABILIDADES Y ESTADÍSTICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBF1000",
+    "name": "MECÁNICA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBF1001",
+    "name": "CALOR Y ONDAS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBF1002",
+    "name": "ELECTRICIDAD Y MAGNETISMO",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1000",
+    "name": "ÁLGEBRA Y GEOMETRÍA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1001",
+    "name": "CÁLCULO I",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1002",
+    "name": "ÁLGEBRA LINEAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1003",
+    "name": "CÁLCULO II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1005",
+    "name": "ECUACIONES DIFERENCIALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1006",
+    "name": "CÁLCULO III",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBQ1000",
+    "name": "QUÍMICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII1000",
+    "name": "CONTABILIDAD Y COSTOS",
+    "credits": 6,
+    "references": [
+      "ICI3325"
+    ]
+  },
+  {
+    "code": "CII2750",
+    "name": "OPTIMIZACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT1000",
+    "name": "PROGRAMACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2001",
+    "name": "INGENIERÍA EN MATERIALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2003",
+    "name": "TECNOLOGÍA DEL HORMIGÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2102",
+    "name": "ANÁLISIS ESTRUCTURAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2103",
+    "name": "DISEÑO ESTRUCTURAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2104",
+    "name": "MECÁNICA DE SUELOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2105",
+    "name": "DISEÑO EN HORMIGÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2106",
+    "name": "FUNDACIONES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2107",
+    "name": "DISEÑO EN ACERO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2203",
+    "name": "INGENIERÍA AMBIENTAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2204",
+    "name": "HIDROLOGÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2205",
+    "name": "HIDRÁULICA URBANA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3000",
+    "name": "INGENIERÍA DE COSTOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3001",
+    "name": "DISEÑO DE CAMINOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3100",
+    "name": "INGENIERÍA SÍSMICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC4014",
+    "name": "EXAMEN DE TITULO",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC4015",
+    "name": "MEMORIA DE TITULACIÓN",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC4016",
+    "name": "TALLER PROFESIONAL",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FIC1000",
+    "name": "COMUNICACIÓN PARA LA INGENIERÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PRACT1",
+    "name": "PRÁCTICA I OBRERA",
+    "credits": 0,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PRACT2",
+    "name": "PRÁCTICA II PROFESIONAL",
+    "credits": 0,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "COC3619",
+    "name": "ELECTIVO PROFESIONAL; DISEÑO EN MADERA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "COC3625",
+    "name": "MANEJO DEL RIESGO Y APOYO DE LA TOMA DE",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII2100",
+    "name": "INTRODUCCIÓN  A LA ECONOMÍA",
+    "credits": 6,
+    "references": [
+      "CII2000"
+    ]
+  },
+  {
+    "code": "COC2108",
+    "name": "ESTÁTICA",
+    "credits": 6,
+    "references": [
+      "COC2100"
+    ]
+  },
+  {
+    "code": "COC2206",
+    "name": "MECÁNICA DE FLUIDOS",
+    "credits": 6,
+    "references": [
+      "COC2200"
+    ]
+  },
+  {
+    "code": "COC2109",
+    "name": "MECÁNICA DE SÓLIDOS",
+    "credits": 6,
+    "references": [
+      "COC2101"
+    ]
+  },
+  {
+    "code": "COC2202",
+    "name": "EDIFICACIÓN",
+    "credits": 6,
+    "references": [
+      "COC2002"
+    ]
+  },
+  {
+    "code": "COC2207",
+    "name": "HIDRÁULICA",
+    "credits": 6,
+    "references": [
+      "COC2201"
+    ]
+  },
+  {
+    "code": "COC2006",
+    "name": "TOPOGRAFÍA",
+    "credits": 6,
+    "references": [
+      "COC2000"
+    ]
+  },
+  {
+    "code": "COC2305",
+    "name": "SEMINARIO CS INGENIERÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2007",
+    "name": "ADM DE PROYECTOS CIVILES",
+    "credits": 6,
+    "references": [
+      "COC2005"
+    ]
+  },
+  {
+    "code": "COC2008",
+    "name": "PLANIFICACIÓN DE PROYECTOS",
+    "credits": 6,
+    "references": [
+      "COC2004"
+    ]
+  },
+  {
+    "code": "COC2009",
+    "name": "BIM",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3300",
+    "name": "TALLER DE PROYECTOS",
+    "credits": 7,
+    "references": [
+      "COC3301"
+    ]
+  },
+  {
+    "code": "COC3331",
+    "name": "PRÁCTICA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3431",
+    "name": "PRÁCTICA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC4017",
+    "name": "EXAMEN VIA INVESTIGACIÓN",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC4018",
+    "name": "EXAMEN DE TITULO",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC4019",
+    "name": "MEMORIA DE TITULACIÓN",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC4020",
+    "name": "TALLER PROFESIONAL",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3530",
+    "name": "EP EG; INGENIERÍA GEOTÉCNICA AVANZADA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3428",
+    "name": "EP HM; MODELACIÓN HIDROLÓGICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3532",
+    "name": "EP EG; TALLER  DE ESTRUCTURAS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3433",
+    "name": "EP HM; AGUAS RESIDUALES Y MEDIO AMBIENTE",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC3633",
+    "name": "EP GC; SISTEMAS INTEGRADOS DE GESTIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  }
+]

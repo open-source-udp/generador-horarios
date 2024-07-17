@@ -1,0 +1,58 @@
+[
+  {
+    "code": "PEH2001",
+    "name": "DIDÁCTICA DE LA HISTORIA, GEOGRAFÍA Y CI",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PEH2002",
+    "name": "EVALUACIÓN DE LA HISTORIA, GEOGRAFÍA Y C",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PEH2003",
+    "name": "PRÁCTICA Y REFLEXIÓN DOCENTE I",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PEHEXA2",
+    "name": "EXAMEN DE TÍTULO",
+    "credits": 0,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PHL2009",
+    "name": "CURRÍCULUM EN EL SISTEMA ESCOLAR CHILENO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PHL2010",
+    "name": "APRENDIZAJE Y DES. EN LA ADOLESCEN I",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PHL2011",
+    "name": "POLITICAS EDUCATIVAS Y PRÁCTICAS DOC",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  }
+]

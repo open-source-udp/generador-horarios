@@ -1,0 +1,112 @@
+[
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ANT01111",
+    "name": "INTRODUCCIÓN A LA ANTROPOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01112",
+    "name": "TALLER DE ESCRITURA ANTROPOLÓGICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01113",
+    "name": "TALLER ETNOGRÁFICO I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01114",
+    "name": "PUEBLOS ORIGINARIOS EN AMÉRICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01115",
+    "name": "ANTROPOLOGÍA DE CHILE Y AMÉRICA LATINA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01211",
+    "name": "TEORÍA ANTROPÓLOGICA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01212",
+    "name": "MÉTODOS CUALITATIVOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01213",
+    "name": "TALLER ETNOGRÁFICO III",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01214",
+    "name": "ANTROP. HIST. DE LOS PUEBLOS EN CHILE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01215",
+    "name": "TEORÍA Y CONCEPTOS DE POLÍTICAS PÚBL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

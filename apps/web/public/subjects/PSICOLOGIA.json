@@ -1,0 +1,448 @@
+[
+  {
+    "code": "PSI4112",
+    "name": "FUNDAMENTOS BIOLÓGICOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4113",
+    "name": "PSICOLOGÍA GENERAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4114",
+    "name": "TRANSFORMACIONES SOCIOCULTURALES",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4121",
+    "name": "HISTORIA DE LA PSICOLOGÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4124",
+    "name": "ANÁLISIS CRÍTICO DE LA PSICOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4125",
+    "name": "ESTADÍSTICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4211",
+    "name": "PSICOLOGÍA DE LA INFANCIA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4212",
+    "name": "PSICOLOGÍA DE LA ADOLESCENCIA Y JUVENTUD",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4213",
+    "name": "PSICOLOGÍA DE LA COMUNICACIÓN",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4214",
+    "name": "PSICOLOGÍA SOCIAL 1",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4215",
+    "name": "INVESTIGACIÓN 1",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4216",
+    "name": "PSICOLOGÍA DE ADULTEZ Y TERCERA EDAD",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4221",
+    "name": "INTRODUCCIÓN A LA PSICOPATOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4222",
+    "name": "INTRODUCCIÓN A LA PSICOLOGÍA CLÍNICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4223",
+    "name": "PSICOLOGÍA DE LA PERSONALIDAD",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4224",
+    "name": "PSICOLOGÍA SOCIAL II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4311",
+    "name": "PSICOPATOLOGÍA Y PSIQUIATRÍA DE NIÑOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4313",
+    "name": "INTRODUCCIÓN AL PSICODIAGNÓSTICO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4314",
+    "name": "PSICOLOGÍA TRABAJO Y ORGANIZACIONES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4315",
+    "name": "INVESTIGACIÓN III",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4321",
+    "name": "PSICOPATOLOGÍA Y PSIQUIATRÍA ADULTOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4323",
+    "name": "PSICODIAGNÓSTICO NIÑOS Y ADOLESCENTES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4324",
+    "name": "PSICOLOGÍA Y EDUCACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4326",
+    "name": "PERSPECTIVAS EN PSICOANÁLISIS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4327",
+    "name": "PERSPECTIVAS EN HUMANISMO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4328",
+    "name": "PERSPECTIVAS SISTÉMICO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4329",
+    "name": "PERSPECTIVAS COGNITIVO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4411",
+    "name": "PSICOLOGÍA Y SALUD",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4412",
+    "name": "PSICOLOGÍA JUSTICIA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4413",
+    "name": "PSICODIAGNÓSTICO ADULTOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4414",
+    "name": "PSICOLOGÍA Y SUJETOS SOCIALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4423",
+    "name": "DISEÑO Y EVALUACIÓN DE PROYECTOS DE INTE",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4424",
+    "name": "ESTRATEGÍAS DE TRABAJO GRUPAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4425",
+    "name": "GESTIÓN DE RECURSOS HUMANOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4515",
+    "name": "TALLER PSICOSOCIAL: SUJETOS SOCIALES",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4516",
+    "name": "TALLER PSICOSOCIAL: EDUCACIÓN",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4517",
+    "name": "TALLER  PSICOSOCIAL: SALUD",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4518",
+    "name": "TALLER PSICOSOCIAL: TRABAJO",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4519",
+    "name": "TALLER PSICOSOCIAL: JUSTICIA",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4525",
+    "name": "TALLER INTERVENCIÓN CLÍNICA: PSICOANÁLIS",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4526",
+    "name": "TALLER INTERVENCIÓN CLÍNICA: HUMANISMO",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4527",
+    "name": "TALLER INTERVENCIÓN CLÍNICA: SISTÉMICO",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4528",
+    "name": "TALLER INTERVENCIÓN CLÍNICA: COGNITIVO",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4529",
+    "name": "TALLER INTERVENCIÓN CLÍNICA: INFANTIL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4531",
+    "name": "TEST DE RORSCHACH",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4535",
+    "name": "SALUD MENTAL Y TRABAJO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "PSI4538",
+    "name": "CONDUCTA ADICTIVAS",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "PSI4550",
+    "name": "ESTRATEGIAS DE INTERVENCIÓN EN VIH/SIDA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4117",
+    "name": "FILOSOFÍA Y EPISTEMOLOGÍA DE LA PSICOLOG",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4552",
+    "name": "TALLER INTERV: NEUROPSICOLOGÍA CLÍNICA",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4553",
+    "name": "OPTATIVO DE PROFUNDIZACIÓN",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4554",
+    "name": "NARRATIVA DE OLIVER SACKS",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  }
+]

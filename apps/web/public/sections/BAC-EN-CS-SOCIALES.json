@@ -1,0 +1,842 @@
+[
+  {
+    "code": "BAC08111_VC1",
+    "subjectCode": "BAC08111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08111_FG1",
+    "subjectCode": "BAC08111",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08111_VC2",
+    "subjectCode": "BAC08111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08111_FG2",
+    "subjectCode": "BAC08111",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08111_VC3",
+    "subjectCode": "BAC08111",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 03",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08111_FG3",
+    "subjectCode": "BAC08111",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "VALENZUELA RICARDO HERNÁN"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 03",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08112_VC1",
+    "subjectCode": "BAC08112",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "AMIGO CYNTHIA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "AMIGO CYNTHIA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08112_FG1",
+    "subjectCode": "BAC08112",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "AMIGO CYNTHIA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "AMIGO CYNTHIA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "BAC08112_VC2",
+    "subjectCode": "BAC08112",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PALMA NEREA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PALMA NEREA CATALINA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08112_FG2",
+    "subjectCode": "BAC08112",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PALMA NEREA CATALINA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PALMA NEREA CATALINA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08112_VC3",
+    "subjectCode": "BAC08112",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "INOSTROZA VICENTE DARIO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "INOSTROZA VICENTE DARIO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 03",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08112_FG3",
+    "subjectCode": "BAC08112",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "INOSTROZA VICENTE DARIO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "INOSTROZA VICENTE DARIO"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 03",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08113_VC1",
+    "subjectCode": "BAC08113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      }
+    ]
+  },
+  {
+    "code": "BAC08113_FG1",
+    "subjectCode": "BAC08113",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08113_C02",
+    "subjectCode": "BAC08113",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08113_FG2",
+    "subjectCode": "BAC08113",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "FIGUEROA MARIA CONSUELO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08113_C03",
+    "subjectCode": "BAC08113",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MARDONES MARCELO MAURICIO"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MARDONES MARCELO MAURICIO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OPCIONAL 03",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08113_FG3",
+    "subjectCode": "BAC08113",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MARDONES MARCELO MAURICIO"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MARDONES MARCELO MAURICIO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "AYUDANTÍA OPCIONAL 03",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08114_VC1",
+    "subjectCode": "BAC08114",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08114_FG1",
+    "subjectCode": "BAC08114",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08114_VC2",
+    "subjectCode": "BAC08114",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08114_FG2",
+    "subjectCode": "BAC08114",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "YAÑEZ MARTÍN ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "AYUDANTÍA OPCIONAL 02",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08115_VC1",
+    "subjectCode": "BAC08115",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PALACIOS ISMAEL JOSE"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PALACIOS ISMAEL JOSE"
+      }
+    ]
+  },
+  {
+    "code": "BAC08115_FG1",
+    "subjectCode": "BAC08115",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PALACIOS ISMAEL JOSE"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PALACIOS ISMAEL JOSE"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08116_VC1",
+    "subjectCode": "BAC08116",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08116_FG1",
+    "subjectCode": "BAC08116",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 01",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08116_VC2",
+    "subjectCode": "BAC08116",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08116_FG2",
+    "subjectCode": "BAC08116",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GUTIERREZ CAROLINA DE LOS ANGELES"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08117_VC1",
+    "subjectCode": "BAC08117",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLEGAS DIEGO ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLEGAS DIEGO ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "BAC08117_FG1",
+    "subjectCode": "BAC08117",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLEGAS DIEGO ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VILLEGAS DIEGO ANTONIO"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "AYUDANTÍA OPCIONAL 01",
+        "isMandatory": false,
+        "teacher": ""
+      }
+    ]
+  }
+]

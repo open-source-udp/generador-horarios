@@ -1,32 +1,30 @@
-"use client";
-import { memo } from "react";
-import { Select } from "ui";
-import { useRouter } from "next/navigation";
+import { Select, MenuItem, FormControl, InputLabel } from "@mui/material";
+import { useRouter } from "next/router";
+import { FC, memo } from "react";
 
-export type CareerSelectProps = {
-  careers: string[];
-  defaultCareer?: string;
-};
+export type CareerSelectProps = { careers: Array<string> };
 
-const CareerSelect: React.FC<CareerSelectProps> = memo(function CareerSelect({
+const CareerSelect: FC<CareerSelectProps> = memo(function CareerSelect({
   careers,
-  defaultCareer = "",
 }) {
   const router = useRouter();
   return (
-    <Select
-      onChange={(e, option) => {
-        if (option.value) {
-          router.push(`/${option.value}`);
-        }
-      }}
-      options={careers.map((career) => ({
-        label: career,
-        value: career,
-      }))}
-      placeholder={"Selecciona una carrera"}
-      label={"Carrera"}
-    />
+    <FormControl sx={{ width: "100%", color: "red" }}>
+      <InputLabel id="career-select">Carrera</InputLabel>
+      <Select
+        defaultValue=""
+        labelId="career-select"
+        onChange={(e) => router.push(`/${e.target.value}`)}
+        placeholder={"Selecciona una carrera"}
+        label={"Carrera"}
+      >
+        {careers.map((career) => (
+          <MenuItem key={career} value={career}>
+            {career}
+          </MenuItem>
+        ))}
+      </Select>
+    </FormControl>
   );
 });
 

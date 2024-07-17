@@ -1,0 +1,195 @@
+[
+  {
+    "code": "EVE0201",
+    "name": "ADMINISTRACIÓN I",
+    "credits": 5,
+    "references": [
+      "IAE4101"
+    ]
+  },
+  {
+    "code": "EVE0401",
+    "name": "ENTORNO ECONÓMICO Y EMPRESA",
+    "credits": 5,
+    "references": [
+      "IAE4113"
+    ]
+  },
+  {
+    "code": "EVE0301",
+    "name": "DERECHO EMPRESARIAL",
+    "credits": 5,
+    "references": [
+      "IAE4811"
+    ]
+  },
+  {
+    "code": "CAV1013",
+    "name": "CONTABILIDAD III",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1044",
+    "name": "CODIGO TRIBUTARIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1071",
+    "name": "FUNDAMENTOS DE FINANZAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1031",
+    "name": "SISTEMA DE CONTROL INTERNO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE0101",
+    "name": "ESTADISTICA I",
+    "credits": 5,
+    "references": [
+      "IAE4307",
+      "IFG1302"
+    ]
+  },
+  {
+    "code": "CAV1033",
+    "name": "AUDITORIA SISTEMAS DE INFORMACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1034",
+    "name": "AUDITORIA TRIBUTARIA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1024",
+    "name": "CONTROL DE GESTIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1073",
+    "name": "RIESGO Y VALUACIÓN DE ACTIVOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1171",
+    "name": "JUEGO DE INTEGRACIÓN PROFESIONAL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1046",
+    "name": "TRIBUTARIA PERSONAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IIG4001",
+    "name": "GESTIÓN DE SERVICIOS TI BASADOS EN ITIL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "INL4080",
+    "name": "NORMATIVA DE SEG. EN LAS OP. LOGÍSTICAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5802",
+    "name": "TALLER DE EMPRENDIMIENTO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5804",
+    "name": "RESPONSABILIDAD SOCIAL CORPORATIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5806",
+    "name": "REESTRUCTURACION DE EMPRESAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00006",
+    "name": "MARCOS ASG Y AUDITORIA SUSTENTABLE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV02111",
+    "name": "FUNDAMENTOS DE CONTABILIDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV02112",
+    "name": "ADMINISTRACIÓN",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV02113",
+    "name": "DERECHO LABORAL Y SOCIEDADES",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV02114",
+    "name": "MATEMÁTICAS PARA LOS NEGOCIOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "BAC08111",
+    "name": "INTRODUCCIÓN A LA SOCIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08112",
+    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08113",
+    "name": "HISTORIA DE CHILE SIGLO XX",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08114",
+    "name": "PSICOLOGÍA GENERAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08115",
+    "name": "FUNDAMENTOS BIOLÓGICOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08116",
+    "name": "TALLER DE RAZONAMIENTO JURÍDICO",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08117",
+    "name": "FUNDAMENTOS DEL DERECHO PRIVADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

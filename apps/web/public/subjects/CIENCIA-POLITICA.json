@@ -1,0 +1,784 @@
+[
+  {
+    "code": "CFG2014",
+    "name": "PROBLEMÁTICAS CONTEMPORÁNEAS DE LA SEXUA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2027",
+    "name": "LA CIUDAD CÓMO ESPACIO INCLUSIVO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2086",
+    "name": "LA GUERRA FRIA ORIGEN Y FORMACION DEL MU",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2098",
+    "name": "REVOLUCIONES DE LA HISTORIA CONTEMPORÁNE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2135",
+    "name": "B-LEARNING EE.UU: SU VISIÓN DE LA LIBERT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2141",
+    "name": "LA CIUDAD:UN TERRITORIO EN DISPUTA.DEBAT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2149",
+    "name": "LA ERA DE LAS VANGUARDIAS HISTÓRICAS:ART",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2150",
+    "name": "SOCIEDAD Y MEDIOS DE COMUNICACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2158",
+    "name": "TÓPICOS DE POLÍTICA LATINOAMERICANA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2177",
+    "name": "B-LEARNING IMÁGEN, FOTOGRAFÍA Y MEMORIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2189",
+    "name": "DERECHOS DE LAS MINORÍAS E INTERCULTURAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2192",
+    "name": "DEBATES DE GÉNERO: MUJERES Y HOMBRES EN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2200",
+    "name": "LAS ESCUELAS DE TEORÍA ECONÓMICA EN EL S",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2202",
+    "name": "DESIGUALDAD:DEFINICIÓN,MEDICIÓN Y CASOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2203",
+    "name": "EDUCACIÓN SUPERIOR EN CHILE: DESAFÍOS Y",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2208",
+    "name": "EL DOCUMENTAL EN AMÉRICA LATINA: UN RELA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2209",
+    "name": "CONSTRUCCIÓN SOCIAL DE LA ENFERMEDAD:CI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2222",
+    "name": "CIUDADES SUSTENTABLES:DESAFÍOS EN AMCA.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2224",
+    "name": "POBLACIÓN,DESARROLLO Y POLÍTICAS PÚBL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2244",
+    "name": "CIUDADANÍA , POBREZA E INNOVACIÓN SOCIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2253",
+    "name": "CREYENTES, AGNÓSTICOS Y ATEOS EN LA ERA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2262",
+    "name": "CRISIS MEDIOAMBIENTAL Y SUS CONSECUENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2278",
+    "name": "MOVIMIENTOS SOCIALES EN LA HISTORIA RECI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2285",
+    "name": "EL SIGLO XX: TRANSFORMACIONES Y CONFLICT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5005",
+    "name": "SALUD PÚBLICA Y POLÍTICAS PÚBLICAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5006",
+    "name": "B-LEARNING HIS. DEL DOCUMENTAL CONTEM.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO2020",
+    "name": "TEORÍA POLÍTICA MODERNA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3001",
+    "name": "TEORÍAS, CONCEPTOS Y MÉTODO COMPARADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3002",
+    "name": "TEORÍAS Y CONCEPTOS DE RELACIONES INTERN",
+    "credits": 5,
+    "references": [
+      "DER9896"
+    ]
+  },
+  {
+    "code": "CPO3003",
+    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
+    "credits": 5,
+    "references": [
+      "DER9897"
+    ]
+  },
+  {
+    "code": "CPO3008",
+    "name": "TALLER DE RECURSOS Y REDACCIÓN EN CIENCI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3011",
+    "name": "DESARROLLO POLÍTICO Y ECONÓMICO DE AMÉRI",
+    "credits": 5,
+    "references": [
+      "DER9898"
+    ]
+  },
+  {
+    "code": "CPO3012",
+    "name": "RELACIONES INTERNACIONALES EN AMÉRICA LA",
+    "credits": 5,
+    "references": [
+      "DER9899"
+    ]
+  },
+  {
+    "code": "CPO3014",
+    "name": "MÉTODOS CUANTITATIVOS AVANZADOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3030",
+    "name": "PRÁCTICA PROFESIONAL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3600",
+    "name": "OPTATIVO DE DESARROLLO PROFESIONAL: TALL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5031",
+    "name": "DERECHO INTERNACIONAL PÚBLICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4004",
+    "name": "PUEBLOS ORIGINARIOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4015",
+    "name": "CHILE S. XIX",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4040",
+    "name": "ESPACIO Y TERRITORIALIDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3002",
+    "name": "LATÍN I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4113",
+    "name": "PSICOLOGÍA GENERAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4121",
+    "name": "HISTORIA DE LA PSICOLOGÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4124",
+    "name": "ANÁLISIS CRÍTICO DE LA PSICOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4212",
+    "name": "PSICOLOGÍA DE LA ADOLESCENCIA Y JUVENTUD",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4414",
+    "name": "PSICOLOGÍA Y SUJETOS SOCIALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC9078",
+    "name": "SOCIOLOGIA URBANA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC9080",
+    "name": "SOCIOLOGÍA POLÍTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2294",
+    "name": "B-LEARNIN CAMBIO CLI. Y ECO. POL. GLOBAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2295",
+    "name": "B-LEARNING RELACIONES DE PODER Y GÉNERO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2296",
+    "name": "B-LEARNING GLOB., INFO. Y SOC. ACTUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CPO3517",
+    "name": "ENCUESTAS DE OPINIÓN PÚBLICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2318",
+    "name": "RELACIONES DE GÉNERO Y VIOLENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2321",
+    "name": "REP. MUJER EN LOS MEDIOS DE COM Y CULTUR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2327",
+    "name": "EL INMIGRANTE SUEÑO Y CONFLICTOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2325",
+    "name": "B-LEARNING DILEMAS ÉTICOS DE LAS DEMOC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2323",
+    "name": "B-LEARNING BIOÉTICA Y SOCIEDAD ACTUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2324",
+    "name": "B-LEARNING CINE LATINOAMERICANO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "CFG2339",
+    "name": "ESCRITURA ACADÉMICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO4000",
+    "name": "INTRODUCCIÓN A MÉTODOS",
+    "credits": 5,
+    "references": [
+      "CPO3000"
+    ]
+  },
+  {
+    "code": "CPO4001",
+    "name": "TEO. Y CONCEPTOS  DE POLÍTICAS PÚBLICAS",
+    "credits": 5,
+    "references": [
+      "CPO3023"
+    ]
+  },
+  {
+    "code": "CPO4003",
+    "name": "GESTIÓN PÚBLICA Y PRESUPUESTARIA",
+    "credits": 5,
+    "references": [
+      "CPO3013"
+    ]
+  },
+  {
+    "code": "CFG2343",
+    "name": "FOTOGRAFÍA Y MEMORIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO4007",
+    "name": "DISEÑO DE INVESTIGACIÓN",
+    "credits": 10,
+    "references": [
+      "CPO3024"
+    ]
+  },
+  {
+    "code": "CPO4008",
+    "name": "ECONOMÍA POLÍTICA",
+    "credits": 5,
+    "references": [
+      "CPO3022"
+    ]
+  },
+  {
+    "code": "SOC8112",
+    "name": "INTRODUCCIÓN A LAS SOCIEDADES MODERNAS",
+    "credits": 5,
+    "references": [
+      "SOC7112"
+    ]
+  },
+  {
+    "code": "SOC8115",
+    "name": "PROBLEMAS SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2352",
+    "name": "MUJER Y PENSAMIENTO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2354",
+    "name": "B-LEARNING GUERRA FRÍA Y SOCIEDAD ACTUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2355",
+    "name": "B-LEARNING ARTE Y MEMORIA EN AMÉRICA LAT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2353",
+    "name": "B-LEARNING MIGRACIONES Y DIVERSIDAD CULT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2358",
+    "name": "ESCRITORAS NORTEAMERICANAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PER6114",
+    "name": "ARGUMENTACIÓN Y PENSAMIENTO CRÍTICO",
+    "credits": 5,
+    "references": [
+      "PER5114"
+    ]
+  },
+  {
+    "code": "PER6215",
+    "name": "CHILE ENTRE SIGLOS",
+    "credits": 4,
+    "references": [
+      "PER5125"
+    ]
+  },
+  {
+    "code": "CPO3521",
+    "name": "POLÍTICA Y GÉNERO",
+    "credits": 5,
+    "references": [
+      "DER9900"
+    ]
+  },
+  {
+    "code": "SOC9101",
+    "name": "DESARROLLO ORGANIZACIONAL APLICADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2368",
+    "name": "FEMINISMO DIVERSOS Y DISIDENCIAS SEXUALE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2369",
+    "name": "VARONES HEGEMÓNICOS: MASCULINIDADES Y PA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3523",
+    "name": "PROGRAMACIÓN CIENCIAS SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PUB9113",
+    "name": "ANTROPOLOGÍA DEL CONSUMO",
+    "credits": 5,
+    "references": [
+      "PUB8121"
+    ]
+  },
+  {
+    "code": "ICO09122",
+    "name": "MICROECONOMÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09414",
+    "name": "TALLER EMPRENDIMIENTO",
+    "credits": 6,
+    "references": [
+      "ICO8824"
+    ]
+  },
+  {
+    "code": "SOC00001",
+    "name": "BIG DATA PARA LAS CIENCIAS SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC00002",
+    "name": "ESTUDIOS DE CASO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO00002",
+    "name": "POLITICA (S) DEL MEDIO AMBIENTE",
+    "credits": 5,
+    "references": [
+      "DER9903"
+    ]
+  },
+  {
+    "code": "CFG2380",
+    "name": "HISTORIA LGBTI DE CHILE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2385",
+    "name": "¿QUÉ SE CUENTA EN LATINOAMÉRICA HOY?",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2388",
+    "name": "WOMEN'S RIGHTS MOVEMENTS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08113",
+    "name": "HISTORIA DE CHILE SIGLO XX",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO00003",
+    "name": "DEBATES SOBRE MULTICULTURALISMO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08117",
+    "name": "FUNDAMENTOS DEL DERECHO PRIVADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5011",
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5023",
+    "name": "PATRIMONIO EN TENSIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO00005",
+    "name": "ETNOGRAFÍA POLÍTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

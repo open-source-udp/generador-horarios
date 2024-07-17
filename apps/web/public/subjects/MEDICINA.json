@@ -1,0 +1,280 @@
+[
+  {
+    "code": "MED1012",
+    "name": "EL SER HUMANO NORMAL I",
+    "credits": 20,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED1013",
+    "name": "DIÁLOGOS INTEGRADOS: PATOLOGÍA GENERAL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED1018",
+    "name": "DIÁLOGOS INTEGRADOS MÉDICO QUIRÚRGICO II",
+    "credits": 25,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED1037",
+    "name": "ADMINISTRACIÓN GENERAL Y SALUD",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2003",
+    "name": "TALLER DE INVESTIGACIÓN II",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2005",
+    "name": "TALLER DE INVESTIGACIÓN III",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2006",
+    "name": "BIOÉTICA CLÍNICA I",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2017",
+    "name": "SALUD DE LA MUJER",
+    "credits": 26,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2018",
+    "name": "SALUD DEL NIÑO",
+    "credits": 26,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2019",
+    "name": "INTERNADO INTEGRAL DE SALUD COMUNITARIA",
+    "credits": 28,
+    "references": [
+      "MED1045"
+    ]
+  },
+  {
+    "code": "MED2021",
+    "name": "INTERNADO DE CIRUGÍA",
+    "credits": 28,
+    "references": [
+      "MED1041"
+    ]
+  },
+  {
+    "code": "MED2022",
+    "name": "INTERNADO DE PEDIATRÍA",
+    "credits": 28,
+    "references": [
+      "MED1042"
+    ]
+  },
+  {
+    "code": "MED2023",
+    "name": "INTERNADO DE GINECOLOGÍA - OBSTETRICIA",
+    "credits": 28,
+    "references": [
+      "MED1043"
+    ]
+  },
+  {
+    "code": "MED2024",
+    "name": "INTERNADO DE SALUD MENTAL",
+    "credits": 9,
+    "references": [
+      "MED1044"
+    ]
+  },
+  {
+    "code": "MED2026",
+    "name": "INTERNADO ELECTIVO",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2027",
+    "name": "DIÁLOGOS INTEGRADOS PATOLOGÍA QUIRURGICA",
+    "credits": 20,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2028",
+    "name": "DIÁLOGOS INTEGRADOS DE SALUD MENTAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2029",
+    "name": "EPIDEMIOLOGÍA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2031",
+    "name": "DIÁLOGOS INTEGRADOS DE LOS SENTIDOS I",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2032",
+    "name": "DIÁLOGOS INTEGRADOS DE LOS SENTIDOS II",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "MED2033",
+    "name": "INTERNADO DE MEDICINA Y GERIATRIA",
+    "credits": 28,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2034",
+    "name": "INTERNADO DE NEUROLOGIA",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "MED03111",
+    "name": "VIVENCIAS DE LA MEDICINA 1",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03112",
+    "name": "BASES CIENTÍFICAS DE LA MEDICINA",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03113",
+    "name": "MECANISMOS CELULARES EN SALUD Y ENFERMED",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03114",
+    "name": "PENSAMIENTO CRÍTICO",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03115",
+    "name": "TÉCNICAS AVANZADAS DE APRENDIZAJE",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03211",
+    "name": "INTRODUCCIÓN A LA PRÁCTICA CLÍNICA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03212",
+    "name": "BASES ESTRUCTURALES Y FUNCIONALES 2",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03213",
+    "name": "BIOESTADÍSTICA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED03214",
+    "name": "BIOÉTICA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  }
+]

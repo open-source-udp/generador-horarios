@@ -1,0 +1,658 @@
+[
+  {
+    "code": "CFG2014",
+    "name": "PROBLEMÁTICAS CONTEMPORÁNEAS DE LA SEXUA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2017",
+    "name": "HISTORIA DE LA CIENCIA: INFLEXIONES E IM",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2027",
+    "name": "LA CIUDAD CÓMO ESPACIO INCLUSIVO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2050",
+    "name": "CUENTO NORTEAMERICANO CONTEMPORÁNEO: REL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2059",
+    "name": "POESIA INDIGENA LATINOAMERICANA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2066",
+    "name": "ORIGEN Y EVOLUCIÓN DE LA VIDA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2086",
+    "name": "LA GUERRA FRIA ORIGEN Y FORMACION DEL MU",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2098",
+    "name": "REVOLUCIONES DE LA HISTORIA CONTEMPORÁNE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2135",
+    "name": "B-LEARNING EE.UU: SU VISIÓN DE LA LIBERT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2141",
+    "name": "LA CIUDAD:UN TERRITORIO EN DISPUTA.DEBAT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2149",
+    "name": "LA ERA DE LAS VANGUARDIAS HISTÓRICAS:ART",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2150",
+    "name": "SOCIEDAD Y MEDIOS DE COMUNICACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2158",
+    "name": "TÓPICOS DE POLÍTICA LATINOAMERICANA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2166",
+    "name": "MÚSICA LATINOAMERICANA Y MOVIMIENTOS SOC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2177",
+    "name": "B-LEARNING IMÁGEN, FOTOGRAFÍA Y MEMORIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2189",
+    "name": "DERECHOS DE LAS MINORÍAS E INTERCULTURAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2192",
+    "name": "DEBATES DE GÉNERO: MUJERES Y HOMBRES EN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2198",
+    "name": "B-LEARNIN EL SIST. SOLAR Y LA BÚSQ.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2200",
+    "name": "LAS ESCUELAS DE TEORÍA ECONÓMICA EN EL S",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2202",
+    "name": "DESIGUALDAD:DEFINICIÓN,MEDICIÓN Y CASOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2203",
+    "name": "EDUCACIÓN SUPERIOR EN CHILE: DESAFÍOS Y",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2208",
+    "name": "EL DOCUMENTAL EN AMÉRICA LATINA: UN RELA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2209",
+    "name": "CONSTRUCCIÓN SOCIAL DE LA ENFERMEDAD:CI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2222",
+    "name": "CIUDADES SUSTENTABLES:DESAFÍOS EN AMCA.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2224",
+    "name": "POBLACIÓN,DESARROLLO Y POLÍTICAS PÚBL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2239",
+    "name": "POESÍA LATINOAMERICANA CONTEMPORÁNEA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2240",
+    "name": "MICROORGANISMOS: ORÍGENES Y PANDEMIAS AC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2244",
+    "name": "CIUDADANÍA , POBREZA E INNOVACIÓN SOCIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2253",
+    "name": "CREYENTES, AGNÓSTICOS Y ATEOS EN LA ERA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2262",
+    "name": "CRISIS MEDIOAMBIENTAL Y SUS CONSECUENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2273",
+    "name": "ASTRONOMÍA MODERNA, UNA PERSPECTIVA CÓSM",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2278",
+    "name": "MOVIMIENTOS SOCIALES EN LA HISTORIA RECI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2285",
+    "name": "EL SIGLO XX: TRANSFORMACIONES Y CONFLICT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5005",
+    "name": "SALUD PÚBLICA Y POLÍTICAS PÚBLICAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5006",
+    "name": "B-LEARNING HIS. DEL DOCUMENTAL CONTEM.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2294",
+    "name": "B-LEARNIN CAMBIO CLI. Y ECO. POL. GLOBAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2295",
+    "name": "B-LEARNING RELACIONES DE PODER Y GÉNERO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2296",
+    "name": "B-LEARNING GLOB., INFO. Y SOC. ACTUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2312",
+    "name": "RAZONAMIENTO Y PENSAMIENTO CRÍTICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2318",
+    "name": "RELACIONES DE GÉNERO Y VIOLENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2321",
+    "name": "REP. MUJER EN LOS MEDIOS DE COM Y CULTUR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2327",
+    "name": "EL INMIGRANTE SUEÑO Y CONFLICTOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2325",
+    "name": "B-LEARNING DILEMAS ÉTICOS DE LAS DEMOC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2323",
+    "name": "B-LEARNING BIOÉTICA Y SOCIEDAD ACTUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2322",
+    "name": "B-LEARNING MEDIOAMBIENTE Y CIUDADANÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2324",
+    "name": "B-LEARNING CINE LATINOAMERICANO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2331",
+    "name": "LAS SUSTANCIAS PSICOACTIVAS (DROGAS)",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2335",
+    "name": "PSICOANÁLISIS Y CRIMINOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2336",
+    "name": "EL PODER CONTRA EL CINE DEL CUERPO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2339",
+    "name": "ESCRITURA ACADÉMICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2341",
+    "name": "PSICOLOGÍA, CINE Y NEUROCIENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2343",
+    "name": "FOTOGRAFÍA Y MEMORIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2347",
+    "name": "ACCIÓN, INTENCIÓN Y SUS EFECTOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2352",
+    "name": "MUJER Y PENSAMIENTO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2354",
+    "name": "B-LEARNING GUERRA FRÍA Y SOCIEDAD ACTUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2355",
+    "name": "B-LEARNING ARTE Y MEMORIA EN AMÉRICA LAT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2353",
+    "name": "B-LEARNING MIGRACIONES Y DIVERSIDAD CULT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2358",
+    "name": "ESCRITORAS NORTEAMERICANAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2365",
+    "name": "PROBLEMAS ÉTICOS-JURÍDICOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2366",
+    "name": "MÚSICA, PERCEPCIÓN Y EMOCIONES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2368",
+    "name": "FEMINISMO DIVERSOS Y DISIDENCIAS SEXUALE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2369",
+    "name": "VARONES HEGEMÓNICOS: MASCULINIDADES Y PA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2380",
+    "name": "HISTORIA LGBTI DE CHILE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2385",
+    "name": "¿QUÉ SE CUENTA EN LATINOAMÉRICA HOY?",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2387",
+    "name": "ASTRONOMIA GENERAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2388",
+    "name": "WOMEN'S RIGHTS MOVEMENTS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2390",
+    "name": "NEUROCIENCIA Y LA ERA DIGITAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2397",
+    "name": "MEMORIA EN AMÉRICA LATINA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5011",
+    "name": "INTELIGENCIA ARTIFICIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5013",
+    "name": "INDIGENOUS POPULATION IN CHILE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5014",
+    "name": "ENVIRONMENT AND SUSTAINABLE DEVELOPMENT",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5016",
+    "name": "EXTENSIÓN: HUMANIDADES CONTEMPORÁNEAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5012",
+    "name": "DOING BUSINESS IN LATIN AMERICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5018",
+    "name": "ZOOMING IN AND OUT: SCALING THE UNIVERSE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5023",
+    "name": "PATRIMONIO EN TENSIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5022",
+    "name": "GENOMA:LA NUEVA ERA SELECCIÓN GENÉTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5024",
+    "name": "ESCRITURA ARTIFICIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5028",
+    "name": "TERRITORIO Y CONVIVENCIA SOCIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5030",
+    "name": "LA ANATOMIA NARRATIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5029",
+    "name": "EDUCACIÓN EN SALUD SEXUAL Y REPRODUCTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5031",
+    "name": "PENSAMIENTO POLÍTICO DE PARRA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG5034",
+    "name": "ASTRONOMÍA Y LITERATURA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]
