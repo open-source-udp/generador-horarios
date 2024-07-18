@@ -24,6 +24,9 @@
     "parse": {
       "cache": false
     },
-    "storybook": {}
+    "storybook": {},
+    "start": {
+      "cache": false
+    }
   }
 }

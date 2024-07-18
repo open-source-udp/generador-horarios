@@ -27,7 +27,7 @@ const useSectionSelect = (
         selectedSection: AUTO_SECTION,
       });
     }
-  }, [course]);
+  }, [course, selectCourse, selectedCoursesIndex]);
 
   const getOptionDisabled = (option) => {
     if (option === AUTO_SECTION) {
