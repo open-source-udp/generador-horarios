@@ -1,0 +1,23 @@
+[
+  {
+    "code": "DHP1002_VC01",
+    "subjectCode": "DHP1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "KOWALCZYK ANNA MARIA"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "KOWALCZYK ANNA MARIA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "code": "EVE0601",
+    "name": "TECNOLOGÍAS DE INFORMACIÓN EMPRESARIAL",
+    "credits": 5,
+    "references": [
+      "IAE4219"
+    ]
+  },
+  {
+    "code": "EVE0202",
+    "name": "ADMINISTRACIÓN II",
+    "credits": 5,
+    "references": [
+      "IAE4201"
+    ]
+  },
+  {
+    "code": "EVE0401",
+    "name": "ENTORNO ECONÓMICO Y EMPRESA",
+    "credits": 5,
+    "references": [
+      "IAE4113"
+    ]
+  },
+  {
+    "code": "EVE0301",
+    "name": "DERECHO EMPRESARIAL",
+    "credits": 5,
+    "references": [
+      "IAE4811"
+    ]
+  },
+  {
+    "code": "CAV1012",
+    "name": "CONTABILIDAD II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1014",
+    "name": "CONTABILIDAD IV",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1021",
+    "name": "CONTABILIDAD Y PROCESOS DE COSTOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1045",
+    "name": "TRIBUTARIA EMPRESAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1092",
+    "name": "ADMINISTRACIÓN BASE DE DATOS TI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE0101",
+    "name": "ESTADISTICA I",
+    "credits": 5,
+    "references": [
+      "IAE4307",
+      "IFG1302"
+    ]
+  },
+  {
+    "code": "CAV1032",
+    "name": "AUDITORIA ESTADOS FINANCIEROS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1022",
+    "name": "GESTIÓN Y CONTROL PRESUPUESTARIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1072",
+    "name": "ADMINISTRACIÓN FINANCIERA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1034",
+    "name": "AUDITORIA TRIBUTARIA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1171",
+    "name": "JUEGO DE INTEGRACIÓN PROFESIONAL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV1042",
+    "name": "SOCIEDAD Y DERECHO LABORAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "INL4090",
+    "name": "HERRAMIENTAS APLICADAS PROC LOGÍSTICOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00004",
+    "name": "APLICACIÓN DE LAS IFRS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00003",
+    "name": "AUDITORÍA FORENSE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00001",
+    "name": "GESTIÓN TRIBUTARIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IIG4002",
+    "name": "NEGOCIOS EN INTERNET",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5801",
+    "name": "GESTIÓN DE DATOS PARA TOMA DE DECISIONES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5802",
+    "name": "TALLER DE EMPRENDIMIENTO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5803",
+    "name": "ÉTICA DE LOS NEGOCIOS Y LA GERENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5807",
+    "name": "GERENCIA DE RETAIL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "code": "DHA1002_CAT",
+    "subjectCode": "DHA1002",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PRIETO JOSE LUIS"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PRIETO JOSE LUIS"
+      }
+    ]
+  }
+]

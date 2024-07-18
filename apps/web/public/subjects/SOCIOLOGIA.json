@@ -1,39 +1,15 @@
 [
   {
-    "code": "SOC9035",
-    "name": "ANÁLISIS AVANZADOS DE DATOS II",
+    "code": "SOC9072",
+    "name": "SOCIOLOGÍA DEL CAMPO CULTURAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC9056",
-    "name": "MARKETING Y ESTUDIOS DE MERCADO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "SOC9076",
-    "name": "SOCIOLOGÍA ORGANIZACIÓNAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "SOC9078",
-    "name": "SOCIOLOGIA URBANA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "SOC9080",
-    "name": "SOCIOLOGÍA POLÍTICA",
+    "code": "SOC9092",
+    "name": "TEORIAS DECOLONIALES",
     "credits": 5,
     "references": [
       ""
@@ -70,144 +46,144 @@
     ]
   },
   {
-    "code": "SOC8112",
-    "name": "INTRODUCCIÓN A LAS SOCIEDADES MODERNAS",
-    "credits": 5,
-    "references": [
-      "SOC7112"
-    ]
-  },
-  {
-    "code": "SOC8115",
-    "name": "PROBLEMAS SOCIALES",
+    "code": "SOC8323",
+    "name": "TALLER DE ESCRITURA SOCIOLÓGICA II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8113",
-    "name": "TALLER DE ESCRITURA SOCIOLÓGICA I",
+    "code": "SOC8125",
+    "name": "MICROECONOMÍA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8315",
-    "name": "DISEÑO DE PROYECTOS",
-    "credits": 5,
-    "references": [
-      "SOC7325"
-    ]
-  },
-  {
-    "code": "SOC8111",
-    "name": "INTRODUCCIÓN A LA SOCIOLOGÍA",
+    "code": "SOC8124",
+    "name": "ESTADÍSTICA I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8114",
-    "name": "MATEMÁTICAS",
+    "code": "SOC8223",
+    "name": "MÉTODOS CUALITATIVOS II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8213",
-    "name": "MÉTODOS CUALITATIVOS I",
+    "code": "SOC8225",
+    "name": "POLÍTICAS PÚBLICAS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8215",
-    "name": "MACROECONOMÍA",
+    "code": "SOC8224",
+    "name": "ANÁLISIS AVANZADO DE DATOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8214",
-    "name": "ESTADÍSTICA II",
+    "code": "SOC8121",
+    "name": "TEORÍA I",
+    "credits": 5,
+    "references": [
+      "SOC7121"
+    ]
+  },
+  {
+    "code": "SOC8123",
+    "name": "LÓGICA DE LA INVESTIGACIÓN",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8313",
-    "name": "EPISTEMOLOGÍA DE LAS CIENCIAS SOCIALES",
+    "code": "SOC8222",
+    "name": "ESTRATIFICACIÓN Y DESIGUALDAD",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8212",
-    "name": "PROCESOS SOCIALES II",
-    "credits": 5,
-    "references": [
-      "SOC7212"
-    ]
-  },
-  {
-    "code": "SOC8211",
-    "name": "TEORÍA II",
+    "code": "SOC8221",
+    "name": "TEORÍA III",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC8311",
-    "name": "TEORÍA IV",
+    "code": "SOC8122",
+    "name": "PROCESOS SOCIALES I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC9101",
-    "name": "DESARROLLO ORGANIZACIONAL APLICADO",
+    "code": "SOC9097",
+    "name": "EVALUACIÓN DE PROYECTOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC00001",
-    "name": "BIG DATA PARA LAS CIENCIAS SOCIALES",
+    "code": "SOC00003",
+    "name": "SOCIOLOGÍA DE LA ESCUCHA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC00002",
-    "name": "ESTUDIOS DE CASO",
+    "code": "SOC00005",
+    "name": "DESIGUALDADES DE GÉNERO",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CPO00002",
-    "name": "POLITICA (S) DEL MEDIO AMBIENTE",
+    "code": "SOC00007",
+    "name": "MIGRACIONES CONTEMPORÁNEAS",
     "credits": 5,
     "references": [
-      "DER9903"
+      ""
     ]
   },
   {
-    "code": "SOC00009",
-    "name": "INVESTIGACIÓN SOCIAL APLICADA",
+    "code": "SOC00012",
+    "name": "INTRODUCCIÓN A ESTUDIOS DE DISCAPACIDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC00013",
+    "name": "SOCIOLOGÍA DE LA CRISIS CLIMÁTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC00014",
+    "name": "SOCIOLOGÍA DE LA DEMOCRACIA",
     "credits": 5,
     "references": [
       ""

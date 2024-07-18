@@ -1,111 +1,111 @@
 [
   {
-    "code": "ODT3001",
-    "name": "MORFOFUNCIÓN I",
+    "code": "ODT3006",
+    "name": "MORFOFUNCIÓN II",
     "credits": 11,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3002",
-    "name": "MATEMÁTICAS",
+    "code": "ODT3007",
+    "name": "BIOFÍSICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3003",
-    "name": "BIOLOGÍA",
+    "code": "ODT3008",
+    "name": "BIOQUÍMICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3004",
-    "name": "QUÍMICA GENERAL Y ORGÁNICA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ODT3005",
-    "name": "INTRODUCCIÓN A LA ODONTOLOGÍA",
+    "code": "ODT3009",
+    "name": "HABILIDADES Y DESTREZAS ODONTOLÓGICAS",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3010",
-    "name": "ANATOMÍA APLICADA",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ODT3011",
-    "name": "MICROBIOLOGÍA Y PARASITOLOGÍA",
+    "code": "ODT3015",
+    "name": "MICROBIOLOGÍA ORAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3012",
-    "name": "PATOLOGÍA GENERAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ODT3014",
-    "name": "BIOÉTICA",
+    "code": "ODT3016",
+    "name": "ELEMENTOS ESENCIALES SOBRE PROTECCIÓN RA",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3019",
-    "name": "DIAGNÓSTICO POR IMÁGENES I",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ODT3021",
-    "name": "PATOLOGÍA ORAL II",
+    "code": "ODT3017",
+    "name": "PATOLOGÍA ORAL I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3035",
-    "name": "PROMOCIÓNY PREVENCIÓN EN SALUD",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ODT3036",
-    "name": "INGLÉS II",
+    "code": "ODT3018",
+    "name": "EPIDEMIOLOGÍA",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "ODT3041",
-    "name": "METODOLOGÍA DE LA INVESTIGACIÓN",
+    "code": "ODT3025",
+    "name": "DIAGNÓSTICO POR IMÁGENES II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3026",
+    "name": "PATOLOGÍA ORAL III",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3032",
+    "name": "INGLÉS I",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3038",
+    "name": "ODONTOLOGÍA LEGAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3039",
+    "name": "GESTIÓN EN SALUD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ODT3042",
+    "name": "SEMINARIO DE INVESTIGACIÓN",
     "credits": 10,
     "references": [
       ""

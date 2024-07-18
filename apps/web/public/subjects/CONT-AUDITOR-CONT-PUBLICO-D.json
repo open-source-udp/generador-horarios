@@ -44,7 +44,7 @@
     "name": "SOCIEDAD Y ENTORNO LEGAL DE LA EMPRESA",
     "credits": 5,
     "references": [
-      "EAI7041"
+      ""
     ]
   },
   {
@@ -52,7 +52,7 @@
     "name": "MATEMÁTICAS I, ADMINISTRACIÓN Y NEGOCIOS",
     "credits": 5,
     "references": [
-      "EAI7051"
+      ""
     ]
   },
   {
@@ -60,7 +60,7 @@
     "name": "SOCIEDAD,ORGANIZACIÓN EMPRESA Y PERSONAS",
     "credits": 5,
     "references": [
-      "EAI7061"
+      ""
     ]
   },
   {
@@ -68,15 +68,7 @@
     "name": "SISTEMA DE INFORMACIÓN Y COMUNICACIÓN I",
     "credits": 5,
     "references": [
-      "EAI7091"
-    ]
-  },
-  {
-    "code": "AUD8112",
-    "name": "EXPRESIÓN Y COMUNICACIÓN",
-    "credits": 5,
-    "references": [
-      "EAI7101"
+      ""
     ]
   },
   {
@@ -84,7 +76,7 @@
     "name": "PRINCIPIOS DE CONTABILIDAD IFRS",
     "credits": 5,
     "references": [
-      "EAI7011"
+      ""
     ]
   },
   {
@@ -92,7 +84,15 @@
     "name": "MATEMÁTICAS II ADMINIST. Y NEGOCIOS",
     "credits": 5,
     "references": [
-      "EAI7052"
+      ""
+    ]
+  },
+  {
+    "code": "AUD8062",
+    "name": "ADMINISTRACIÓN DE EMPRESAS",
+    "credits": 5,
+    "references": [
+      ""
     ]
   },
   {
@@ -104,11 +104,19 @@
     ]
   },
   {
+    "code": "AUD8114",
+    "name": "ÉTICA PROF Y RESP SOCIAL EMPRESARIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "AUD8012",
     "name": "PROCESOS CONTABILIDAD BÁSICA IFRS",
     "credits": 5,
     "references": [
-      "EAI7012"
+      ""
     ]
   },
   {
@@ -116,7 +124,7 @@
     "name": "DERECHO DEL TRABAJO Y SEGURIDAD SOCIAL",
     "credits": 5,
     "references": [
-      "EAI7042"
+      ""
     ]
   },
   {
@@ -132,7 +140,7 @@
     "name": "SOCIEDAD Y ENTORNO MICROECONÓMICO",
     "credits": 5,
     "references": [
-      "EAI7081"
+      ""
     ]
   },
   {
@@ -140,7 +148,7 @@
     "name": "PROCESOS CONTABILIDAD INTERMEDIA IFRS",
     "credits": 5,
     "references": [
-      "EAI7013"
+      ""
     ]
   },
   {
@@ -148,7 +156,7 @@
     "name": "DERECHO TRIBUTARIO",
     "credits": 5,
     "references": [
-      "EAI7044"
+      ""
     ]
   },
   {
@@ -156,7 +164,7 @@
     "name": "CONTABILIDAD Y PROCESOS DE COSTOS",
     "credits": 5,
     "references": [
-      "EAI7021"
+      ""
     ]
   },
   {
@@ -164,7 +172,7 @@
     "name": "FINANZAS DE LA EMPRESA CORTO PLAZO",
     "credits": 5,
     "references": [
-      "EAI7071"
+      ""
     ]
   },
   {
@@ -172,7 +180,15 @@
     "name": "PROCESOS CONTABILIDAD SUPERIOR IFRS",
     "credits": 5,
     "references": [
-      "EAI7014"
+      ""
+    ]
+  },
+  {
+    "code": "AUD8082",
+    "name": "SOCIEDAD Y ENTORNO MACROECONÓMICO",
+    "credits": 5,
+    "references": [
+      ""
     ]
   },
   {
@@ -180,7 +196,7 @@
     "name": "DERECHO TRIBUTARIO EMPRESAS",
     "credits": 5,
     "references": [
-      "EAI7045"
+      ""
     ]
   },
   {
@@ -194,14 +210,6 @@
   {
     "code": "AUD8054",
     "name": "ESTADÍSTICAS, AUDITORIA Y NEGOCIOS",
-    "credits": 5,
-    "references": [
-      "EAI7053"
-    ]
-  },
-  {
-    "code": "AUD8064",
-    "name": "COMPORTAMIENTO ORGANIZACIONAL",
     "credits": 5,
     "references": [
       ""
@@ -220,7 +228,7 @@
     "name": "PROCESOS CONTABILIDAD AVANZADA IFRS",
     "credits": 5,
     "references": [
-      "EAI7015"
+      ""
     ]
   },
   {
@@ -236,7 +244,7 @@
     "name": "FINANZAS DE LA EMPRESA LARGO PLAZO",
     "credits": 5,
     "references": [
-      "EAI7072"
+      ""
     ]
   },
   {
@@ -276,7 +284,7 @@
     "name": "DIRECCIÓN ESTRATEGICA DE EMPRESAS",
     "credits": 5,
     "references": [
-      "EAI7065"
+      ""
     ]
   },
   {
@@ -360,6 +368,14 @@
     ]
   },
   {
+    "code": "AUD8428",
+    "name": "TÓPICOS AVANZADOS DE IFR",
+    "credits": 5,
+    "references": [
+      "EAI7438"
+    ]
+  },
+  {
     "code": "AUD8429",
     "name": "TRIBUTACIÓN AVANZADA",
     "credits": 5,
@@ -373,6 +389,22 @@
     "credits": 5,
     "references": [
       ""
+    ]
+  },
+  {
+    "code": "AUD8801",
+    "name": "INTRODUCCIÓN LABORAL PROFESIONAL",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8047",
+    "name": "DERECHO TRIBUTARIO PERSONAS",
+    "credits": 5,
+    "references": [
+      "AUD8046"
     ]
   }
 ]

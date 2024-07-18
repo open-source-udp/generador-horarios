@@ -1,55 +1,1025 @@
 [
   {
-    "code": "BAC08111",
-    "name": "INTRODUCCIÓN A LA SOCIOLOGÍA",
+    "code": "CPO2016",
+    "name": "TEORÍA POLÍTICA CLÁSICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAC08112",
-    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
+    "code": "CPO2025",
+    "name": "TEORÍA POLÍTICA CONTEMPORÁNEA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAC08113",
-    "name": "HISTORIA DE CHILE SIGLO XX",
+    "code": "CPO3005",
+    "name": "MÉTODOS CUALITATIVOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAC08114",
-    "name": "PSICOLOGÍA GENERAL",
+    "code": "CPO3006",
+    "name": "SISTEMA POLÍTICO E INSTITUCIONES COMPARA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3007",
+    "name": "SISTEMA E INSTITUCIONES INTERNACIONALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3010",
+    "name": "MÉTODOS CUANTITATIVOS INTRODUCTORIOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3016",
+    "name": "CHILE Y EL SISTEMA INTERNACIONAL",
+    "credits": 5,
+    "references": [
+      "DER9905"
+    ]
+  },
+  {
+    "code": "CPO3019",
+    "name": "TALLER DE ANÁLISIS EN POLÍTICA COMPARADA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3020",
+    "name": "TALLER DE ANÁLISIS EN RELACIONES INTERNA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3604",
+    "name": "OPTATIVO DE DESARROLLO PROFESIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DHA1002",
+    "name": "ESTRELLAS: NAC-VIDA Y MUERTE EN LA VIA L",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DIS9003",
+    "name": "SERIGRAFÍA Y TÉCNICAS MIXTAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4003",
+    "name": "FUNDAM. TEÓRICOS ENSEÑANZA DE LA LENGUA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4004",
+    "name": "MATEMÁTICA 1: NÚMEROS Y SU DIDÁCTICA.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4005",
+    "name": "PSICOLOGÍA APREN. Y NEUROC. F. PRÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4006",
+    "name": "NECESIDADES EDUCATIVAS ESPECIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4011",
+    "name": "FORMACIÓN PRÁCTICA: LENGUAJE Y COM.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4012",
+    "name": "LECTURA Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4013",
+    "name": "MATEMÁTICAS 3: ÁLGEBRA Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4014",
+    "name": "C. NATURALES 2: SERES VIVOS, ORGANISMOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4015",
+    "name": "E. SOCIALES 2: ESPACIO GEOGRÁF. Y SU DID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4016",
+    "name": "POLÍTICA EDUCATIVA Y LIDERAZGO PEDAGÓGIC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4025",
+    "name": "E. SOCIALES 3: HISTORIA E INTERDISCIP.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1003",
+    "name": "FORMACIÓN PRÁCTICA 1",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1004",
+    "name": "APRENDIZAJE Y DESARROLLO 2 : PSICOMOTRIC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1010",
+    "name": "APRENDIZAJE Y DESARROLLO 4: AUTONOMÍA Y",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1011",
+    "name": "EDUCACIÓN INCLUSIVA: TENSIONES ENTRE LA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1027",
+    "name": "CURRÍCULUM Y EVALUACIÓN EN EL SISTEMA ES",
+    "credits": 7,
+    "references": [
+      "EDD1005"
+    ]
+  },
+  {
+    "code": "EDD1029",
+    "name": "FORMACIÓN PRÁCTICA 3",
+    "credits": 5,
+    "references": [
+      "EDD1009"
+    ]
+  },
+  {
+    "code": "EDE1010",
+    "name": "PRÁCTICA INICIAL I",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1011",
+    "name": "ENGLISH 4",
+    "credits": 12,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1012",
+    "name": "LANGUAGE FOUNDATIONS 4: LEXICO-GRAMMAR",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1013",
+    "name": "EFL APPLIED LINGUISTICS",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAC08115",
-    "name": "FUNDAMENTOS BIOLÓGICOS",
+    "code": "EDE1030",
+    "name": "ENGLISH SPEAKING COUNTRIES CULTURE II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4004",
+    "name": "APPE Y D. II: FORM. PERS. Y SOC",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAC08116",
-    "name": "TALLER DE RAZONAMIENTO JURÍDICO",
-    "credits": 10,
+    "code": "EDP4005",
+    "name": "LENGUAJE ARTÍSTICO I: EXPRESIÓN PLÁSTICA",
+    "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAC08117",
-    "name": "FUNDAMENTOS DEL DERECHO PRIVADO",
+    "code": "EDP4006",
+    "name": "EVALUACIÓN EN LA EDUCACIÓN PARVULARIA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4007",
+    "name": "PERSPECTIVAS ACTUALES SOBRE LA INFANCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4013",
+    "name": "APPE. Y D. IV: CUIDADO Y PROM. S.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4014",
+    "name": "ENSEÑANZA DEL MUNDO NATURAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4015",
+    "name": "ADQUISICIÓN DEL LENGUAJE ORAL: SINTAXIS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4016",
+    "name": "CONST. CONOC. MAT. II: TABLAS Y GRAF.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDP4017",
+    "name": "FORMACIÓN PRÁCTICA 1",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDU4001",
+    "name": "EDUCACIÓN EN DERECHOS HUMANOS Y DIVERSID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4009",
+    "name": "CHILE COLONIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4010",
+    "name": "AMÉRICA COLONIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4023",
+    "name": "HISTORIA CONTEMPORÁNEA S. XIX",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG3111",
+    "name": "ENTORNO ECONÓMICO",
+    "credits": 5,
+    "references": [
+      "EIG2081"
+    ]
+  },
+  {
+    "code": "ICG3151",
+    "name": "TI PARA LOS NEGOCIOS I",
+    "credits": 5,
+    "references": [
+      "EIG2091"
+    ]
+  },
+  {
+    "code": "ICG3161",
+    "name": "MATEMÁTICAS",
+    "credits": 6,
+    "references": [
+      "EIG2051"
+    ]
+  },
+  {
+    "code": "ICG3212",
+    "name": "ENTORNO MICROECONÓMICO INDUSTRIAL",
+    "credits": 5,
+    "references": [
+      "EIG2082"
+    ]
+  },
+  {
+    "code": "ICG3221",
+    "name": "GESTIÓN CONTABLE I",
+    "credits": 6,
+    "references": [
+      "EIG2001"
+    ]
+  },
+  {
+    "code": "ICG3242",
+    "name": "POLÍTICA E INSTITUCIONES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG3426",
+    "name": "GESTIÓN DE MARKETING",
+    "credits": 5,
+    "references": [
+      "EIG2063"
+    ]
+  },
+  {
+    "code": "ICG3674",
+    "name": "INGLÉS IV",
+    "credits": 4,
+    "references": [
+      "EIG2304"
+    ]
+  },
+  {
+    "code": "LIT2000",
+    "name": "SEMINARIO QUIJOTE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3004",
+    "name": "GRAMÁTICA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3005",
+    "name": "LATÍN II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3006",
+    "name": "LITERATURA OCCIDENTAL I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3008",
+    "name": "LITERATURA OCCIDENTAL III",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3010",
+    "name": "EDICIÓN DE TEXTOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3012",
+    "name": "PRODUCCIÓN EDITORIAL II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3013",
+    "name": "TEORÍA LITERARIA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3015",
+    "name": "TALLER DE GUIÓN AUDIOVISUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3017",
+    "name": "NARRATIVA CHILENA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT3018",
+    "name": "ESTÉTICA GENERAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9046",
+    "name": "TALLER DE ESCRITURA BIOGRÁFICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "LIT9078",
+    "name": "OPTATIVO DE PROFUNDIZACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MCA1026",
+    "name": "ECONOMÍA FINANCIERA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PSI4313",
+    "name": "INTRODUCCIÓN AL PSICODIAGNÓSTICO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "ART2124",
+    "name": "IMAGEN TÉCNICA",
+    "credits": 5,
+    "references": [
+      "ART1051"
+    ]
+  },
+  {
+    "code": "ART2125",
+    "name": "CULTURA VISUAL I",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4112",
+    "name": "HISTORIA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3123",
+      "ARQ3151"
+    ]
+  },
+  {
+    "code": "ARQ4113",
+    "name": "ARQUITECTURA CLÁSICA",
+    "credits": 5,
+    "references": [
+      "ARQ3117",
+      "ARQ3152"
+    ]
+  },
+  {
+    "code": "ARQ4232",
+    "name": "PAISAJE Y LUGAR",
+    "credits": 5,
+    "references": [
+      "ARQ3156"
+    ]
+  },
+  {
+    "code": "ARQ4233",
+    "name": "TEORÍA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3132"
+    ]
+  },
+  {
+    "code": "ARQ4234",
+    "name": "ARQUITECTURA MODERNA",
+    "credits": 5,
+    "references": [
+      "ARQ3128"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "CPO4006",
+    "name": "INTRODUCCIÓN A LA ECONOMÍA",
+    "credits": 5,
+    "references": [
+      "CPO3018"
+    ]
+  },
+  {
+    "code": "SOC8125",
+    "name": "MICROECONOMÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8124",
+    "name": "ESTADÍSTICA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8121",
+    "name": "TEORÍA I",
+    "credits": 5,
+    "references": [
+      "SOC7121"
+    ]
+  },
+  {
+    "code": "SOC8123",
+    "name": "LÓGICA DE LA INVESTIGACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "SOC8222",
+    "name": "ESTRATIFICACIÓN Y DESIGUALDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DIS8006",
+    "name": "DISEÑO Y CONTEXTO CULTURAL II",
+    "credits": 5,
+    "references": [
+      "DIS7245"
+    ]
+  },
+  {
+    "code": "DIS8201",
+    "name": "TALLER DISEÑO GRÁFICO I",
+    "credits": 10,
+    "references": [
+      "DIS6234"
+    ]
+  },
+  {
+    "code": "EVE0202",
+    "name": "ADMINISTRACIÓN II",
+    "credits": 5,
+    "references": [
+      "IAE4201"
+    ]
+  },
+  {
+    "code": "EVE0401",
+    "name": "ENTORNO ECONÓMICO Y EMPRESA",
+    "credits": 5,
+    "references": [
+      "IAE4113"
+    ]
+  },
+  {
+    "code": "IVE1201",
+    "name": "LIDERAZGO Y GESTIÓN DE PERSONAS",
+    "credits": 5,
+    "references": [
+      "IFG1602"
+    ]
+  },
+  {
+    "code": "AUD8011",
+    "name": "PRINCIPIOS DE CONTABILIDAD IFRS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8062",
+    "name": "ADMINISTRACIÓN DE EMPRESAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8092",
+    "name": "SISTEMAS DE INFORMACIÓN Y COMUNIC. II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8114",
+    "name": "ÉTICA PROF Y RESP SOCIAL EMPRESARIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8081",
+    "name": "SOCIEDAD Y ENTORNO MICROECONÓMICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2348",
+    "name": "ESTRELLAS DE LA VÍA LACTEA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PER6122",
+    "name": "PARADIGMAS DE LA COMUNICACIÓN",
+    "credits": 5,
+    "references": [
+      "PER5123"
+    ]
+  },
+  {
+    "code": "PER6125",
+    "name": "HISTORIA DEL PERIODISMO CHILENO",
+    "credits": 4,
+    "references": [
+      "PER5214"
+    ]
+  },
+  {
+    "code": "PER6223",
+    "name": "AUDIOVISUAL II: LENGUAJE Y GUIÓN",
+    "credits": 5,
+    "references": [
+      "PER5212"
+    ]
+  },
+  {
+    "code": "PER6227",
+    "name": "INTRODUCCIÓN A LA ECONOMÍA",
+    "credits": 5,
+    "references": [
+      "PER5216"
+    ]
+  },
+  {
+    "code": "EDD1033",
+    "name": "DESARROLLO COGNITIVO 1",
+    "credits": 5,
+    "references": [
+      "EDD1015"
+    ]
+  },
+  {
+    "code": "PUB9123",
+    "name": "MÉTODOS Y CONOCIMIENTO",
+    "credits": 5,
+    "references": [
+      "PUB8211"
+    ]
+  },
+  {
+    "code": "PUB9124",
+    "name": "CREACIÓN Y NARRATIVA I",
+    "credits": 4,
+    "references": [
+      "PUB8111"
+    ]
+  },
+  {
+    "code": "PUB9125",
+    "name": "MARKETING ESTRATÉGICO",
+    "credits": 5,
+    "references": [
+      "PUB8125"
+    ]
+  },
+  {
+    "code": "ICO09112",
+    "name": "PROGRAMACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09113",
+    "name": "FUNDAMENTOS DE ADM. Y NEGOCIOS I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09114",
+    "name": "TALLER DE COMUNICACIÓN I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09122",
+    "name": "MICROECONOMÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09123",
+    "name": "CONTABILIDAD I",
+    "credits": 6,
+    "references": [
+      "ICO8401"
+    ]
+  },
+  {
+    "code": "ICO09124",
+    "name": "FUNDAMENTOS DE ADM. Y NEGOCIOS II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09212",
+    "name": "ESTADÍSTICA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09213",
+    "name": "MACROECONOMÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09215",
+    "name": "TALLER DE COMUNICACIÓN II",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09225",
+    "name": "TALLER DE LIDERAZGO Y TRABAJO EN EQUIPO",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01121",
+    "name": "TEORÍA ANTROPÓLOGICA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ANT01122",
+    "name": "LÓGICA DE LA INVESTIGACIÓN",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08121",
+    "name": "HISTORIA DE LA MODERNIDAD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08122",
+    "name": "PROCESOS SOCIALES EN AMÉRICA LATINA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08123",
+    "name": "PSICOLOGÍA SOCIAL I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08124",
+    "name": "ESTADÍSTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08125",
+    "name": "INTRODUCCIÓN AL DERECHO I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08126",
+    "name": "PERSONA Y ACTO JURÍDICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAC08127",
+    "name": "EPISTEMOLOGÍA DE LAS CIENCIAS SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER06112",
+    "name": "INSTITUCIONES POLÍTICAS Y DERECHOS HUMAN",
+    "credits": 5,
+    "references": [
+      "DER5003"
+    ]
+  },
+  {
+    "code": "BAC08128",
+    "name": "TALLER DE REDACCIÓN Y ESCRITURA JURÍDICA",
     "credits": 5,
     "references": [
       ""

@@ -30,80 +30,72 @@
     ]
   },
   {
-    "code": "ADP01111",
-    "name": "MATEMÁTICA I",
+    "code": "ADP01121",
+    "name": "MATEMÁTICA II",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "ADP01112",
-    "name": "FUNDAMENTOS DE LA GESTIÓN PÚBLICA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ADP01113",
-    "name": "TEORÍA ORGANIZACIONAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ADP01114",
-    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ADP01115",
-    "name": "INTRODUCCIÓN AL DERECHO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ADP01211",
-    "name": "ESTADISTICA I",
+    "code": "ADP01122",
+    "name": "MICROECONOMÍA",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "ADP01212",
-    "name": "MACROECONOMÍA",
+    "code": "ADP01123",
+    "name": "CONTABILIDAD GUBERNAMENTAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01124",
+    "name": "TEORÍAS Y CONCEPTOS DE POLÍTICAS PÚBLICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01125",
+    "name": "SISTEMA POLÍTICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01221",
+    "name": "ESTADISTICA II",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "ADP01213",
-    "name": "AUDITORÍA DEL SECTOR PÚBLICO",
+    "code": "ADP01222",
+    "name": "CONTROL DE GESTIÓN EN LA ADM PÚBLICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ADP01214",
-    "name": "PROCESO POLÍTICO Y LEGISLATIVO",
-    "credits": 5,
+    "code": "ADP01223",
+    "name": "TALLER DE POLÍTICAS PÚBLICAS",
+    "credits": 7,
     "references": [
       ""
     ]
   },
   {
-    "code": "ADP01215",
-    "name": "DERECHO CONSTITUCIONAL",
+    "code": "ADP01224",
+    "name": "DERECHO ADMINISTRATIVO",
     "credits": 5,
     "references": [
       ""

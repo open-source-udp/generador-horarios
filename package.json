@@ -8,7 +8,7 @@
     "clean": "git clean -dfqX -- ./node_modules **/dist/ **/node_modules/ **/tsconfig*tsbuildinfo **/.turbo **/output",
     "parse": "turbo run parse",
     "parser:build": "turbo run --scope parser build",
-    "web:build": "turbo run --scope web build"
+    "web:build": "NEXT_PUBLIC_LAST_UPDATED=$(date '+%Y-%m-%d') turbo run --scope web build"
   },
   "devDependencies": {
     "@turbo/gen": "^1.9.7",

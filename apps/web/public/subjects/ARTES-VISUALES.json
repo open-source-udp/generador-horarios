@@ -1,8 +1,16 @@
 [
   {
-    "code": "FAD1017",
-    "name": "TALLER LATITUD SUR",
+    "code": "FAD1018",
+    "name": "TALLER INTERNACIONAL EUROPA",
     "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ART9144",
+    "name": "TALLER DE ARTE Y ELECTRÓNICA",
+    "credits": 4,
     "references": [
       ""
     ]
@@ -30,115 +38,91 @@
     ]
   },
   {
-    "code": "ART2111",
-    "name": "TALLER CENTRAL I",
+    "code": "ART2121",
+    "name": "TALLER CENTRAL II",
     "credits": 8,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART2112",
-    "name": "ESCULTURA I",
+    "code": "ART2122",
+    "name": "ESCULTURA II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART2113",
-    "name": "DIBUJO I",
+    "code": "ART2123",
+    "name": "DIBUJO II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART2114",
-    "name": "INTRODUCCIÓN AL LENGUAJE MEDIAL",
+    "code": "ART2124",
+    "name": "IMAGEN TÉCNICA",
     "credits": 5,
     "references": [
-      ""
+      "ART1051"
     ]
   },
   {
-    "code": "ART2115",
-    "name": "CIRCUITOS ARTÍSTICOS",
+    "code": "ART2125",
+    "name": "CULTURA VISUAL I",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART2116",
-    "name": "INTRODUCCIÓN AL ARTE CONTEMPORÁNEO",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ART2211",
-    "name": "TALLER CENTRAL III",
+    "code": "ART2221",
+    "name": "TALLER CENTRAL IV",
     "credits": 8,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART2212",
-    "name": "ESCULTURA III",
+    "code": "ART2222",
+    "name": "PINTURA II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART2213",
-    "name": "PINTURA I",
+    "code": "ART2223",
+    "name": "GESTIÓN DE PROYECTOS ARTÍSTICOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART2214",
-    "name": "FOTOGRAFÍA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ART2215",
-    "name": "CULTURA VISUAL II",
+    "code": "ART2224",
+    "name": "SEMIÓTICA VISUAL",
     "credits": 4,
     "references": [
-      ""
+      "ART1056"
     ]
   },
   {
-    "code": "ART2311",
-    "name": "TALLER CENTRAL V",
+    "code": "ART2321",
+    "name": "TALLER CENTRAL VI",
     "credits": 8,
     "references": [
-      ""
+      "ART1033"
     ]
   },
   {
-    "code": "ART2315",
-    "name": "ESTUDIOS GLOBALES Y ARTE CONTEMPORÁNEO",
+    "code": "ART2324",
+    "name": "ARTE CONTEMPORÁNEO EN CHILE",
     "credits": 5,
     "references": [
-      "ART1058"
-    ]
-  },
-  {
-    "code": "ART2411",
-    "name": "TALLER CENTRAL VII",
-    "credits": 10,
-    "references": [
-      "ART1037"
+      "ART1060"
     ]
   },
   {
@@ -150,11 +134,19 @@
     ]
   },
   {
-    "code": "ART2413",
-    "name": "SEMINARIO DE ESCRITURA Y VISUALIDAD",
-    "credits": 6,
+    "code": "ART2421",
+    "name": "SEMINARIO DE GRADO",
+    "credits": 22,
     "references": [
-      "ART1067"
+      "ART1041"
+    ]
+  },
+  {
+    "code": "ART2422",
+    "name": "SEMINARIO DE MEMORIA",
+    "credits": 8,
+    "references": [
+      ""
     ]
   },
   {
@@ -166,40 +158,32 @@
     ]
   },
   {
-    "code": "ART9156",
-    "name": "TALLER DE GRÁFICA",
+    "code": "ART9148",
+    "name": "RETÓRICAS DE LA PINTURA",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART9160",
-    "name": "ESCRITURAS CORPORALES",
+    "code": "ART9151",
+    "name": "IMAGEN EN MOVIMIENTO",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART9164",
-    "name": "CREACIÓN TEXTIL CON TÉCNICAS HIBRIDAS",
+    "code": "ART9166",
+    "name": "LABORATORIO DE NARRATIVAS VISUALES",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "ART9165",
-    "name": "LABORATORIO DE FOTOGRAMETRÍA APLICADA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ART9169",
-    "name": "LABORATORIA DE BIO MATERIALES",
+    "code": "ART9167",
+    "name": "TALLER DE EXPOSICIONES INTERDISCIPLINAR",
     "credits": 6,
     "references": [
       ""

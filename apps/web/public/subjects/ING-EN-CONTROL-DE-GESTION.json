@@ -1,5 +1,29 @@
 [
   {
+    "code": "ICG3111",
+    "name": "ENTORNO ECONÓMICO",
+    "credits": 5,
+    "references": [
+      "EIG2081"
+    ]
+  },
+  {
+    "code": "ICG3151",
+    "name": "TI PARA LOS NEGOCIOS I",
+    "credits": 5,
+    "references": [
+      "EIG2091"
+    ]
+  },
+  {
+    "code": "ICG3161",
+    "name": "MATEMÁTICAS",
+    "credits": 6,
+    "references": [
+      "EIG2051"
+    ]
+  },
+  {
     "code": "ICG3212",
     "name": "ENTORNO MICROECONÓMICO INDUSTRIAL",
     "credits": 5,
@@ -13,6 +37,14 @@
     "credits": 6,
     "references": [
       "EIG2001"
+    ]
+  },
+  {
+    "code": "ICG3242",
+    "name": "POLÍTICA E INSTITUCIONES",
+    "credits": 7,
+    "references": [
+      ""
     ]
   },
   {
@@ -37,22 +69,6 @@
     "credits": 5,
     "references": [
       "EIG2013"
-    ]
-  },
-  {
-    "code": "ICG3323",
-    "name": "GESTIÓN DE RECURSOS HUMANOS",
-    "credits": 5,
-    "references": [
-      "EIG2064"
-    ]
-  },
-  {
-    "code": "ICG3343",
-    "name": "EMPRESA Y CONTEXTO LEGAL",
-    "credits": 5,
-    "references": [
-      "EIG2043"
     ]
   },
   {
@@ -96,6 +112,14 @@
     ]
   },
   {
+    "code": "ICG3426",
+    "name": "GESTIÓN DE MARKETING",
+    "credits": 5,
+    "references": [
+      "EIG2063"
+    ]
+  },
+  {
     "code": "ICG3464",
     "name": "ESTADÍSTICA DESCRIPTIVA",
     "credits": 6,
@@ -117,14 +141,6 @@
     "credits": 5,
     "references": [
       "EIG2003"
-    ]
-  },
-  {
-    "code": "ICG3554",
-    "name": "SISTEMAS DE INFORMACIÓN AUTOMATIZADOS: E",
-    "credits": 5,
-    "references": [
-      "EIG2094"
     ]
   },
   {
@@ -165,6 +181,14 @@
     "credits": 5,
     "references": [
       "EIG2705"
+    ]
+  },
+  {
+    "code": "ICG3674",
+    "name": "INGLÉS IV",
+    "credits": 4,
+    "references": [
+      "EIG2304"
     ]
   },
   {
@@ -248,6 +272,22 @@
     ]
   },
   {
+    "code": "MCA1026",
+    "name": "ECONOMÍA FINANCIERA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8867",
+    "name": "GESTIÓN DE CALIDAD DE VIDA LABORAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CIG1001",
     "name": "INGLÉS GENERAL I",
     "credits": 5,
@@ -296,14 +336,6 @@
     ]
   },
   {
-    "code": "FEEPO001",
-    "name": "PROYECTO 1",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "FEEMA001",
     "name": "PROYECTO 1",
     "credits": 7,
@@ -314,38 +346,6 @@
   {
     "code": "FEEND003",
     "name": "BUSINESS ANALYTICS I",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEFI002",
-    "name": "MERCADO DE CAPITALES E INS. DE INVERSIÓN",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEPO002",
-    "name": "GESTIÓN DEL CAMBIO Y TRANSFORMACIÓN DIGI",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEPO003",
-    "name": "ESTRUCTURA Y DISEÑO DE COMPENSACIONES",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEPO004",
-    "name": "ANALÍTICA DE PERSONAS",
     "credits": 7,
     "references": [
       ""
@@ -392,24 +392,16 @@
     ]
   },
   {
-    "code": "FEEFI001",
-    "name": "PROYECTO 1",
+    "code": "FEEFI005",
+    "name": "PROYECTO 2",
     "credits": 7,
     "references": [
       ""
     ]
   },
   {
-    "code": "FEEFI003",
-    "name": "INSTRUMENTOS DERIVADOS",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEFI004",
-    "name": "MÉTODOS ECONOMÉTRICOS EN FINANZAS",
+    "code": "FEEMA005",
+    "name": "PROYECTO 2",
     "credits": 7,
     "references": [
       ""
@@ -440,9 +432,9 @@
     ]
   },
   {
-    "code": "ICO8926",
-    "name": "COMPLIANCE, ÉTICA Y BUENAS CONDUCTAS EMP",
-    "credits": 7,
+    "code": "ICG9049",
+    "name": "GESTIÓN DE PROYECTOS",
+    "credits": 6,
     "references": [
       ""
     ]
@@ -456,17 +448,9 @@
     ]
   },
   {
-    "code": "ICG9051",
-    "name": "TOMA DE DECISIONES BASADAS EN DATOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICG4111",
-    "name": "FUNDAMENTOS DE ADMINISTRACIÓN",
-    "credits": 5,
+    "code": "ICO8931",
+    "name": "COMUNICACIÓN INT. EN MTK.",
+    "credits": 7,
     "references": [
       ""
     ]
@@ -496,9 +480,41 @@
     ]
   },
   {
-    "code": "ICG4115",
-    "name": "TALLER DE COMUNICACIÓN 1",
+    "code": "ICG4121",
+    "name": "CONTABILIDAD 1",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4122",
+    "name": "PLANIFICACIÓN Y DISEÑO ORGANIZACIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4123",
+    "name": "MATEMÁTICAS 2",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4124",
+    "name": "TEC. DE INF. PARA LOS NEGOCIOS 2",
     "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4125",
+    "name": "INTRODUCCIÓN A LA MICROECONOMÍA",
+    "credits": 5,
     "references": [
       ""
     ]

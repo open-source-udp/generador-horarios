@@ -48,14 +48,6 @@
     ]
   },
   {
-    "code": "CII1000",
-    "name": "CONTABILIDAD Y COSTOS",
-    "credits": 6,
-    "references": [
-      "ICI3325"
-    ]
-  },
-  {
     "code": "CIT1000",
     "name": "PROGRAMACIÓN",
     "credits": 6,
@@ -85,22 +77,6 @@
     "credits": 5,
     "references": [
       ""
-    ]
-  },
-  {
-    "code": "ICI9045",
-    "name": "ADMINISTRACIÓN DE R.R.H.H.",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC2006",
-    "name": "TOPOGRAFÍA",
-    "credits": 6,
-    "references": [
-      "COC2000"
     ]
   }
 ]

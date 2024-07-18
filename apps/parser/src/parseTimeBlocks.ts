@@ -3,6 +3,7 @@ import { TimeBlockItem } from "contracts";
 export const timeBlockMappings = {
   "08:30 - 09:50": "A",
   "10:00 - 11:20": "B",
+  "10:00 - 11:30": "B",
   "11:30 - 12:50": "C",
   "13:00 - 14:20": "D",
   "14:30 - 15:50": "E",

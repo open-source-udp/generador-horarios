@@ -46,176 +46,184 @@
     ]
   },
   {
-    "code": "PER6113",
-    "name": "REDACCIÓN GENERAL",
-    "credits": 5,
-    "references": [
-      "COM5113"
-    ]
-  },
-  {
-    "code": "PUB9111",
-    "name": "LAB. DE INVESTIGACIÓN PUBLICITARIA",
+    "code": "PUB9121",
+    "name": "LABORATORIO DE NARRATIVA DE MARCA",
     "credits": 7,
     "references": [
-      ""
+      "PUB8126"
     ]
   },
   {
-    "code": "PUB9112",
-    "name": "TALLER DE IMAGEN Y RETOQUE DIGITAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PUB9113",
-    "name": "ANTROPOLOGÍA DEL CONSUMO",
-    "credits": 5,
-    "references": [
-      "PUB8121"
-    ]
-  },
-  {
-    "code": "PUB9114",
-    "name": "TEORÍA DE LA IMAGEN Y SOCIEDAD",
+    "code": "PUB9122",
+    "name": "TALLER DE VIDEO Y ANIMACIÓN DIGITAL",
     "credits": 4,
     "references": [
-      ""
+      "PUB8213"
     ]
   },
   {
-    "code": "PUB9115",
-    "name": "ECONOMÍA DE LA EMPRESA",
+    "code": "PUB9123",
+    "name": "MÉTODOS Y CONOCIMIENTO",
     "credits": 5,
     "references": [
-      ""
+      "PUB8211"
     ]
   },
   {
-    "code": "PUB9116",
-    "name": "ÉTICA Y LEGISLACIÓN",
+    "code": "PUB9124",
+    "name": "CREACIÓN Y NARRATIVA I",
     "credits": 4,
     "references": [
-      ""
+      "PUB8111"
     ]
   },
   {
-    "code": "PUB9211",
-    "name": "LABORATORIO DE BRANDING I",
+    "code": "PUB9125",
+    "name": "MARKETING ESTRATÉGICO",
+    "credits": 5,
+    "references": [
+      "PUB8125"
+    ]
+  },
+  {
+    "code": "PUB9221",
+    "name": "LABORATORIO DE BRANDING II",
     "credits": 7,
     "references": [
-      "PUB8215"
+      "PUB8225"
     ]
   },
   {
-    "code": "PUB9212",
-    "name": "TALL. INTEGRACIÓN GRÁFICA Y AUDIOVISUAL",
+    "code": "PUB9222",
+    "name": "TALL. ANÁLISIS Y GESTIÓN DE CONT. DIG.",
     "credits": 4,
     "references": [
-      "PUB8223"
+      ""
     ]
   },
   {
-    "code": "PUB9213",
-    "name": "TÉC. CUALI. Y ANÁLISIS DE LA COM. PUB.",
+    "code": "PUB9223",
+    "name": "ETNOGRAFÍA DEL CONSUMO",
     "credits": 5,
     "references": [
-      "PUB8221"
+      ""
     ]
   },
   {
-    "code": "PUB9214",
-    "name": "CREACIÓN Y NARRATIVA II",
+    "code": "PUB9224",
+    "name": "GES. COM. ESTRATÉGICA Y CORPORATIVA I",
+    "credits": 5,
+    "references": [
+      "PUB8222"
+    ]
+  },
+  {
+    "code": "PUB9225",
+    "name": "BRANDING ESTRATÉGICO",
     "credits": 4,
     "references": [
-      "PUB8122"
+      "PUB8314"
     ]
   },
   {
-    "code": "PUB9215",
-    "name": "ANÁLISIS Y ESTRATEGIA DE MARCA",
-    "credits": 5,
-    "references": [
-      "PUB8214"
-    ]
-  },
-  {
-    "code": "PUB9311",
-    "name": "LABORATORIO TRANSMEDIA",
+    "code": "PUB9321",
+    "name": "LABORATORIO DE COMUNICACIÓN INTEGRADA",
     "credits": 7,
     "references": [
-      "PUB8315"
+      "PUB8323"
     ]
   },
   {
-    "code": "PUB9312",
-    "name": "ANALÍTICA DIGITAL",
+    "code": "PUB9322",
+    "name": "INTRODUCCIÓN AL DISEÑO WEB",
     "credits": 4,
     "references": [
-      "PUB8224"
+      "PUB8414"
     ]
   },
   {
-    "code": "PUB9313",
-    "name": "TÉCNICAS CUANTITATIVAS Y AUDIENCIAS",
+    "code": "PUB9323",
+    "name": "TALLER DE GUIÓN AUDIOVISUAL",
     "credits": 5,
     "references": [
-      "PUB8311"
+      "PUB8324"
     ]
   },
   {
-    "code": "PUB9314",
-    "name": "GES. COM. ESTRATÉGICA Y CORPORATIVA II",
+    "code": "PUB9324",
+    "name": "PLAN DE NEGOCIOS",
     "credits": 5,
     "references": [
-      "PUB8313"
+      "PUB8411"
     ]
   },
   {
-    "code": "PUB9315",
-    "name": "PLANIFICACIÓN ESTRATÉGICA DE MEDIOS",
+    "code": "PUB9325",
+    "name": "MARKETING METRICS",
     "credits": 4,
     "references": [
-      "PUB8212"
+      "PUB8426"
     ]
   },
   {
-    "code": "PUB9411",
-    "name": "CLÍNICA PROFESIONAL",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PUB9412",
-    "name": "TALLER DE DISEÑO Y PLATAFORMAS DIGITALES",
+    "code": "LIT9116",
+    "name": "TALLER DE TRAVESÍA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "PUB9413",
-    "name": "STORYTELLING",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PUB9414",
-    "name": "ESTRATEGIA DE SOSTENIBILIDAD",
+    "code": "PUB9425",
+    "name": "CAMPAÑAS CON SENTIDO SOCIAL",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "PUB9415",
-    "name": "COMUNICACIÓN GUBERNAMENTAL Y POLÍTICA",
+    "code": "PUB9423",
+    "name": "MUSEO DE LA PUBLICIDAD: MEMORIA CREATIVA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PUB9422",
+    "name": "PUBLIFEM Y PERSPECTIVA DE GENERO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PUB9426",
+    "name": "PLANING INTENSIVO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PUB9427",
+    "name": "AUDIENCIAS DIGITALES",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PUB9430",
+    "name": "DISEÑO DE EXPERIENCIA DE USUARIO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "PUB9432",
+    "name": "CONCURSOS PUBLICITARIOS Y PORTAFOLIO",
     "credits": 4,
     "references": [
       ""

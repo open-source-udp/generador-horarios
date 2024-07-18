@@ -8,6 +8,30 @@
     ]
   },
   {
+    "code": "INLPRAC",
+    "name": "PRÁCTICA PROFESIONAL",
+    "credits": 24,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IVE1201",
+    "name": "LIDERAZGO Y GESTIÓN DE PERSONAS",
+    "credits": 5,
+    "references": [
+      "IFG1602"
+    ]
+  },
+  {
+    "code": "IVE2202",
+    "name": "ÁLGEBRA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "EVE0101",
     "name": "ESTADISTICA I",
     "credits": 5,
@@ -25,19 +49,27 @@
     ]
   },
   {
-    "code": "INL3403",
-    "name": "LOGISTICA INVERSA Y MAN DE CARGAS PELIG",
+    "code": "IVE4201",
+    "name": "PREPARACIÓN Y EVALUACIÓN DE PROYECTOS",
+    "credits": 5,
+    "references": [
+      "IFG1601"
+    ]
+  },
+  {
+    "code": "IVE2402",
+    "name": "CALCULO II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "IVE4201",
-    "name": "PREPARACIÓN Y EVALUACIÓN DE PROYECTOS",
+    "code": "INL5404",
+    "name": "TI APLICADAS A LOGÍSTICA ERP/WMS/TMS",
     "credits": 5,
     "references": [
-      "IFG1601"
+      "INL1504"
     ]
   },
   {
@@ -57,41 +89,33 @@
     ]
   },
   {
-    "code": "IVE2603",
-    "name": "ESTADÍSTICAS II",
+    "code": "INL3501",
+    "name": "GESTIÓN DE CALIDAD",
     "credits": 5,
     "references": [
-      ""
+      "INL1804"
+    ]
+  },
+  {
+    "code": "INL3602",
+    "name": "GESTIÓN DE LA PRODUCCIÓN",
+    "credits": 5,
+    "references": [
+      "IFG1703"
+    ]
+  },
+  {
+    "code": "INL3703",
+    "name": "MODELO DE TRÁFICO Y REDES DE TRANSPORTE",
+    "credits": 5,
+    "references": [
+      "INL1604"
     ]
   },
   {
     "code": "INL7605",
     "name": "PRÁCTICA PROFESIONAL",
     "credits": 12,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "INL3801",
-    "name": "PLANIFIC. ESTRÁTEGICA: ÁREA LOGÍSTICA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "INL3902",
-    "name": "ABASTECIMIENTO ESTRATÉGICO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "INL3113",
-    "name": "INNOVACIÓN EN LOGÍSTICA",
-    "credits": 5,
     "references": [
       ""
     ]
@@ -105,16 +129,56 @@
     ]
   },
   {
-    "code": "IIG4001",
-    "name": "GESTIÓN DE SERVICIOS TI BASADOS EN ITIL",
+    "code": "INL3122",
+    "name": "COMERCIO EXTERIOR",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "INL4080",
-    "name": "NORMATIVA DE SEG. EN LAS OP. LOGÍSTICAS",
+    "code": "INL4090",
+    "name": "HERRAMIENTAS APLICADAS PROC LOGÍSTICOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00004",
+    "name": "APLICACIÓN DE LAS IFRS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00003",
+    "name": "AUDITORÍA FORENSE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00001",
+    "name": "GESTIÓN TRIBUTARIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IIG4002",
+    "name": "NEGOCIOS EN INTERNET",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5801",
+    "name": "GESTIÓN DE DATOS PARA TOMA DE DECISIONES",
     "credits": 5,
     "references": [
       ""
@@ -129,59 +193,35 @@
     ]
   },
   {
-    "code": "EVE5804",
-    "name": "RESPONSABILIDAD SOCIAL CORPORATIVA",
+    "code": "EVE5803",
+    "name": "ÉTICA DE LOS NEGOCIOS Y LA GERENCIA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EVE5806",
-    "name": "REESTRUCTURACION DE EMPRESAS",
+    "code": "EVE5807",
+    "name": "GERENCIA DE RETAIL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CAV00006",
-    "name": "MARCOS ASG Y AUDITORIA SUSTENTABLE",
+    "code": "INL03121",
+    "name": "GESTIÓN Y ORG DE CENTROS DE DISTRIBUCIÓN",
     "credits": 5,
     "references": [
-      ""
+      "INL3203"
     ]
   },
   {
-    "code": "EVE08111",
-    "name": "ÁLGEBRA APLICADA",
+    "code": "INL03122",
+    "name": "GESTIÓN DE APROVISIONAMIENTO",
     "credits": 5,
     "references": [
-      "EVE0102"
-    ]
-  },
-  {
-    "code": "INL03112",
-    "name": "INTRODUCCIÓN A LA CADENA DE SUMINISTROS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "INL03113",
-    "name": "INFORMÁTICA PARA LA LOGÍSTICA",
-    "credits": 5,
-    "references": [
-      "INL5104"
-    ]
-  },
-  {
-    "code": "IVE03111",
-    "name": "PRINCIPIOS DE GESTIÓN ESTRATÉGICA",
-    "credits": 5,
-    "references": [
-      "IVE1101"
+      "INL3103"
     ]
   },
   {

@@ -1,136 +1,120 @@
 [
   {
-    "code": "EDP4000",
-    "name": "APRENDIZAJE Y DESARROLLO I NEUROCIENCIAS",
+    "code": "EDP4004",
+    "name": "APPE Y D. II: FORM. PERS. Y SOC",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4001",
-    "name": "LITERATURA INFANTIL",
+    "code": "EDP4005",
+    "name": "LENGUAJE ARTÍSTICO I: EXPRESIÓN PLÁSTICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4002",
-    "name": "CURRÍCULO PARA LA EDUCACIÓN PARVULARÍA",
+    "code": "EDP4006",
+    "name": "EVALUACIÓN EN LA EDUCACIÓN PARVULARIA I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4003",
-    "name": "SIST. ED. Y P. PÚBLICAS PARA LA INFANCIA",
+    "code": "EDP4007",
+    "name": "PERSPECTIVAS ACTUALES SOBRE LA INFANCIA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4008",
-    "name": "APRENDIZAJE Y DESARROLLO III: PSICOMOTRI",
+    "code": "EDP4013",
+    "name": "APPE. Y D. IV: CUIDADO Y PROM. S.",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4009",
-    "name": "LENGUAJE ARTÍSTICO II: EXPRESIÓN MUSICAL",
+    "code": "EDP4014",
+    "name": "ENSEÑANZA DEL MUNDO NATURAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4010",
-    "name": "ADQUISICIÓN DEL LEGUAJE: PRAGMÁTICO Y S",
+    "code": "EDP4015",
+    "name": "ADQUISICIÓN DEL LENGUAJE ORAL: SINTAXIS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4011",
-    "name": "CONST. CONOC. MAT. I: FUND.",
+    "code": "EDP4016",
+    "name": "CONST. CONOC. MAT. II: TABLAS Y GRAF.",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4012",
-    "name": "NECESIDADES EDUCATIVAS ESPECIALES EN EDU",
+    "code": "EDP4017",
+    "name": "FORMACIÓN PRÁCTICA 1",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4018",
-    "name": "ENSEÑANZA DEL MUNDO SOCIAL",
+    "code": "EDP4022",
+    "name": "INT. ENS. M. S. Y  N. EP",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4019",
-    "name": "ALFABETIZACIÓN EMERGENTE",
+    "code": "EDP4023",
+    "name": "INT. ENS. M. Y L. EP.",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4020",
-    "name": "CONST. CONOC. MAT. III: ESPACIO Y GEOM",
+    "code": "EDP4024",
+    "name": "EVALUACIÓN EN LA EDUCACIÓN PARVULARIA II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4021",
-    "name": "FORMACIÓN PRÁCTICA 2",
+    "code": "EDP4025",
+    "name": "FORMACIÓN PRÁCTICA 3",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4027",
-    "name": "MÉTODOS DE INVESTIGACIÓN EN EDUCACIÓN",
-    "credits": 5,
-    "references": [
-      "EDP3025"
-    ]
-  },
-  {
-    "code": "EDP4028",
-    "name": "LIDERAZGO Y GESTIÓN EN EDUC. PARVULARIA",
-    "credits": 5,
+    "code": "EDP4030",
+    "name": "SEMINARIO DE TÍTULO",
+    "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDP4029",
-    "name": "PRÁCTICA PROFESIONAL I",
+    "code": "EDP4031",
+    "name": "PRÁCTICA PROFESIONAL II",
     "credits": 15,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDU4000",
-    "name": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
-    "credits": 5,
     "references": [
       ""
     ]
@@ -138,6 +122,14 @@
   {
     "code": "EDU4001",
     "name": "EDUCACIÓN EN DERECHOS HUMANOS Y DIVERSID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD9101",
+    "name": "TIC: RECURSO PARA EL APRENDIZAJE",
     "credits": 5,
     "references": [
       ""
@@ -178,14 +170,6 @@
   {
     "code": "EDU9205",
     "name": "EDUCACIÓN SEXUAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1039",
-    "name": "GESTIÓN DE AULA Y TRABAJO COLABORATORIO",
     "credits": 5,
     "references": [
       ""

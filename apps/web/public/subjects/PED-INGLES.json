@@ -1,144 +1,104 @@
 [
   {
-    "code": "EDE1006",
-    "name": "INDAGACIÓN EN EL TRABAJO DOCENTE",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1007",
-    "name": "ENGLISH 3",
-    "credits": 12,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1008",
-    "name": "LANGUAGE FOUNDATIONS 3: LEXICO-GRAMMAR",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1009",
-    "name": "GENERAL LINGUISTICS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1014",
-    "name": "PRÁCTICA INICIAL II",
+    "code": "EDE1010",
+    "name": "PRÁCTICA INICIAL I",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDE1015",
-    "name": "ENGLISH 5",
-    "credits": 10,
+    "code": "EDE1011",
+    "name": "ENGLISH 4",
+    "credits": 12,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDE1016",
-    "name": "TEFL METHODOLOGY: THEORIES AND STRATEGIE",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1017",
-    "name": "TEFL METHODOLOGY: SKILLS AND DOMAINS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1023",
-    "name": "PRÁCTICA INTERMEDIA II",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1024",
-    "name": "ENGLISH 7",
-    "credits": 9,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1025",
-    "name": "ENGLISH SPEAKING COUNTRIES CULTURE I",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1026",
-    "name": "CURRÍCULUM AND PLANNING",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1027",
-    "name": "ASSESSMENT FOR LEARNING",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1032",
-    "name": "PRÁCTICA PROFESIONAL II",
-    "credits": 10,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1033",
-    "name": "WRITING FOR ACADEMIC PURPOSES",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1034",
-    "name": "SEMINARIO DE TITULACIÓN",
-    "credits": 10,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE1037",
-    "name": "DIVERSIDAD Y CONVIVENCIA EN LA ESCUELA",
+    "code": "EDE1012",
+    "name": "LANGUAGE FOUNDATIONS 4: LEXICO-GRAMMAR",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDU4000",
-    "name": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
+    "code": "EDE1013",
+    "name": "EFL APPLIED LINGUISTICS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1018",
+    "name": "PRÁCTICA INTERMEDIA I",
     "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1019",
+    "name": "ENGLISH 6",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1020",
+    "name": "TEFL METHODOLOGY: LARGE HETEROGENOUS CLA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1021",
+    "name": "TEFL METHODOLOGY: YOUNG LEARNERS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1022",
+    "name": "ORIENTACIÓN EDUCACIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1028",
+    "name": "PRÁCTICA PROFESIONAL I",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1029",
+    "name": "ENGLISH 8",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1030",
+    "name": "ENGLISH SPEAKING COUNTRIES CULTURE II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDE1031",
+    "name": "APPLIED RESEARCH IN TEFL",
+    "credits": 4,
     "references": [
       ""
     ]
@@ -146,6 +106,14 @@
   {
     "code": "EDU4001",
     "name": "EDUCACIÓN EN DERECHOS HUMANOS Y DIVERSID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD9101",
+    "name": "TIC: RECURSO PARA EL APRENDIZAJE",
     "credits": 5,
     "references": [
       ""
@@ -160,48 +128,24 @@
     ]
   },
   {
-    "code": "EDE1039",
-    "name": "GESTIÓN DE AULA Y TRABAJO COLABORATORIO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE02111",
-    "name": "ENGLISH 1",
+    "code": "EDE02121",
+    "name": "ENGLISH 2",
     "credits": 12,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDE02112",
-    "name": "INTRODUCTION TO LINGUISTICS",
+    "code": "EDE02122",
+    "name": "LANGUAGE FOUNDATIONS 1: LEXICAL DEVELOPM",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "EDE02113",
-    "name": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE02114",
-    "name": "PSICOLOGÍA DEL DESARROLLO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EDE02115",
-    "name": "SISTEMA EDUCATIVO Y CURRICULUM ESCOLAR",
+    "code": "EDE02123",
+    "name": "PSICOLOGÍA DEL APRENDIZAJE",
     "credits": 5,
     "references": [
       ""

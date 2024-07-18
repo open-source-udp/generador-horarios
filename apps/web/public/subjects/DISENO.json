@@ -1,7 +1,23 @@
 [
   {
-    "code": "FAD1017",
-    "name": "TALLER LATITUD SUR",
+    "code": "DIS9003",
+    "name": "SERIGRAFÍA Y TÉCNICAS MIXTAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DIS9021",
+    "name": "EXPLORACIONES EN TEXTIL Y VESTUARIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FAD1018",
+    "name": "TALLER INTERNACIONAL EUROPA",
     "credits": 10,
     "references": [
       ""
@@ -47,45 +63,44 @@
     ]
   },
   {
-    "code": "DIS8002",
-    "name": "DISEÑO Y CONTEXTO CULTURAL I",
-    "credits": 5,
-    "references": [
-      "DIS6115",
-      "DIS6125"
-    ]
-  },
-  {
-    "code": "DIS8003",
-    "name": "GEOMETRÍA BÁSICA",
-    "credits": 5,
-    "references": [
-      "DIS6112",
-      "DIS6122"
-    ]
-  },
-  {
-    "code": "DIS8004",
-    "name": "LABORATORIO FABRICACIÓN Y MATERIALES",
-    "credits": 5,
-    "references": [
-      "DIS7233"
-    ]
-  },
-  {
-    "code": "DIS8005",
-    "name": "LABORATORIO DE DIBUJO E IMAGEN",
-    "credits": 5,
-    "references": [
-      "DIS6111"
-    ]
-  },
-  {
     "code": "DIS8101",
     "name": "TALLER DE DISEÑO INDUSTRIAL I",
     "credits": 10,
     "references": [
       "DIS7234"
+    ]
+  },
+  {
+    "code": "DIS8006",
+    "name": "DISEÑO Y CONTEXTO CULTURAL II",
+    "credits": 5,
+    "references": [
+      "DIS7245"
+    ]
+  },
+  {
+    "code": "DIS8007",
+    "name": "DIBUJO GEOMÉTRICO",
+    "credits": 5,
+    "references": [
+      "DIS6121",
+      "DIS7231"
+    ]
+  },
+  {
+    "code": "DIS8102",
+    "name": "MAQUETAS Y MATERIALES",
+    "credits": 5,
+    "references": [
+      "DIS7352"
+    ]
+  },
+  {
+    "code": "DIS8103",
+    "name": "DIBUJO DIGITAL",
+    "credits": 5,
+    "references": [
+      "DIS7232"
     ]
   },
   {
@@ -97,36 +112,28 @@
     ]
   },
   {
+    "code": "DIS8202",
+    "name": "EXPRESIÓN GRÁFICA",
+    "credits": 5,
+    "references": [
+      "DIS6241"
+    ]
+  },
+  {
+    "code": "DIS8203",
+    "name": "EXPRESIÓN TIPOGRÁFICA",
+    "credits": 5,
+    "references": [
+      "DIS6123",
+      "DIS6233"
+    ]
+  },
+  {
     "code": "DIS8104",
     "name": "TALLER DE DISEÑO INDUSTRIAL II",
     "credits": 10,
     "references": [
       "DIS7244"
-    ]
-  },
-  {
-    "code": "DIS8008",
-    "name": "TEORÍA E INVESTIGACIÓN EN DISEÑO I",
-    "credits": 5,
-    "references": [
-      "DIS7364"
-    ]
-  },
-  {
-    "code": "DIS8105",
-    "name": "MÁQUINAS Y PROCESOS",
-    "credits": 5,
-    "references": [
-      "DIS7482"
-    ]
-  },
-  {
-    "code": "DIS8106",
-    "name": "MODELADO 3D",
-    "credits": 5,
-    "references": [
-      "DIS7242",
-      "DIS7243"
     ]
   },
   {
@@ -138,23 +145,6 @@
     ]
   },
   {
-    "code": "DIS8205",
-    "name": "COMUNICACIÓN GRÁFICA I",
-    "credits": 5,
-    "references": [
-      "DIS6242"
-    ]
-  },
-  {
-    "code": "DIS8206",
-    "name": "MICRO Y MACRO TIPOGRAFÍA",
-    "credits": 5,
-    "references": [
-      "DIS6243",
-      "DIS7241"
-    ]
-  },
-  {
     "code": "DIS8207",
     "name": "TALLER DE DISEÑO GRÁFICO III",
     "credits": 10,
@@ -163,19 +153,51 @@
     ]
   },
   {
-    "code": "DIS8010",
-    "name": "ESTRATEGIA CORPORATIVA",
+    "code": "DIS8009",
+    "name": "TEORÍA E INVESTIGACIÓN EN DISEÑO II",
     "credits": 5,
     "references": [
-      "DIS7365"
+      "DIS7484"
     ]
   },
   {
-    "code": "DIS8012",
-    "name": "ADMINISTRACIÓN FINANCIERA",
+    "code": "DIS8108",
+    "name": "PROTOTIPOS",
     "credits": 5,
     "references": [
-      "DIS7485"
+      "DIS7351"
+    ]
+  },
+  {
+    "code": "DIS8109",
+    "name": "FABRICACIÓN DIGITAL",
+    "credits": 5,
+    "references": [
+      "DIS7361"
+    ]
+  },
+  {
+    "code": "DIS8209",
+    "name": "DISEÑO EDITORIAL",
+    "credits": 5,
+    "references": [
+      "DIS6353"
+    ]
+  },
+  {
+    "code": "DIS8011",
+    "name": "BRANDING Y MERCADOTECNIA",
+    "credits": 5,
+    "references": [
+      "DIS6363"
+    ]
+  },
+  {
+    "code": "DIS8013",
+    "name": "EMPRENDIMIENTO",
+    "credits": 5,
+    "references": [
+      "DIS7593"
     ]
   },
   {
@@ -200,6 +222,14 @@
     "credits": 30,
     "references": [
       "DIS7594"
+    ]
+  },
+  {
+    "code": "DIS8208",
+    "name": "COMUNICACIÓN GRÁFICA II",
+    "credits": 5,
+    "references": [
+      "DIS6471"
     ]
   },
   {
@@ -243,128 +273,72 @@
     ]
   },
   {
-    "code": "DIS9025",
-    "name": "DISEÑO ESCÉNICO",
+    "code": "DIS8621",
+    "name": "TALLER LOCAL: EXPLORACIÓN MATERIAL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DIS9036",
+    "name": "ESTRATEGIAS DE COMUNICACIÓN",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS9037",
-    "name": "ANIMACIÓN DIGITAL EXPERIMENTAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS9040",
-    "name": "COLOR: MANEJO Y APLICACIÓN EN DISEÑO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS9045",
-    "name": "DISEÑO Y BIOMÍMESIS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS9041",
-    "name": "ILUSTRACIÓN: COMUNICACIÓN Y EXPRESIÓN",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS8634",
-    "name": "TALLER DE BRANDING: PRODUCTOS Y SERV",
+    "code": "DIS8633",
+    "name": "TALLER DE DISEÑO Y PAISAJE",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8632",
-    "name": "TALLER DE DISEÑO PARA ÁREAS SILVESTRES",
+    "code": "DIS8637",
+    "name": "TALLER DE EXPERIENCIA DE USUARIO UX",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8630",
-    "name": "TALLER DE INDUMENTARIA",
+    "code": "DIS8625",
+    "name": "TALLER DE EXPLORACIÓN Y CULTURA VISUAL",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8636",
-    "name": "TALLER DE INTERFAZ DE USUARIO UI",
+    "code": "DIS8627",
+    "name": "TALLER DE MODA SOSTENIBLE",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8628",
-    "name": "TALLER DE OBJETOS Y ESPACIOS",
+    "code": "DIS8631",
+    "name": "TALLER DE SUPERFICIES TEXTILES",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8626",
-    "name": "TALLER DE PRODUCTOS SOSTENIBLES",
+    "code": "DIS8623",
+    "name": "TALLER EDITORIAL: LIBRO ILUSTRADO",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8622",
-    "name": "TALLER EDITORIAL PUBLICACIONES",
-    "credits": 10,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS8620",
-    "name": "TALLER LOCAL: DISEÑO DE OBJETOS",
-    "credits": 10,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS9069",
-    "name": "DISEÑO Y SOCIEDAD CONTEMPÓRANEA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS9044",
-    "name": "PUBLICACIÓN EDITORIAL Y LIBRO DE ARTISTA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS8940",
-    "name": "PEDAGOGÍAS Y DISEÑO",
+    "code": "DIS9027",
+    "name": "DISEÑO DE IDENTIDAD VISUAL Y MARCAS",
     "credits": 5,
     "references": [
       ""
@@ -373,14 +347,6 @@
   {
     "code": "DIS8950",
     "name": "INVESTIGACIÓN ETNOGRÁFICA APLICADA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS8970",
-    "name": "DISEÑO Y NEUROCIENCIA HUMANA",
     "credits": 5,
     "references": [
       ""
@@ -419,17 +385,25 @@
     ]
   },
   {
-    "code": "DIS8304",
-    "name": "LABORATORIO DE DISEÑO SISTEMA MODA II",
-    "credits": 10,
+    "code": "DIS8302",
+    "name": "TALLER DE DISEÑO TEXTIL",
+    "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8306",
-    "name": "TALLER PATRONES Y MODELOS AVANZADOS",
+    "code": "DIS8303",
+    "name": "TALLER PATRONES Y MODELOS",
     "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DIS8307",
+    "name": "LABORATORIO DE DISEÑO SISTEMA MODA III",
+    "credits": 10,
     "references": [
       ""
     ]
@@ -443,88 +417,72 @@
     ]
   },
   {
-    "code": "DIS9029",
-    "name": "TECNOLOGÍAS INTERACTIVAS",
+    "code": "DIS8309",
+    "name": "MATERIALES SMART Y BIOMATERIALES",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8643",
-    "name": "TALLER DE INV. Y DESARR. MATERIAL",
+    "code": "DIS8640",
+    "name": "TALLER INVITADO",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8651",
-    "name": "TALLER INVITADO 2",
+    "code": "DIS8641",
+    "name": "DISEÑO DE EXPOSICIONES Y PROCESOS CUR.",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS9032",
-    "name": "INTRODUCCIÓN A LA CIENCIA BIOMATERIAL",
+    "code": "DIS9028",
+    "name": "EXPERIMENTACIÓN Y PRODUCCIÓN BIOMATERIAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS9033",
-    "name": "NARRATIVAS VISUALES E INT ARTIFICIAL",
+    "code": "DIS8642",
+    "name": "TALLER DE PROCESOS Y FABRICACIÓN",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DIS9073",
+    "name": "INTERFASES SITUADAS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS9034",
-    "name": "PROGRAMACIÓN CREATIVA MULTIMEDIA",
+    "code": "DIS9072",
+    "name": "ESCENARIOS FUTUROS DE LA MODA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS9039",
-    "name": "FABRICACIÓN DIGITAL AVANZADA",
+    "code": "DIS9049",
+    "name": "EXPERIMENTACION AUDIOVISUAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "DIS8900",
-    "name": "VISUALIZACIÓN DE DATOS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS8915",
-    "name": "PROYECTOS INTER. EN TECNOLOGÍA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS8925",
-    "name": "FORMULACIÓN DE PROYECTOS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DIS8935",
-    "name": "PORTAFOLIO",
+    "code": "DIS9048",
+    "name": "UX : PERSP. DEL DISEÑO Y LA SOCIOLOGIA",
     "credits": 5,
     "references": [
       ""

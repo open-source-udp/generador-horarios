@@ -1,47 +1,15 @@
 [
   {
-    "code": "CPO3002",
-    "name": "TEORÍAS Y CONCEPTOS DE RELACIONES INTERN",
+    "code": "CPO3016",
+    "name": "CHILE Y EL SISTEMA INTERNACIONAL",
     "credits": 5,
     "references": [
-      "DER9896"
+      "DER9905"
     ]
   },
   {
-    "code": "CPO3003",
-    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
-    "credits": 5,
-    "references": [
-      "DER9897"
-    ]
-  },
-  {
-    "code": "CPO3011",
-    "name": "DESARROLLO POLÍTICO Y ECONÓMICO DE AMÉRI",
-    "credits": 5,
-    "references": [
-      "DER9898"
-    ]
-  },
-  {
-    "code": "CPO3012",
-    "name": "RELACIONES INTERNACIONALES EN AMÉRICA LA",
-    "credits": 5,
-    "references": [
-      "DER9899"
-    ]
-  },
-  {
-    "code": "DER0011",
-    "name": "ARGUMENTACIÓN JURÍDICA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DER0012",
-    "name": "ARBITRAJE",
+    "code": "DER0014",
+    "name": "LITIGACIÓN PENAL ORAL",
     "credits": 5,
     "references": [
       ""
@@ -80,14 +48,6 @@
     ]
   },
   {
-    "code": "DER0035",
-    "name": "INGLÉS LEGAL BÁSICO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "DER5010",
     "name": "DERECHO DE OBLIGACIONES",
     "credits": 7,
@@ -99,6 +59,14 @@
     "code": "DER5013",
     "name": "INTRODUCCIÓN A LA TEORÍA DEL DELITO",
     "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5014",
+    "name": "DERECHOS REALES",
+    "credits": 7,
     "references": [
       ""
     ]
@@ -248,6 +216,14 @@
     ]
   },
   {
+    "code": "DER5039",
+    "name": "SEMINARIO",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "DER5042",
     "name": "CONTRATOS CIVILES",
     "credits": 5,
@@ -328,41 +304,41 @@
     ]
   },
   {
-    "code": "DER9024",
-    "name": "DERECHO AMBIENTAL INTERNACIONAL",
+    "code": "DER9027",
+    "name": "DERECHO DE AGUAS",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "DER9109",
-    "name": "PROPIEDAD INDUSTRIAL",
+    "code": "DER9260",
+    "name": "ANÁLISIS ECONÓMICO DEL DERECHO",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "DER9442",
-    "name": "DERECHO DE LA SEGURIDAD SOCIAL",
+    "code": "DER9446",
+    "name": "JUSTICIA PENAL JUVENIL",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "DER9570",
-    "name": "DERECHOS FUNDAMENTALES Y NUEVA JUSTICIA",
+    "code": "DER9534",
+    "name": "DERECHO COLECTIVO DEL TRABAJO",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "DER9588",
-    "name": "SISTEMA INTERAMERICANO DE DERECHOS HUMAN",
-    "credits": 2,
+    "code": "DER9537",
+    "name": "DERECHO PENAL INTERNACIONAL",
+    "credits": 4,
     "references": [
       ""
     ]
@@ -370,6 +346,22 @@
   {
     "code": "DER9591",
     "name": "DERECHO AMBIENTAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9618",
+    "name": "DELITOS PATRIMONIALES Y FUNCIONARIOS",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9838",
+    "name": "DISCRIMINACIÓN, SEXISMO Y PREJUICIO",
     "credits": 4,
     "references": [
       ""
@@ -406,8 +398,8 @@
     ]
   },
   {
-    "code": "DER0044",
-    "name": "INGLÉS AVANZADO",
+    "code": "DER0043",
+    "name": "INGLÉS INTERMEDIO",
     "credits": 5,
     "references": [
       ""
@@ -422,6 +414,14 @@
     ]
   },
   {
+    "code": "DER9848",
+    "name": "MIGRACIÓN Y ASILO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CIG1014",
     "name": "INGLÉS GENERAL III",
     "credits": 5,
@@ -430,33 +430,67 @@
     ]
   },
   {
-    "code": "DER9856",
-    "name": "GENERO Y JUSTICIA: VIOLENCIA CONTRA LAS",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DER9858",
-    "name": "LOS DERECHOS DEL NIÑO",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CPO3521",
-    "name": "POLÍTICA Y GÉNERO",
+    "code": "CPO4002",
+    "name": "POLÍTICAS SOCIALES",
     "credits": 5,
     "references": [
-      "DER9900"
+      "CPO3028",
+      "DER9904"
+    ]
+  },
+  {
+    "code": "CPO4015",
+    "name": "PROCESO POLÍTICO Y LEGISLATIVO CHILENO",
+    "credits": 5,
+    "references": [
+      "CPO3015",
+      "DER9906"
+    ]
+  },
+  {
+    "code": "DER4939",
+    "name": "CURSO DE ESPECIALIZACIÓN EN DERECHO XV",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9870",
+    "name": "LA DESPENALIZACIÓN DEL ABORTO BAJO PLAZO",
+    "credits": 2,
+    "references": [
+      ""
     ]
   },
   {
     "code": "DER0048",
     "name": "STARTUP LAW: INNOVACIÓN Y DERECHO",
     "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9872",
+    "name": "LEG Y DERECHOS DE LOS PUEBLOS INDÍGENAS",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9878",
+    "name": "CONDENA E IMPUTACIONES ERRONEAS EN CHILE",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9873",
+    "name": "DERECHOS DIGITALES",
+    "credits": 2,
     "references": [
       ""
     ]
@@ -470,43 +504,43 @@
     ]
   },
   {
-    "code": "DER9883",
-    "name": "PENSAMIENTO POLITICO MODERNO TEMPRANO",
+    "code": "DER9880",
+    "name": "MIGRACIÓN",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER9884",
+    "name": "PENSAMIENTO POLITICO CONTEMPORANEO",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "DER9881",
-    "name": "PENSAMIENTO POLITICO ANTIGUO",
+    "code": "DER9882",
+    "name": "PENSAMIENTO POLITICO MODERNO TARDIO",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "DER9885",
-    "name": "MACROECONOMÍA",
+    "code": "DER9891",
+    "name": "GENERO Y JUSTICIA CRIMINAL",
     "credits": 4,
     "references": [
       ""
     ]
   },
   {
-    "code": "DER0053",
-    "name": "SEMILLERO PROCESAL",
+    "code": "DER0054",
+    "name": "LITIGACION EN ACCIONES DE AMPARO",
     "credits": 5,
     "references": [
       ""
-    ]
-  },
-  {
-    "code": "CPO00002",
-    "name": "POLITICA (S) DEL MEDIO AMBIENTE",
-    "credits": 5,
-    "references": [
-      "DER9903"
     ]
   },
   {
@@ -542,14 +576,6 @@
     ]
   },
   {
-    "code": "DER06114",
-    "name": "TALLER DE INV Y ESCRITURA LEGAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "DER06115",
     "name": "COMUNICACIÓN ORAL",
     "credits": 3,
@@ -578,76 +604,12 @@
     "name": "INTRODUCCIÓN AL DERECHO I",
     "credits": 5,
     "references": [
-      "DER5041"
+      ""
     ]
   },
   {
     "code": "DER06124",
     "name": "BASES GENERALES DEL DERECHO PROCESAL",
-    "credits": 5,
-    "references": [
-      "DER5011"
-    ]
-  },
-  {
-    "code": "DER06211",
-    "name": "DERECHOS REALES Y DERECHO INMOBILIARIO",
-    "credits": 5,
-    "references": [
-      "DER5014"
-    ]
-  },
-  {
-    "code": "DER06212",
-    "name": "DERECHOS FUNDAMENTALES",
-    "credits": 7,
-    "references": [
-      "DER5040"
-    ]
-  },
-  {
-    "code": "DER06213",
-    "name": "INTRODUCCIÓN AL DERECHO II",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DER06214",
-    "name": "ECONOMÍA Y DERECHO (FI)",
-    "credits": 5,
-    "references": [
-      "DER5009"
-    ]
-  },
-  {
-    "code": "DER9907",
-    "name": "INTERP. JURÍDICA Y DER. FUNDAMENTALES",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DER9908",
-    "name": "DERECHO MIGRATORIO CHILENO",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DER9909",
-    "name": "DERECHO PENAL ECONÓMICO. PARTE GENERAL",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "DER0057",
-    "name": "COMPONENTE PSICOSOCIAL EN EL DERECHO",
     "credits": 5,
     "references": [
       ""

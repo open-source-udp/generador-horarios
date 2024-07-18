@@ -120,40 +120,8 @@
     ]
   },
   {
-    "code": "CIT3320",
-    "name": "CONTINUIDAD DE NEGOCIOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT3325",
-    "name": "INTELIGENCIA DE NEGOCIOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT3420",
-    "name": "REDES ÓPTICAS DE DATOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT3423",
-    "name": "TELEVISIÓN DIGITAL",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CIT3427",
-    "name": "INTERNET DE LAS COSAS",
+    "code": "CIT3416",
+    "name": "PROCESAMIENTO DIGITAL DE SEÑALES",
     "credits": 6,
     "references": [
       ""
@@ -216,22 +184,6 @@
     ]
   },
   {
-    "code": "INF2030",
-    "name": "TALLER DE TÍTULO II",
-    "credits": 15,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ING9101",
-    "name": "PRÁCTICAS ELECTIVAS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CIT2204",
     "name": "PROBABILIDADES Y ESTADÍSTICAS",
     "credits": 6,
@@ -262,6 +214,14 @@
     ]
   },
   {
+    "code": "CIT3340",
+    "name": "GESTIÓN ESTRATÉGICA PARA INFORMÁTICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CIT4015",
     "name": "TITULACIÓN VIA MAGISTER",
     "credits": 30,
@@ -275,6 +235,14 @@
     "credits": 5,
     "references": [
       "ICG3573"
+    ]
+  },
+  {
+    "code": "CIT3431",
+    "name": "REDES MÓVILES CELULARES",
+    "credits": 6,
+    "references": [
+      ""
     ]
   },
   {
@@ -486,6 +454,14 @@
     ]
   },
   {
+    "code": "CIT3349",
+    "name": "GRAFOS Y ALGORITMOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CIT3433",
     "name": "INTEROPERABILIDAD Y SIST DE TELEC",
     "credits": 6,
@@ -494,24 +470,32 @@
     ]
   },
   {
-    "code": "CIT3352",
-    "name": "ALGORITMOS EXACTOS Y METAHEURÍSTICAS",
+    "code": "CIT3353",
+    "name": "SIMULACIÓN Y BIOLOGÍA PROGRAMABLE",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "CIT3359",
-    "name": "PROYECTOS INTERDISCIPLINARIOS EN TEC.",
+    "code": "CIT3354",
+    "name": "SISTEMAS DE PROCESAMIENTO PARA BIG DATA",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "CIT3360",
-    "name": "DEEP LEARNING",
+    "code": "CIT3434",
+    "name": "COMUNIC POR LUZ VISIBLE PARA IND INTELIG",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT3435",
+    "name": "ALGORITMOS DE RUTEO Y REDES RESILIENTES",
     "credits": 6,
     "references": [
       ""

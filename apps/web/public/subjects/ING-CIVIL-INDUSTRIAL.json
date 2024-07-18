@@ -176,24 +176,8 @@
     ]
   },
   {
-    "code": "CII3404",
-    "name": "INTRODUCCIÓN A LOS MERCADOS ELÉCTRICOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CII3422",
     "name": "TÓPICOS DE LOG. Y SIS.  DE DIS. DE CARGA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CII3424",
-    "name": "TRANSFERENCIA DE CALOR",
     "credits": 6,
     "references": [
       ""
@@ -224,24 +208,16 @@
     ]
   },
   {
+    "code": "CII3603",
+    "name": "ORGANIZACIÓN INDUSTRIAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CII3610",
     "name": "INNOVACIÓN",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CII3611",
-    "name": "ÉTICA EMPRESARIAL",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CII3612",
-    "name": "TÓPICOS EN MACROECONOMÍA",
     "credits": 6,
     "references": [
       ""
@@ -284,7 +260,7 @@
     "name": "EXAMEN DE TÍTULO",
     "credits": 30,
     "references": [
-      ""
+      "ICI3333"
     ]
   },
   {
@@ -300,7 +276,7 @@
     "name": "TESIS",
     "credits": 30,
     "references": [
-      ""
+      "ICI3388"
     ]
   },
   {
@@ -315,30 +291,6 @@
     "code": "ICI5002",
     "name": "PRÁCTICA PROFESIONAL II",
     "credits": 0,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICI9045",
-    "name": "ADMINISTRACIÓN DE R.R.H.H.",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ING9101",
-    "name": "PRÁCTICAS ELECTIVAS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CII3426",
-    "name": "TÓPICOS EN ENERGÍA",
-    "credits": 6,
     "references": [
       ""
     ]
@@ -366,6 +318,14 @@
     ]
   },
   {
+    "code": "ICIMAG",
+    "name": "TESIS DE MAGISTER DE CONTINUIDAD",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CIG1014",
     "name": "INGLÉS GENERAL III",
     "credits": 5,
@@ -374,16 +334,16 @@
     ]
   },
   {
-    "code": "ICI3309",
-    "name": "SEMINARIO I",
+    "code": "CII3618",
+    "name": "CONTROL DE GESTIÓN",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "CII3622",
-    "name": "PYTHON FOR ENGINEERS",
+    "code": "ICI3310",
+    "name": "SEMINARIO II",
     "credits": 6,
     "references": [
       ""
@@ -510,8 +470,24 @@
     ]
   },
   {
+    "code": "ICI3377",
+    "name": "TALLER PROFESIONAL",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CII3624",
     "name": "EVALUACIÓN SOCIAL DE PROYECTOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII3628",
+    "name": "NANOCIENCIA Y NANOTECNOLOGÍA EN LA IND.",
     "credits": 6,
     "references": [
       ""
@@ -526,24 +502,16 @@
     ]
   },
   {
-    "code": "CII3702",
-    "name": "MÉTODOS AVANZADOS DE ANÁLISIS DE DATOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CII3703",
-    "name": "ENERGÍA SOLAR",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CII3705",
     "name": "INTRODUCCIÓN A LA TEORÍA DE JUEGOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII3706",
+    "name": "FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIA",
     "credits": 6,
     "references": [
       ""
@@ -560,6 +528,46 @@
   {
     "code": "CII3709",
     "name": "GESTIÓN EN LA INDUSTRIA MINERA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII3710",
+    "name": "FINTECH",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII3722",
+    "name": "APLICACIÓN DEL DERECHO LABORAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII3723",
+    "name": "TÓPICOS DE INVESTIGACIÓN OPERATIVA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII3721",
+    "name": "TEC AVANZADAS PARA LA TRANSICIÓN ENERGÉT",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CII3724",
+    "name": "GESTIÓN CADENA DE ABAST. & OPERACIONES",
     "credits": 6,
     "references": [
       ""

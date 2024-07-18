@@ -1,7 +1,7 @@
 [
   {
-    "code": "PEL2001_VC01",
-    "subjectCode": "PEL2001",
+    "code": "PEL2004_VC01",
+    "subjectCode": "PEL2004",
     "section": "Sección 1",
     "timeBlocks": [
       {
@@ -9,20 +9,41 @@
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "DE LA HOZ SILVANA MARCELA"
+        "teacher": "OCHOA MARIA ALEJANDRA"
       },
       {
         "day": "MI",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "DE LA HOZ SILVANA MARCELA"
+        "teacher": "OCHOA MARIA ALEJANDRA"
       }
     ]
   },
   {
-    "code": "PEL2002_VC01",
-    "subjectCode": "PEL2002",
+    "code": "PEL2004_FG01",
+    "subjectCode": "PEL2004",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "PEL2005_VC01",
+    "subjectCode": "PEL2005",
     "section": "Sección 1",
     "timeBlocks": [
       {
@@ -33,8 +54,8 @@
         "teacher": "HERNANDEZ BLANCA PAULINA"
       },
       {
-        "day": "MI",
-        "block": "A",
+        "day": "LU",
+        "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "HERNANDEZ BLANCA PAULINA"
@@ -42,8 +63,8 @@
     ]
   },
   {
-    "code": "PEL2003_VC01",
-    "subjectCode": "PEL2003",
+    "code": "PEL2006_VC01",
+    "subjectCode": "PEL2006",
     "section": "Sección 1",
     "timeBlocks": [
       {
@@ -89,6 +110,20 @@
         "teacher": "OCHOA MARIA ALEJANDRA"
       },
       {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
         "day": "JU",
         "block": "A",
         "description": "PRÁCTICA 01",
@@ -115,12 +150,47 @@
         "description": "PRÁCTICA 01",
         "isMandatory": true,
         "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
       }
     ]
   },
   {
-    "code": "PEL2003_VC02",
-    "subjectCode": "PEL2003",
+    "code": "PEL2006_VC02",
+    "subjectCode": "PEL2006",
     "section": "Sección 2",
     "timeBlocks": [
       {
@@ -138,6 +208,48 @@
         "teacher": "HERNANDEZ BLANCA PAULINA"
       },
       {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
         "day": "JU",
         "block": "A",
         "description": "PRÁCTICA 02",
@@ -178,37 +290,37 @@
         "description": "PRÁCTICA 02",
         "isMandatory": true,
         "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
       }
     ]
   },
   {
-    "code": "PEL2003_VC03",
-    "subjectCode": "PEL2003",
+    "code": "PEL2006_VC03",
+    "subjectCode": "PEL2006",
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "MA",
+        "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "LETELIER BÁRBARA"
       },
       {
-        "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "LETELIER BÁRBARA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "LETELIER BÁRBARA"
-      },
-      {
-        "day": "JU",
+        "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
@@ -250,6 +362,13 @@
         "teacher": "LETELIER BÁRBARA"
       },
       {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
         "day": "JU",
         "block": "A",
         "description": "PRÁCTICA 03",
@@ -280,6 +399,34 @@
       {
         "day": "JU",
         "block": "E",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
         "description": "PRÁCTICA 03",
         "isMandatory": true,
         "teacher": "LETELIER BÁRBARA"
@@ -287,226 +434,135 @@
     ]
   },
   {
-    "code": "PEL2003_VC04",
-    "subjectCode": "PEL2003",
+    "code": "PHL2014_VC01",
+    "subjectCode": "PHL2014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2014_VFG",
+    "subjectCode": "PHL2014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2014_VC02",
+    "subjectCode": "PHL2014",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC01",
+    "subjectCode": "PHL2015",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC02",
+    "subjectCode": "PHL2015",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC03",
+    "subjectCode": "PHL2015",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "DE LA HOZ SILVANA MARCELA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC04",
+    "subjectCode": "PHL2015",
     "section": "Sección 4",
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "F",
+        "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": ""
-      },
+        "teacher": "LETELIER BÁRBARA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC05",
+    "subjectCode": "PHL2015",
+    "section": "Sección 5",
+    "timeBlocks": [
       {
         "day": "LU",
-        "block": "G",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
         "block": "D",
-        "description": "PRÁCTICA 04",
+        "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "PRÁCTICA 04",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "PELEXA2_VC01",
-    "subjectCode": "PELEXA2",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "EXAMEN DE TITULO",
-        "isMandatory": true,
-        "teacher": ""
-      }
-    ]
-  },
-  {
-    "code": "PHL2009_VC01",
-    "subjectCode": "PHL2009",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAZMURI RENATO JUAN JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAZMURI RENATO JUAN JOSE"
-      }
-    ]
-  },
-  {
-    "code": "PHL2009_VFG",
-    "subjectCode": "PHL2009",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAZMURI RENATO JUAN JOSE"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GAZMURI RENATO JUAN JOSE"
-      }
-    ]
-  },
-  {
-    "code": "PHL2010_VC",
-    "subjectCode": "PHL2010",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "AREVALO RITA ISABEL MARGARITA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "AREVALO RITA ISABEL MARGARITA"
-      }
-    ]
-  },
-  {
-    "code": "PHL2011_VC",
-    "subjectCode": "PHL2011",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "COX CRISTIAN"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "COX CRISTIAN"
-      }
-    ]
-  },
-  {
-    "code": "PHL2011_VFG",
-    "subjectCode": "PHL2011",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "COX CRISTIAN"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "COX CRISTIAN"
+        "teacher": "HERNANDEZ BLANCA PAULINA"
       }
     ]
   }

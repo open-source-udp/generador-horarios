@@ -1,29 +1,5 @@
 [
   {
-    "code": "ICO8107",
-    "name": "ORGANIZACIÓN INDUSTRIAL",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICO8307",
-    "name": "GESTIÓN DE OPERACIONES",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICO8404",
-    "name": "FINANZAS I",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "ICO8405",
     "name": "FINANZAS II",
     "credits": 6,
@@ -40,32 +16,48 @@
     ]
   },
   {
-    "code": "ICO8503",
-    "name": "INVESTIGACIÓN DE MERCADOS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICO8704",
-    "name": "INGLÉS IV",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICO8803",
-    "name": "TALLER DE ANÁLISIS DE EMPRESAS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "ICO8804",
     "name": "JUEGO DE NEGOCIOS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8805",
+    "name": "BRANDING",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8819",
+    "name": "LAS FINANZAS CORPORATIVAS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8852",
+    "name": "EVALUACIÓN DE IMPACTO",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MCA1026",
+    "name": "ECONOMÍA FINANCIERA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8867",
+    "name": "GESTIÓN DE CALIDAD DE VIDA LABORAL",
     "credits": 7,
     "references": [
       ""
@@ -115,14 +107,6 @@
     "code": "ICG9039",
     "name": "CONTROL DE GESTIÓN DE T.I.",
     "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICO8892",
-    "name": "TÓPICOS EN ECONOMÍA LABORAL",
-    "credits": 7,
     "references": [
       ""
     ]
@@ -292,7 +276,7 @@
     "name": "GESTIÓN DE OPERACIONES",
     "credits": 6,
     "references": [
-      ""
+      "ICO8307"
     ]
   },
   {
@@ -324,7 +308,7 @@
     "name": "FINANZAS II",
     "credits": 6,
     "references": [
-      ""
+      "ICO8404"
     ]
   },
   {
@@ -371,14 +355,6 @@
     "code": "ICO09418",
     "name": "CRECIMIENTO Y DESARROLLO",
     "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICO09410",
-    "name": "EMPRENDIMIENTO Y LIDERAZGO DE EQUIPOS I",
-    "credits": 24,
     "references": [
       ""
     ]
@@ -448,17 +424,25 @@
     ]
   },
   {
-    "code": "ICO09511",
-    "name": "EMPRENDIMIENTO Y LID. DE EQUIPOS III",
+    "code": "ICO09429",
+    "name": "EMPRENDIMIENTO Y LIDERAZGO DE EQUIPOS II",
     "credits": 24,
     "references": [
       ""
     ]
   },
   {
-    "code": "ICO8912",
-    "name": "ECONOMÍA DE PENSIONES",
-    "credits": 7,
+    "code": "ICO09523",
+    "name": "EMPREND Y LIDERAZGO DE EQUIPOS IV",
+    "credits": 24,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09524",
+    "name": "DESARROLLO DE CARRERA Y E-PORTAFOLIO",
+    "credits": 6,
     "references": [
       ""
     ]
@@ -512,14 +496,6 @@
     ]
   },
   {
-    "code": "FEEPO001",
-    "name": "PROYECTO 1",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "FEEMA001",
     "name": "PROYECTO 1",
     "credits": 7,
@@ -530,38 +506,6 @@
   {
     "code": "FEEND003",
     "name": "BUSINESS ANALYTICS I",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEFI002",
-    "name": "MERCADO DE CAPITALES E INS. DE INVERSIÓN",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEPO002",
-    "name": "GESTIÓN DEL CAMBIO Y TRANSFORMACIÓN DIGI",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEPO003",
-    "name": "ESTRUCTURA Y DISEÑO DE COMPENSACIONES",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEPO004",
-    "name": "ANALÍTICA DE PERSONAS",
     "credits": 7,
     "references": [
       ""
@@ -608,25 +552,17 @@
     ]
   },
   {
-    "code": "FEEFI001",
-    "name": "PROYECTO 1",
-    "credits": 7,
+    "code": "FEEFI006",
+    "name": "BUSINESS PROJECT",
+    "credits": 11,
     "references": [
       ""
     ]
   },
   {
-    "code": "FEEFI003",
-    "name": "INSTRUMENTOS DERIVADOS",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FEEFI004",
-    "name": "MÉTODOS ECONOMÉTRICOS EN FINANZAS",
-    "credits": 7,
+    "code": "FEEMA006",
+    "name": "BUSINESS PROJECT",
+    "credits": 11,
     "references": [
       ""
     ]
@@ -643,6 +579,22 @@
     "code": "FEEPO006",
     "name": "BUSINESS PROJECT",
     "credits": 11,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEFI005",
+    "name": "PROYECTO 2",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA005",
+    "name": "PROYECTO 2",
+    "credits": 7,
     "references": [
       ""
     ]
@@ -672,17 +624,9 @@
     ]
   },
   {
-    "code": "ICO8926",
-    "name": "COMPLIANCE, ÉTICA Y BUENAS CONDUCTAS EMP",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ICO8929",
-    "name": "ECONOMÍA AMBIENTAL",
-    "credits": 7,
+    "code": "ICG9049",
+    "name": "GESTIÓN DE PROYECTOS",
+    "credits": 6,
     "references": [
       ""
     ]
@@ -696,9 +640,25 @@
     ]
   },
   {
-    "code": "ICG9051",
-    "name": "TOMA DE DECISIONES BASADAS EN DATOS",
-    "credits": 6,
+    "code": "ICO8930",
+    "name": "ECONOMÍA PÚBLICA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8931",
+    "name": "COMUNICACIÓN INT. EN MTK.",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8932",
+    "name": "SELECCIÓN DE PERSONAS",
+    "credits": 7,
     "references": [
       ""
     ]

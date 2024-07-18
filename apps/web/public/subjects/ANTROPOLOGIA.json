@@ -30,80 +30,64 @@
     ]
   },
   {
-    "code": "ANT01111",
-    "name": "INTRODUCCIÓN A LA ANTROPOLOGÍA",
+    "code": "ANT01121",
+    "name": "TEORÍA ANTROPÓLOGICA I",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ANT01112",
-    "name": "TALLER DE ESCRITURA ANTROPOLÓGICA",
+    "code": "ANT01122",
+    "name": "LÓGICA DE LA INVESTIGACIÓN",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ANT01113",
-    "name": "TALLER ETNOGRÁFICO I",
+    "code": "ANT01123",
+    "name": "TALLER ETNOGRÁFICO II",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ANT01114",
-    "name": "PUEBLOS ORIGINARIOS EN AMÉRICA",
+    "code": "ANT01124",
+    "name": "PROCESOS SOCIALES LATINOAMERICANOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ANT01115",
-    "name": "ANTROPOLOGÍA DE CHILE Y AMÉRICA LATINA",
+    "code": "ANT01221",
+    "name": "TEORÍA ANTROPÓLOGICA III",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ANT01211",
-    "name": "TEORÍA ANTROPÓLOGICA II",
+    "code": "ANT01222",
+    "name": "MÉTODOS CUANTITATIVOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ANT01212",
-    "name": "MÉTODOS CUALITATIVOS",
+    "code": "ANT01223",
+    "name": "TALLER ETNOGRÁFICO IV",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ANT01213",
-    "name": "TALLER ETNOGRÁFICO III",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ANT01214",
-    "name": "ANTROP. HIST. DE LOS PUEBLOS EN CHILE",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ANT01215",
-    "name": "TEORÍA Y CONCEPTOS DE POLÍTICAS PÚBL",
+    "code": "ANT01224",
+    "name": "ANTROPOLOGÍA BIOLÓGICA Y ARQUEOLÓGICA",
     "credits": 5,
     "references": [
       ""

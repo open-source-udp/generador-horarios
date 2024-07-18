@@ -1,31 +1,23 @@
 [
   {
-    "code": "ARQ9099",
-    "name": "TALLER VERTICAL DE ARQUITECTURA EN VIVIE",
+    "code": "ARQ9156",
+    "name": "TALLER VERTICAL DE ARQUITECTURA EN TERRI",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9151",
-    "name": "TALLER VERTICAL DE ARQUITECTURA - PARTIC",
+    "code": "ARQ9227",
+    "name": "TALLER VERTICAL DE ARQUITECTURA",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9157",
-    "name": "TALLER VERTICAL DE ARQUITECTURA E INNOVA",
-    "credits": 10,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "FAD1017",
-    "name": "TALLER LATITUD SUR",
+    "code": "FAD1018",
+    "name": "TALLER INTERNACIONAL EUROPA",
     "credits": 10,
     "references": [
       ""
@@ -112,14 +104,6 @@
     ]
   },
   {
-    "code": "ARQ4231",
-    "name": "TALLER 3+4",
-    "credits": 9,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "ARQ4232",
     "name": "PAISAJE Y LUGAR",
     "credits": 5,
@@ -165,14 +149,6 @@
     "credits": 5,
     "references": [
       "ARQ3159"
-    ]
-  },
-  {
-    "code": "ARQ4351",
-    "name": "TALLER 5 +6",
-    "credits": 9,
-    "references": [
-      ""
     ]
   },
   {
@@ -264,6 +240,22 @@
     ]
   },
   {
+    "code": "ARQ4248",
+    "name": "TALLER 4+3",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4368",
+    "name": "TALLER 6 + 5",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "ARQ4236",
     "name": "SEMINARIO DE EXTENSIÓN 1",
     "credits": 2,
@@ -280,88 +272,104 @@
     ]
   },
   {
-    "code": "ARQ9362",
-    "name": "TERRITORIO Y MOVILIDAD SOSTENIBLE",
+    "code": "ARQ9351",
+    "name": "NUEVOS PAISAJES SOCIALES",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9383",
-    "name": "CATÁLOGO CIENTÍFICO DE BIOMATERIALES",
+    "code": "ARQ9404",
+    "name": "HERRAMIENTAS DIGITALES DISEÑO SOSTENIBLE",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9401",
-    "name": "COMPONENTES ARQUITECTÓNICOS DINÁMICOS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ARQ9410",
-    "name": "CIUDADES Y COMUNIDADES SOSTENIBLES",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "ARQ9417",
-    "name": "TALLER VERTICAL EN PAISAJE Y SUSTENTABIL",
+    "code": "ARQ9415",
+    "name": "TALLER VERTICAL EN CIUDAD Y TERRITORIO",
     "credits": 9,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9418",
-    "name": "ESCRITURAS Y ORALIDADES PARA UNA PON",
+    "code": "ARQ9416",
+    "name": "TALLER VERTICAL EN MATERIALES Y PROTOTIP",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9422",
+    "name": "ESTRATEGIAS MATERIALES PARA LA FABRIC.",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9428",
-    "name": "DISEÑO INFORMADO POR VARIABLES DEL CONT",
+    "code": "ARQ9424",
+    "name": "HERRAM. PARA EL ANÁLISIS Y VIS DE DATOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9432",
-    "name": "OTREDADES: FORMAS ARQUITECTÓNICAS",
+    "code": "ARQ9426",
+    "name": "ECONOMÍA CIRCULAR EN LAS CIUDADES",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9429",
-    "name": "FABRICACIÓN AVANZADA: GRADOS DE LIBERTAD",
+    "code": "ARQ9433",
+    "name": "DEBATES SOBRE VIVIENDA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9430",
-    "name": "NATURALEZA Y CIUDAD",
+    "code": "ARQ9434",
+    "name": "ARCHIVO, PALABRA Y EXPERIENCIA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "ARQ9431",
-    "name": "INFRAESTRUCTURA AZUL: ESPACIO PÚBLICO C.",
+    "code": "ARQ9435",
+    "name": "CUIR: ACTO, APROPIACIÓN, MOVIMIENTO Y PR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9436",
+    "name": "TERRITORIO Y RESILIENCIA ANTE DESASTRES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9437",
+    "name": "PENSAMIENTO Y DISEÑO COMPUTACIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9438",
+    "name": "LABORATORIO DE EXPLORACIÓN MATERIAL",
     "credits": 5,
     "references": [
       ""

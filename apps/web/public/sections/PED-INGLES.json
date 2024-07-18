@@ -1,573 +1,13 @@
 [
   {
-    "code": "EDE1006_VC01",
-    "subjectCode": "EDE1006",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "APPELGREN DANIELA SOLANGE"
-      },
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "APPELGREN DANIELA SOLANGE"
-      }
-    ]
-  },
-  {
-    "code": "EDE1006_VC02",
-    "subjectCode": "EDE1006",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "RAMOS LISSETTE MARJORIE"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "RAMOS LISSETTE MARJORIE"
-      }
-    ]
-  },
-  {
-    "code": "EDE1006_VC03",
-    "subjectCode": "EDE1006",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMOS LISSETTE MARJORIE"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "RAMOS LISSETTE MARJORIE"
-      }
-    ]
-  },
-  {
-    "code": "EDE1007_VC01",
-    "subjectCode": "EDE1007",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
-      }
-    ]
-  },
-  {
-    "code": "EDE1007_VC02",
-    "subjectCode": "EDE1007",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "VALENZUELA DIEGO"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "VALENZUELA DIEGO"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "VALENZUELA DIEGO"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "VALENZUELA DIEGO"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PEÑA CLAUDIA PAZ"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PEÑA CLAUDIA PAZ"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
-      }
-    ]
-  },
-  {
-    "code": "EDE1007_VC03",
-    "subjectCode": "EDE1007",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PEÑA CLAUDIA PAZ"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PEÑA CLAUDIA PAZ"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
-      }
-    ]
-  },
-  {
-    "code": "EDE1007_VC04",
-    "subjectCode": "EDE1007",
-    "section": "Sección 4",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "BAMBACH MARIA EUGENIA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "VERGARA PAULA ELIANA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "VERGARA PAULA ELIANA"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1008_CA01",
-    "subjectCode": "EDE1008",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "B-LEARNING HORARIO BLOQUEADO 01",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "B-LEARNING HORARIO BLOQUEADO 01",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1008_VC02",
-    "subjectCode": "EDE1008",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "B-LEARNING HORARIO BLOQUEADO 02",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "B-LEARNING HORARIO BLOQUEADO 02",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1008_VC03",
-    "subjectCode": "EDE1008",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1008_VC04",
-    "subjectCode": "EDE1008",
-    "section": "Sección 4",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      }
-    ]
-  },
-  {
-    "code": "EDE1009_VC01",
-    "subjectCode": "EDE1009",
+    "code": "EDE1010_VC01",
+    "subjectCode": "EDE1010",
     "section": "Sección 1",
     "timeBlocks": [
       {
         "day": "VI",
-        "block": "E",
+        "block": "C",
         "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1009_VC02",
-    "subjectCode": "EDE1009",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "BASCUÑAN DANIELA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "BASCUÑAN DANIELA PAZ"
-      }
-    ]
-  },
-  {
-    "code": "EDE1009_FG02",
-    "subjectCode": "EDE1009",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "BASCUÑAN DANIELA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "BASCUÑAN DANIELA PAZ"
-      }
-    ]
-  },
-  {
-    "code": "EDE1009_VC03",
-    "subjectCode": "EDE1009",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "BASCUÑAN DANIELA PAZ"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "BASCUÑAN DANIELA PAZ"
-      }
-    ]
-  },
-  {
-    "code": "EDE1009_VC04",
-    "subjectCode": "EDE1009",
-    "section": "Sección 4",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1014_VC01",
-    "subjectCode": "EDE1014",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 01",
         "isMandatory": true,
         "teacher": "TORRELLAS LUSVIC"
       },
@@ -616,10 +56,17 @@
     ]
   },
   {
-    "code": "EDE1014_VC02",
-    "subjectCode": "EDE1014",
+    "code": "EDE1010_VC02",
+    "subjectCode": "EDE1010",
     "section": "Sección 2",
     "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PARDO NATACHA BEATRIZ"
+      },
       {
         "day": "MA",
         "block": "A",
@@ -661,25 +108,18 @@
         "description": "PRACTICA MADRE",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PARDO NATACHA BEATRIZ"
       }
     ]
   },
   {
-    "code": "EDE1014_VC03",
-    "subjectCode": "EDE1014",
+    "code": "EDE1010_VC03",
+    "subjectCode": "EDE1010",
     "section": "Sección 3",
     "timeBlocks": [
       {
         "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 03",
+        "block": "C",
+        "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "AGUILERA TAMARA NICOLE"
       },
@@ -728,10 +168,17 @@
     ]
   },
   {
-    "code": "EDE1014_VC04",
-    "subjectCode": "EDE1014",
+    "code": "EDE1010_VC04",
+    "subjectCode": "EDE1010",
     "section": "Sección 4",
     "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "MERCADO SEBASTIAN MARIO"
+      },
       {
         "day": "MA",
         "block": "A",
@@ -773,19 +220,12 @@
         "description": "PRACTICA MADRE",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "PAEZ ALICIA MARIA"
       }
     ]
   },
   {
-    "code": "EDE1014_VC05",
-    "subjectCode": "EDE1014",
+    "code": "EDE1010_CA05",
+    "subjectCode": "EDE1010",
     "section": "Sección 5",
     "timeBlocks": [
       {
@@ -832,358 +272,498 @@
       },
       {
         "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 05",
+        "block": "C",
+        "description": "CÁTEDRA 05",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "PEÑA CLAUDIA PAZ"
       }
     ]
   },
   {
-    "code": "EDE1015_VC01",
-    "subjectCode": "EDE1015",
+    "code": "EDE1011_VC01",
+    "subjectCode": "EDE1011",
     "section": "Sección 1",
     "timeBlocks": [
       {
         "day": "MI",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
         "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
-      },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1015_VC02",
-    "subjectCode": "EDE1015",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
-      }
-    ]
-  },
-  {
-    "code": "EDE1015_VC03",
-    "subjectCode": "EDE1015",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "VERGARA PAULA ELIANA"
-      },
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "VERGARA PAULA ELIANA"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1016_VC01",
-    "subjectCode": "EDE1016",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "PERALTA BRUNO PAULO"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "PERALTA BRUNO PAULO"
-      }
-    ]
-  },
-  {
-    "code": "EDE1016_VC02",
-    "subjectCode": "EDE1016",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PERALTA BRUNO PAULO"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PERALTA BRUNO PAULO"
-      }
-    ]
-  },
-  {
-    "code": "EDE1016_VC03",
-    "subjectCode": "EDE1016",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PARDO NATACHA BEATRIZ"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PARDO NATACHA BEATRIZ"
-      }
-    ]
-  },
-  {
-    "code": "EDE1017_VC01",
-    "subjectCode": "EDE1017",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAEZ ALICIA MARIA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "PAEZ ALICIA MARIA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1017_VC02",
-    "subjectCode": "EDE1017",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PAEZ ALICIA MARIA"
-      },
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PAEZ ALICIA MARIA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1017_VC03",
-    "subjectCode": "EDE1017",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CATEDRA 03",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "VALENZUELA DIEGO"
       },
       {
-        "day": "LU",
-        "block": "F",
-        "description": "CATEDRA 03",
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "VALENZUELA DIEGO"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MERCADO SEBASTIAN MARIO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "MERCADO SEBASTIAN MARIO"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
       }
     ]
   },
   {
-    "code": "EDE1023_VC01",
-    "subjectCode": "EDE1023",
+    "code": "EDE1011_VC02",
+    "subjectCode": "EDE1011",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA TERESA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA TERESA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERCADO SEBASTIAN MARIO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "MERCADO SEBASTIAN MARIO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1011_VC03",
+    "subjectCode": "EDE1011",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MERCADO SEBASTIAN MARIO"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "MERCADO SEBASTIAN MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "BUSTAMANTE SERGIO RAUL"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA TERESA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA TERESA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1011_VC04",
+    "subjectCode": "EDE1011",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA TERESA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "CORREA MARIA TERESA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "MONTES CARMEN CECILIA"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "MONTES CARMEN CECILIA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "POBLETE JAVIERA FRANCISCA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1012_VC01",
+    "subjectCode": "EDE1012",
     "section": "Sección 1",
     "timeBlocks": [
       {
         "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1012_VC02",
+    "subjectCode": "EDE1012",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA DANIELA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1012_VC03",
+    "subjectCode": "EDE1012",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1012_VC04",
+    "subjectCode": "EDE1012",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1013_VC01",
+    "subjectCode": "EDE1013",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PERALTA BRUNO PAULO"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PERALTA BRUNO PAULO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1013_VC02",
+    "subjectCode": "EDE1013",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+      }
+    ]
+  },
+  {
+    "code": "EDE1013_VC03",
+    "subjectCode": "EDE1013",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
         "block": "C",
-        "description": "CATEDRA 01",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1013_VC04",
+    "subjectCode": "EDE1013",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "EGUREN JOAQUÍN ANTONIO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1018_VC01",
+    "subjectCode": "EDE1018",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "BUSTAMANTE SERGIO RAUL"
       },
@@ -1232,14 +812,14 @@
     ]
   },
   {
-    "code": "EDE1023_VC02",
-    "subjectCode": "EDE1023",
+    "code": "EDE1018_VC02",
+    "subjectCode": "EDE1018",
     "section": "Sección 2",
     "timeBlocks": [
       {
         "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 02",
+        "block": "B",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "CORREA MARIA TERESA"
       },
@@ -1288,10 +868,17 @@
     ]
   },
   {
-    "code": "EDE1023_VC03",
-    "subjectCode": "EDE1023",
+    "code": "EDE1018_VC03",
+    "subjectCode": "EDE1018",
     "section": "Sección 3",
     "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PARDO NATACHA BEATRIZ"
+      },
       {
         "day": "MI",
         "block": "A",
@@ -1333,25 +920,18 @@
         "description": "PRACTICA MADRE",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "PARDO NATACHA BEATRIZ"
       }
     ]
   },
   {
-    "code": "EDE1023_VC04",
-    "subjectCode": "EDE1023",
+    "code": "EDE1018_VC04",
+    "subjectCode": "EDE1018",
     "section": "Sección 4",
     "timeBlocks": [
       {
         "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 04",
+        "block": "B",
+        "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": "TORRELLAS LUSVIC"
       },
@@ -1400,347 +980,18 @@
     ]
   },
   {
-    "code": "EDE1024_VC01",
-    "subjectCode": "EDE1024",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
-      }
-    ]
-  },
-  {
-    "code": "EDE1024_VC02",
-    "subjectCode": "EDE1024",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
-      },
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA MARIA GABRIELA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "HAVERLAND RONDA LEE"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "HAVERLAND RONDA LEE"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "HAVERLAND RONDA LEE"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "HAVERLAND RONDA LEE"
-      }
-    ]
-  },
-  {
-    "code": "EDE1025_VC01",
-    "subjectCode": "EDE1025",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "TORRELLAS LUSVIC"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "TORRELLAS LUSVIC"
-      }
-    ]
-  },
-  {
-    "code": "EDE1025_FG1",
-    "subjectCode": "EDE1025",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "TORRELLAS LUSVIC"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "TORRELLAS LUSVIC"
-      }
-    ]
-  },
-  {
-    "code": "EDE1025_VC02",
-    "subjectCode": "EDE1025",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "TORRELLAS LUSVIC"
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "TORRELLAS LUSVIC"
-      }
-    ]
-  },
-  {
-    "code": "EDE1026_VC01",
-    "subjectCode": "EDE1026",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "VALENZUELA DIEGO"
-      },
-      {
-        "day": "MA",
-        "block": "G",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "VALENZUELA DIEGO"
-      }
-    ]
-  },
-  {
-    "code": "EDE1026_VC02",
-    "subjectCode": "EDE1026",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1027_VC01",
-    "subjectCode": "EDE1027",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "E",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      },
-      {
-        "day": "JU",
-        "block": "F",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      }
-    ]
-  },
-  {
-    "code": "EDE1027_VC02",
-    "subjectCode": "EDE1027",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "E",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PERALTA BRUNO PAULO"
-      },
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PERALTA BRUNO PAULO"
-      }
-    ]
-  },
-  {
-    "code": "EDE1032_VC01",
-    "subjectCode": "EDE1032",
-    "section": "Sección 1",
+    "code": "EDE1018_VC05",
+    "subjectCode": "EDE1018",
+    "section": "Sección 5",
     "timeBlocks": [
       {
         "day": "VI",
-        "block": "A",
-        "description": "CATEDRA 01",
+        "block": "B",
+        "description": "CÁTEDRA 05",
         "isMandatory": true,
         "teacher": "ORDENES MARIA CAROLINA"
       },
       {
-        "day": "LU",
-        "block": "A",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
         "day": "MI",
         "block": "A",
         "description": "PRACTICA MADRE",
@@ -1762,22 +1013,22 @@
         "teacher": ""
       },
       {
-        "day": "JU",
-        "block": "A",
+        "day": "MI",
+        "block": "D",
         "description": "PRACTICA MADRE",
         "isMandatory": true,
         "teacher": ""
       },
       {
-        "day": "JU",
-        "block": "B",
+        "day": "MI",
+        "block": "E",
         "description": "PRACTICA MADRE",
         "isMandatory": true,
         "teacher": ""
       },
       {
-        "day": "JU",
-        "block": "C",
+        "day": "MI",
+        "block": "F",
         "description": "PRACTICA MADRE",
         "isMandatory": true,
         "teacher": ""
@@ -1785,19 +1036,474 @@
     ]
   },
   {
-    "code": "EDE1032_VC02",
-    "subjectCode": "EDE1032",
+    "code": "EDE1018_VC06",
+    "subjectCode": "EDE1018",
+    "section": "Sección 6",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "D",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 06",
+        "isMandatory": true,
+        "teacher": "PEÑA CLAUDIA PAZ"
+      }
+    ]
+  },
+  {
+    "code": "EDE1019_VC01",
+    "subjectCode": "EDE1019",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      }
+    ]
+  },
+  {
+    "code": "EDE1019_VC02",
+    "subjectCode": "EDE1019",
     "section": "Sección 2",
     "timeBlocks": [
       {
         "day": "VI",
-        "block": "A",
-        "description": "CATEDRA 02",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      },
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "PEÑA CLAUDIA PAZ"
       },
       {
         "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PEÑA CLAUDIA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PEÑA CLAUDIA PAZ"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PEÑA CLAUDIA PAZ"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1019_VC03",
+    "subjectCode": "EDE1019",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "VERGARA PAULA ELIANA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "VERGARA PAULA ELIANA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1020_VC01",
+    "subjectCode": "EDE1020",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAEZ ALICIA MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PAEZ ALICIA MARIA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1020_VC02",
+    "subjectCode": "EDE1020",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PAEZ ALICIA MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PAEZ ALICIA MARIA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1020_VC03",
+    "subjectCode": "EDE1020",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PERALTA BRUNO PAULO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PERALTA BRUNO PAULO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1021_VC01",
+    "subjectCode": "EDE1021",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VALENZUELA DIEGO"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "VALENZUELA DIEGO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1021_VC02",
+    "subjectCode": "EDE1021",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "VALENZUELA DIEGO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "VALENZUELA DIEGO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1021_VC03",
+    "subjectCode": "EDE1021",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA RICARDO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA RICARDO"
+      }
+    ]
+  },
+  {
+    "code": "EDE1022_VC01",
+    "subjectCode": "EDE1022",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BANZ CECILIA VERONICA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BANZ CECILIA VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1022_VC02",
+    "subjectCode": "EDE1022",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "BANZ CECILIA VERONICA"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "BANZ CECILIA VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1022_VC03",
+    "subjectCode": "EDE1022",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "TAPIA NATALIA KARINA"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "TAPIA NATALIA KARINA"
+      }
+    ]
+  },
+  {
+    "code": "EDE1028_VC01",
+    "subjectCode": "EDE1028",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "PERALTA BRUNO PAULO"
+      },
+      {
+        "day": "LU",
         "block": "A",
         "description": "PRACTICA MADRE",
         "isMandatory": true,
@@ -1883,14 +1589,112 @@
     ]
   },
   {
-    "code": "EDE1032_VC03",
-    "subjectCode": "EDE1032",
+    "code": "EDE1028_VC02",
+    "subjectCode": "EDE1028",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PAEZ ALICIA MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRACTICA MADRE",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "EDE1028_VC03",
+    "subjectCode": "EDE1028",
     "section": "Sección 3",
     "timeBlocks": [
       {
         "day": "VI",
         "block": "A",
-        "description": "CATEDRA 03",
+        "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "LOBOS CARLA"
       },
@@ -1981,14 +1785,14 @@
     ]
   },
   {
-    "code": "EDE1032_VC04",
-    "subjectCode": "EDE1032",
+    "code": "EDE1028_VC04",
+    "subjectCode": "EDE1028",
     "section": "Sección 4",
     "timeBlocks": [
       {
         "day": "VI",
         "block": "A",
-        "description": "CATEDRA 04",
+        "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": "VALENZUELA DIEGO"
       },
@@ -2079,457 +1883,429 @@
     ]
   },
   {
-    "code": "EDE1032_VC05",
-    "subjectCode": "EDE1032",
-    "section": "Sección 5",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "B",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "PRACTICA MADRE",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CATEDRA 05",
-        "isMandatory": true,
-        "teacher": "PERALTA BRUNO PAULO"
-      }
-    ]
-  },
-  {
-    "code": "EDE1033_VC01",
-    "subjectCode": "EDE1033",
+    "code": "EDE1029_VC01",
+    "subjectCode": "EDE1029",
     "section": "Sección 1",
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "F",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1033_VC02",
-    "subjectCode": "EDE1033",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "F",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PEÑA CLAUDIA PAZ"
-      },
-      {
-        "day": "LU",
-        "block": "G",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "PEÑA CLAUDIA PAZ"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC01",
-    "subjectCode": "EDE1034",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "D",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC02",
-    "subjectCode": "EDE1034",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "G",
-        "description": "CATEDRA 02",
-        "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC03",
-    "subjectCode": "EDE1034",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "F",
-        "description": "CATEDRA 03",
-        "isMandatory": true,
-        "teacher": "MONTES CARMEN CECILIA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC04",
-    "subjectCode": "EDE1034",
-    "section": "Sección 4",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "G",
-        "description": "CATEDRA 04",
-        "isMandatory": true,
-        "teacher": "MONTES CARMEN CECILIA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC05",
-    "subjectCode": "EDE1034",
-    "section": "Sección 5",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CATEDRA 05",
-        "isMandatory": true,
-        "teacher": "APPELGREN DANIELA SOLANGE"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC06",
-    "subjectCode": "EDE1034",
-    "section": "Sección 6",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 06",
-        "isMandatory": true,
-        "teacher": "APPELGREN DANIELA SOLANGE"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC07",
-    "subjectCode": "EDE1034",
-    "section": "Sección 7",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "F",
-        "description": "CATEDRA 07",
-        "isMandatory": true,
-        "teacher": "EGUREN JOAQUÍN ANTONIO"
-      }
-    ]
-  },
-  {
-    "code": "EDE1034_VC08",
-    "subjectCode": "EDE1034",
-    "section": "Sección 8",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CATEDRA 08",
-        "isMandatory": true,
-        "teacher": "EGUREN JOAQUÍN ANTONIO"
-      }
-    ]
-  },
-  {
-    "code": "EDE1037_VC01",
-    "subjectCode": "EDE1037",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BANZ CECILIA VERONICA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BANZ CECILIA VERONICA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1037_FG01",
-    "subjectCode": "EDE1037",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BANZ CECILIA VERONICA"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CATEDRA 01",
-        "isMandatory": true,
-        "teacher": "BANZ CECILIA VERONICA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1037_VC02",
-    "subjectCode": "EDE1037",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "JU",
         "block": "E",
-        "description": "CATEDRA 02",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BANZ CECILIA VERONICA"
+        "teacher": "SILVA MARIA GABRIELA"
       },
       {
-        "day": "JU",
+        "day": "LU",
         "block": "F",
-        "description": "CATEDRA 02",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BANZ CECILIA VERONICA"
-      }
-    ]
-  },
-  {
-    "code": "EDE1037_VC03",
-    "subjectCode": "EDE1037",
-    "section": "Sección 3",
-    "timeBlocks": [
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BAMBACH MARIA EUGENIA"
+      },
       {
         "day": "VI",
         "block": "F",
-        "description": "CATEDRA 03",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "VERGARA PAULA ELIANA"
       },
       {
         "day": "VI",
         "block": "G",
-        "description": "CATEDRA 03",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": ""
+        "teacher": "VERGARA PAULA ELIANA"
       }
     ]
   },
   {
-    "code": "EDU4000_VC01",
-    "subjectCode": "EDU4000",
-    "section": "Sección 1",
+    "code": "EDE1029_VC02",
+    "subjectCode": "EDE1029",
+    "section": "Sección 2",
     "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "HAVERLAND RONDA LEE"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "HAVERLAND RONDA LEE"
+      },
       {
         "day": "VI",
         "block": "B",
-        "description": "CÁTEDRA 01 PARVULOS",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SALAZAR PATRICIA ALEJANDRA"
+        "teacher": "HAVERLAND RONDA LEE"
       },
       {
         "day": "VI",
         "block": "C",
-        "description": "CÁTEDRA 01 PARVULOS",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "SALAZAR PATRICIA ALEJANDRA"
+        "teacher": "HAVERLAND RONDA LEE"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ARIAS RODRIGO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "SILVA MARIA GABRIELA"
       }
     ]
   },
   {
-    "code": "EDU4000_FG01",
-    "subjectCode": "EDU4000",
+    "code": "EDE1030_VC01",
+    "subjectCode": "EDE1030",
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01 PARVULOS",
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "SALAZAR PATRICIA ALEJANDRA"
+        "teacher": "TORRELLAS LUSVIC"
       },
       {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01 PARVULOS",
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "SALAZAR PATRICIA ALEJANDRA"
+        "teacher": "TORRELLAS LUSVIC"
       }
     ]
   },
   {
-    "code": "EDU4000_CA02",
-    "subjectCode": "EDU4000",
+    "code": "EDE1003_FG01",
+    "subjectCode": "EDE1030",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TORRELLAS LUSVIC"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TORRELLAS LUSVIC"
+      }
+    ]
+  },
+  {
+    "code": "EDE1030_VC02",
+    "subjectCode": "EDE1030",
     "section": "Sección 2",
     "timeBlocks": [
       {
         "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA PEGB 02",
+        "block": "F",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "AESCHLIMANN MACARENA ALEJANDRA"
+        "teacher": "TORRELLAS LUSVIC"
       },
       {
         "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA PEGB 02",
+        "block": "G",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "AESCHLIMANN MACARENA ALEJANDRA"
+        "teacher": "TORRELLAS LUSVIC"
       }
     ]
   },
   {
-    "code": "EDU4000_VC06",
-    "subjectCode": "EDU4000",
-    "section": "Sección 6",
+    "code": "EDE1030_CFG2",
+    "subjectCode": "EDE1030",
+    "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 06 PARVULOS",
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "FIGUEROA IGNACIO AGUSTIN"
+        "teacher": "TORRELLAS LUSVIC"
       },
       {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 06 PARVULOS",
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "FIGUEROA IGNACIO AGUSTIN"
+        "teacher": "TORRELLAS LUSVIC"
       }
     ]
   },
   {
-    "code": "EDU4000_FG06",
-    "subjectCode": "EDU4000",
-    "section": "Sección 6",
+    "code": "EDE1031_VC01",
+    "subjectCode": "EDE1031",
+    "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "MA",
+        "day": "VI",
         "block": "B",
-        "description": "CÁTEDRA 06 PARVULOS",
+        "description": "B-LEARNING HORARIO BLOQUEADO 01",
         "isMandatory": true,
-        "teacher": "FIGUEROA IGNACIO AGUSTIN"
+        "teacher": "APPELGREN DANIELA SOLANGE"
       },
       {
-        "day": "MA",
+        "day": "VI",
         "block": "C",
-        "description": "CÁTEDRA 06 PARVULOS",
+        "description": "B-LEARNING HORARIO BLOQUEADO 01",
         "isMandatory": true,
-        "teacher": "FIGUEROA IGNACIO AGUSTIN"
+        "teacher": "APPELGREN DANIELA SOLANGE"
       }
     ]
   },
   {
-    "code": "EDU4001_CA01",
+    "code": "EDE1031_VC02",
+    "subjectCode": "EDE1031",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "B-LEARNING HORARIO BLOQUEADO 02",
+        "isMandatory": true,
+        "teacher": "APPELGREN DANIELA SOLANGE"
+      },
+      {
+        "day": "VI",
+        "block": "G",
+        "description": "B-LEARNING HORARIO BLOQUEADO 02",
+        "isMandatory": true,
+        "teacher": "APPELGREN DANIELA SOLANGE"
+      }
+    ]
+  },
+  {
+    "code": "EDU4001_VC01",
     "subjectCode": "EDU4001",
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "MI",
+        "day": "JU",
         "block": "E",
-        "description": "CÁTEDRA PEGB 01",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ROCHA VICTOR MARIO"
+        "teacher": "GALDAMES XIMENA PIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      }
+    ]
+  },
+  {
+    "code": "EDU4001_FG01",
+    "subjectCode": "EDU4001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      }
+    ]
+  },
+  {
+    "code": "EDU4001_VB01",
+    "subjectCode": "EDU4001",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      }
+    ]
+  },
+  {
+    "code": "EDU4001_VC02",
+    "subjectCode": "EDU4001",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      }
+    ]
+  },
+  {
+    "code": "EDU4001_FG02",
+    "subjectCode": "EDU4001",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      }
+    ]
+  },
+  {
+    "code": "EDU4001_VB02",
+    "subjectCode": "EDU4001",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "GALDAMES XIMENA PIA"
+      }
+    ]
+  },
+  {
+    "code": "EDD9101_VC01",
+    "subjectCode": "EDD9101",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "RAGLIANTI NINO VITTORIO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "RAGLIANTI NINO VITTORIO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "JARA IGNACIO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "JARA IGNACIO"
       }
     ]
   },
@@ -2540,6 +2316,13 @@
     "timeBlocks": [
       {
         "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OTAEGUI MARIA ALICIA"
+      },
+      {
+        "day": "VI",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
@@ -2547,7 +2330,49 @@
       },
       {
         "day": "VI",
-        "block": "F",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DIAZ DANIELA FERNANDA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DIAZ DANIELA FERNANDA"
+      }
+    ]
+  },
+  {
+    "code": "EDU9205_FG01",
+    "subjectCode": "EDU9205",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DIAZ DANIELA FERNANDA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DIAZ DANIELA FERNANDA"
+      },
+      {
+        "day": "VI",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OTAEGUI MARIA ALICIA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "OTAEGUI MARIA ALICIA"
@@ -2555,29 +2380,8 @@
     ]
   },
   {
-    "code": "EDE1039_VC01",
-    "subjectCode": "EDE1039",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "LOUZANO PAULA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "LOUZANO PAULA"
-      }
-    ]
-  },
-  {
-    "code": "EDE02111_VC1",
-    "subjectCode": "EDE02111",
+    "code": "EDE02121_VC1",
+    "subjectCode": "EDE02121",
     "section": "Sección 1",
     "timeBlocks": [
       {
@@ -2585,41 +2389,27 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
+        "teacher": "LEUTE CHRISTOPHER JAMES"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
+        "teacher": "LEUTE CHRISTOPHER JAMES"
       },
       {
-        "day": "VI",
+        "day": "LU",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
+        "teacher": "CORREA MARIA TERESA"
       },
       {
-        "day": "VI",
+        "day": "LU",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
         "teacher": "CORREA MARIA TERESA"
       },
       {
@@ -2627,74 +2417,74 @@
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       },
       {
         "day": "MA",
         "block": "A",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
       },
       {
         "day": "MA",
         "block": "B",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
       }
     ]
   },
   {
-    "code": "EDE02111_VC2",
-    "subjectCode": "EDE02111",
+    "code": "EDE02121_VC2",
+    "subjectCode": "EDE02121",
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "MA",
+        "day": "VI",
         "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
+        "teacher": ""
       },
       {
-        "day": "MA",
+        "day": "VI",
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
+        "teacher": ""
       },
       {
         "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "ARIAS RODRIGO ANDRES"
-      },
-      {
-        "day": "MI",
-        "block": "A",
+        "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       },
       {
-        "day": "MI",
-        "block": "B",
+        "day": "JU",
+        "block": "D",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
@@ -2704,49 +2494,63 @@
         "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
       },
       {
         "day": "LU",
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "LEUTE CHRISTOPHER JAMES"
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
       },
       {
-        "day": "VI",
+        "day": "MI",
         "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
       },
       {
-        "day": "VI",
+        "day": "MI",
         "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "CORREA MARIA TERESA"
+        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "LEUTE CHRISTOPHER JAMES"
       }
     ]
   },
   {
-    "code": "EDE02111_VC3",
-    "subjectCode": "EDE02111",
+    "code": "EDE02121_VC3",
+    "subjectCode": "EDE02121",
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "LU",
+        "day": "MA",
         "block": "A",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
+        "teacher": ""
       },
       {
-        "day": "LU",
+        "day": "MA",
         "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
+        "teacher": ""
       },
       {
         "day": "MI",
@@ -2763,109 +2567,67 @@
         "teacher": "LEUTE CHRISTOPHER JAMES"
       },
       {
-        "day": "MA",
-        "block": "A",
+        "day": "LU",
+        "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       },
       {
-        "day": "MA",
-        "block": "B",
+        "day": "LU",
+        "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       },
       {
         "day": "JU",
         "block": "A",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+        "teacher": "SEPULVEDA RICARDO"
       },
       {
         "day": "JU",
         "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "JARAMILLO CLAUDIO RAFAEL"
+        "teacher": "SEPULVEDA RICARDO"
       },
       {
         "day": "VI",
         "block": "A",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
+        "teacher": "SEPULVEDA RICARDO"
       },
       {
         "day": "VI",
         "block": "B",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
+        "teacher": "SEPULVEDA RICARDO"
       }
     ]
   },
   {
-    "code": "EDE02111_VC4",
-    "subjectCode": "EDE02111",
+    "code": "EDE02121_VC4",
+    "subjectCode": "EDE02121",
     "section": "Sección 4",
     "timeBlocks": [
       {
         "day": "LU",
-        "block": "A",
+        "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": ""
       },
       {
         "day": "LU",
-        "block": "B",
+        "block": "D",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "GÓMEZ XIMENA CLAUDIA"
-      },
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
-      },
-      {
-        "day": "MA",
-        "block": "B",
-        "description": "CÁTEDRA 04",
-        "isMandatory": true,
-        "teacher": "BUSTAMANTE SERGIO RAUL"
       },
       {
         "day": "VI",
@@ -2880,12 +2642,54 @@
         "description": "CÁTEDRA 04",
         "isMandatory": true,
         "teacher": "LEUTE CHRISTOPHER JAMES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA RICARDO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA RICARDO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA RICARDO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "SEPULVEDA RICARDO"
       }
     ]
   },
   {
-    "code": "EDE02112_VC1",
-    "subjectCode": "EDE02112",
+    "code": "EDE02122_VC1",
+    "subjectCode": "EDE02122",
     "section": "Sección 1",
     "timeBlocks": [
       {
@@ -2893,53 +2697,32 @@
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ASPEE CARLOS ALBERTO"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ASPEE CARLOS ALBERTO"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       }
     ]
   },
   {
-    "code": "EDE02112_FG1",
-    "subjectCode": "EDE02112",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ASPEE CARLOS ALBERTO"
-      },
-      {
-        "day": "MI",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ASPEE CARLOS ALBERTO"
-      }
-    ]
-  },
-  {
-    "code": "EDE02112_VC2",
-    "subjectCode": "EDE02112",
+    "code": "EDE02122_VC2",
+    "subjectCode": "EDE02122",
     "section": "Sección 2",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "C",
+        "day": "JU",
+        "block": "A",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "SILVA DANIELA ALEJANDRA"
       },
       {
-        "day": "LU",
-        "block": "D",
+        "day": "JU",
+        "block": "B",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "SILVA DANIELA ALEJANDRA"
@@ -2947,40 +2730,19 @@
     ]
   },
   {
-    "code": "EDE02112_FG2",
-    "subjectCode": "EDE02112",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA DANIELA ALEJANDRA"
-      }
-    ]
-  },
-  {
-    "code": "EDE02112_VC3",
-    "subjectCode": "EDE02112",
+    "code": "EDE02122_VC3",
+    "subjectCode": "EDE02122",
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "MA",
+        "day": "JU",
         "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
         "teacher": "SILVA DANIELA ALEJANDRA"
       },
       {
-        "day": "MA",
+        "day": "JU",
         "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
@@ -2989,260 +2751,92 @@
     ]
   },
   {
-    "code": "EDE02112_VC4",
-    "subjectCode": "EDE02112",
+    "code": "EDE02122_VC4",
+    "subjectCode": "EDE02122",
     "section": "Sección 4",
     "timeBlocks": [
       {
-        "day": "JU",
+        "day": "VI",
         "block": "C",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       },
       {
-        "day": "JU",
+        "day": "VI",
         "block": "D",
         "description": "CÁTEDRA 04",
         "isMandatory": true,
-        "teacher": "PANES CAMILA ANDREA"
+        "teacher": "SAAVEDRA PAOLA DE LOS ANGELES"
       }
     ]
   },
   {
-    "code": "EDE02113_VC1",
-    "subjectCode": "EDE02113",
+    "code": "EDE02123_VC1",
+    "subjectCode": "EDE02123",
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "LU",
+        "day": "MA",
         "block": "C",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CASTRO LUIS FELIPE"
+        "teacher": "BANZ CECILIA VERONICA"
       },
       {
-        "day": "LU",
+        "day": "MA",
         "block": "D",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "CASTRO LUIS FELIPE"
+        "teacher": "BANZ CECILIA VERONICA"
       }
     ]
   },
   {
-    "code": "EDE02113_VC2",
-    "subjectCode": "EDE02113",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CASTRO LUIS FELIPE"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CASTRO LUIS FELIPE"
-      }
-    ]
-  },
-  {
-    "code": "EDE02113_FG2",
-    "subjectCode": "EDE02113",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CASTRO LUIS FELIPE"
-      },
-      {
-        "day": "MA",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "CASTRO LUIS FELIPE"
-      }
-    ]
-  },
-  {
-    "code": "EDE02113_VC3",
-    "subjectCode": "EDE02113",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "SALAS CAMILA TATIANA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 03",
-        "isMandatory": true,
-        "teacher": "SALAS CAMILA TATIANA"
-      }
-    ]
-  },
-  {
-    "code": "EDE02114_VC1",
-    "subjectCode": "EDE02114",
+    "code": "EDE02123_FG1",
+    "subjectCode": "EDE02123",
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA CAMILA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA CAMILA ANDREA"
-      }
-    ]
-  },
-  {
-    "code": "EDE02114_FG1",
-    "subjectCode": "EDE02114",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA CAMILA ANDREA"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "JARA CAMILA ANDREA"
-      }
-    ]
-  },
-  {
-    "code": "EDE02114_VC2",
-    "subjectCode": "EDE02114",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA CAROLINA ANDREA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA CAROLINA ANDREA"
-      }
-    ]
-  },
-  {
-    "code": "EDE02114_FG2",
-    "subjectCode": "EDE02114",
-    "section": "Sección 2",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA CAROLINA ANDREA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 02",
-        "isMandatory": true,
-        "teacher": "SILVA CAROLINA ANDREA"
-      }
-    ]
-  },
-  {
-    "code": "EDE02114_VC3",
-    "subjectCode": "EDE02114",
-    "section": "Sección 3",
-    "timeBlocks": [
-      {
         "day": "MA",
         "block": "C",
-        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BANZ CECILIA VERONICA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "BANZ CECILIA VERONICA"
+      }
+    ]
+  },
+  {
+    "code": "EDE02123_VC2",
+    "subjectCode": "EDE02123",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "PEAKE CHRISTIAN JAMES"
       },
       {
-        "day": "VI",
-        "block": "C",
-        "description": "B-LEARNING HORARIO BLOQUEADO",
+        "day": "MI",
+        "block": "D",
+        "description": "CÁTEDRA 02",
         "isMandatory": true,
         "teacher": "PEAKE CHRISTIAN JAMES"
       }
     ]
   },
   {
-    "code": "EDE02115_VC1",
-    "subjectCode": "EDE02115",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ALARCON MARIO ENRIQUE"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ALARCON MARIO ENRIQUE"
-      }
-    ]
-  },
-  {
-    "code": "EDE02115_FG1",
-    "subjectCode": "EDE02115",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ALARCON MARIO ENRIQUE"
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ALARCON MARIO ENRIQUE"
-      }
-    ]
-  },
-  {
-    "code": "EDE02115_VC2",
-    "subjectCode": "EDE02115",
+    "code": "EDE02123_FG2",
+    "subjectCode": "EDE02123",
     "section": "Sección 2",
     "timeBlocks": [
       {
@@ -3250,35 +2844,56 @@
         "block": "C",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "URIBE MARIO CARLOS"
+        "teacher": "PEAKE CHRISTIAN JAMES"
       },
       {
         "day": "MI",
         "block": "D",
         "description": "CÁTEDRA 02",
         "isMandatory": true,
-        "teacher": "URIBE MARIO CARLOS"
+        "teacher": "PEAKE CHRISTIAN JAMES"
       }
     ]
   },
   {
-    "code": "EDE02115_VC3",
-    "subjectCode": "EDE02115",
+    "code": "EDE02123_VC3",
+    "subjectCode": "EDE02123",
     "section": "Sección 3",
     "timeBlocks": [
       {
-        "day": "MI",
+        "day": "MA",
         "block": "C",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ALARCON MARIO ENRIQUE"
+        "teacher": "WEINSTEIN ELISA"
       },
       {
-        "day": "MI",
+        "day": "MA",
         "block": "D",
         "description": "CÁTEDRA 03",
         "isMandatory": true,
-        "teacher": "ALARCON MARIO ENRIQUE"
+        "teacher": "WEINSTEIN ELISA"
+      }
+    ]
+  },
+  {
+    "code": "EDE02123_FG3",
+    "subjectCode": "EDE02123",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "WEINSTEIN ELISA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "WEINSTEIN ELISA"
       }
     ]
   }

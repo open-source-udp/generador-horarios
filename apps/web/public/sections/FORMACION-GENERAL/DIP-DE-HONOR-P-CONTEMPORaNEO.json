@@ -1,0 +1,23 @@
+[
+  {
+    "code": "DHO5080_VC01",
+    "subjectCode": "DHO5080",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "H",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORMEÑO JUAN ANTONIO"
+      },
+      {
+        "day": "LU",
+        "block": "I",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ORMEÑO JUAN ANTONIO"
+      }
+    ]
+  }
+]

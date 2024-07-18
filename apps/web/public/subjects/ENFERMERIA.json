@@ -1,7 +1,7 @@
 [
   {
-    "code": "ENF2036",
-    "name": "SEMINARIO PROFESIONAL I",
+    "code": "ENF2038",
+    "name": "SEMINARIO PROFESIONAL II",
     "credits": 7,
     "references": [
       ""
@@ -54,139 +54,139 @@
     ]
   },
   {
-    "code": "FSO9100",
-    "name": "PRÁCTICA ELECTIVA",
+    "code": "ENF3005",
+    "name": "BIOQUÍMICA",
     "credits": 5,
     "references": [
-      ""
+      "ENF2006"
     ]
   },
   {
-    "code": "ENF3000",
-    "name": "QUÍMICA",
-    "credits": 5,
-    "references": [
-      "ENF2000"
-    ]
-  },
-  {
-    "code": "ENF3001",
-    "name": "BIOLOGÍA",
-    "credits": 5,
-    "references": [
-      "ENF2001"
-    ]
-  },
-  {
-    "code": "ENF3002",
-    "name": "BASES TEÓRICAS DE LA ENFERMERÍA I",
-    "credits": 5,
-    "references": [
-      "ENF2002"
-    ]
-  },
-  {
-    "code": "ENF3003",
-    "name": "PRIMEROS AUXILIOS",
-    "credits": 3,
-    "references": [
-      "ENF2003"
-    ]
-  },
-  {
-    "code": "ENF3004",
-    "name": "PSICOLOGÍA EVOLUTIVA",
-    "credits": 5,
-    "references": [
-      "ENF2004"
-    ]
-  },
-  {
-    "code": "ENF3009",
-    "name": "MICROBIOLOGÍA INTEGRADA",
-    "credits": 6,
-    "references": [
-      "ENF2011"
-    ]
-  },
-  {
-    "code": "ENF3010",
-    "name": "MORFOFUNCIÓN II",
+    "code": "ENF3006",
+    "name": "MORFOFUNCIÓN I",
     "credits": 8,
     "references": [
-      "ENF2012"
+      "ENF2007"
     ]
   },
   {
-    "code": "ENF3011",
-    "name": "CUIDADOS DE ENFERMERÍA I",
-    "credits": 9,
+    "code": "ENF3007",
+    "name": "BASES TEÓRICAS DE LA ENFERMERÍA II",
+    "credits": 5,
     "references": [
-      "ENF2013"
+      "ENF2008"
     ]
   },
   {
-    "code": "ENF3012",
-    "name": "COMP. GEN. PARA EL DESARROLLO PROFESIONA",
+    "code": "ENF3008",
+    "name": "COMUNICACIÓN Y EDUCACIÓN EN SALUD",
     "credits": 3,
+    "references": [
+      "ENF2009"
+    ]
+  },
+  {
+    "code": "ENF3013",
+    "name": "FARMACOLOGÍA EN ENFERMERÍA",
+    "credits": 6,
+    "references": [
+      "ENF2015"
+    ]
+  },
+  {
+    "code": "ENF3014",
+    "name": "FISIOPATOLOGÍA EN ENFERMERÍA",
+    "credits": 6,
+    "references": [
+      "ENF2016"
+    ]
+  },
+  {
+    "code": "ENF3015",
+    "name": "CUIDADOS DE ENFERMERÍA II",
+    "credits": 11,
+    "references": [
+      "ENF2017"
+    ]
+  },
+  {
+    "code": "ENF3016",
+    "name": "ENFERMERÍA EN SALUD MENTAL",
+    "credits": 5,
+    "references": [
+      "ENF2022"
+    ]
+  },
+  {
+    "code": "ENF3017",
+    "name": "BIOESTADÍSTICA",
+    "credits": 3,
+    "references": [
+      "ENF2014"
+    ]
+  },
+  {
+    "code": "ENF3022",
+    "name": "GESTIÓN DEL CUIDADO EN LA COMUNIDAD I",
+    "credits": 12,
+    "references": [
+      "ENF2020"
+    ]
+  },
+  {
+    "code": "ENF3023",
+    "name": "ENF. DEL ADULTO MAYOR Y PSICOGERIATRÍA",
+    "credits": 6,
+    "references": [
+      "ENF2029"
+    ]
+  },
+  {
+    "code": "ENF3024",
+    "name": "ENFERMERÍA BASADA EN EVIDENCIA",
+    "credits": 3,
+    "references": [
+      "ENF2033"
+    ]
+  },
+  {
+    "code": "ENF3025",
+    "name": "GESTIÓN Y LIDERAZGO EN ENFERMERÍA",
+    "credits": 4,
+    "references": [
+      "ENF2030"
+    ]
+  },
+  {
+    "code": "ENF3029",
+    "name": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "credits": 12,
+    "references": [
+      "ENF2028"
+    ]
+  },
+  {
+    "code": "ENF3030",
+    "name": "CUID. ENFER. PERSONAS UNIDADES CRÍTICAS",
+    "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "ENF3018",
-    "name": "GES. DEL CUIDADO EN LA PERSONA ADULTA",
-    "credits": 12,
-    "references": [
-      "ENF2019"
-    ]
-  },
-  {
-    "code": "ENF3019",
-    "name": "ENFERMERÍA EN PSIQUIATRÍA",
+    "code": "ENF3031",
+    "name": "METODOLOGÍAS DE LA INVESTIGACIÓN II",
     "credits": 6,
     "references": [
-      "ENF2025"
+      "ENF2027"
     ]
   },
   {
-    "code": "ENF3020",
-    "name": "BIOÉTICA Y LEGISLACIÓN EN ENFERMERÍA",
-    "credits": 5,
-    "references": [
-      "ENF2023"
-    ]
-  },
-  {
-    "code": "ENF3021",
-    "name": "SALUD PÚBLICA",
+    "code": "ENF3032",
+    "name": "ENFERMERÍA Y MEDICINA INTEGRATIVA",
     "credits": 3,
     "references": [
-      "ENF2021"
-    ]
-  },
-  {
-    "code": "ENF3026",
-    "name": "GESTIÓN DEL CUIDADO EN LA COMUNIDAD II",
-    "credits": 12,
-    "references": [
-      "ENF2024"
-    ]
-  },
-  {
-    "code": "ENF3027",
-    "name": "CALIDAD SEGURIDAD Y GESTIÓN",
-    "credits": 6,
-    "references": [
-      "ENF2026"
-    ]
-  },
-  {
-    "code": "ENF3028",
-    "name": "METODOLOGÍA DE LA INVESTIGACIÓN I",
-    "credits": 5,
-    "references": [
-      "ENF2031"
+      "ENF2034"
     ]
   },
   {
@@ -210,7 +210,7 @@
     "name": "INTER. UNIDADES CRÍTICAS Y DE URGENCIAS",
     "credits": 10,
     "references": [
-      "ENF2032"
+      ""
     ]
   },
   {

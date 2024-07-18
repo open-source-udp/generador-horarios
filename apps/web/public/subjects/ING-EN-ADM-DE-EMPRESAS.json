@@ -32,11 +32,11 @@
     ]
   },
   {
-    "code": "EVE0201",
-    "name": "ADMINISTRACIÓN I",
+    "code": "EVE0202",
+    "name": "ADMINISTRACIÓN II",
     "credits": 5,
     "references": [
-      "IAE4101"
+      "IAE4201"
     ]
   },
   {
@@ -65,14 +65,6 @@
     ]
   },
   {
-    "code": "IAE5315",
-    "name": "COMPORTAMIENTO ORGANIZACIONAL",
-    "credits": 5,
-    "references": [
-      "IAE4515"
-    ]
-  },
-  {
     "code": "IAE5313",
     "name": "MICROECONOMÍA",
     "credits": 5,
@@ -81,19 +73,28 @@
     ]
   },
   {
-    "code": "IAE5309",
-    "name": "CONTABILIDAD GERENCIAL",
-    "credits": 5,
-    "references": [
-      "IAE4309"
-    ]
-  },
-  {
     "code": "IAE5413",
     "name": "MACROECONOMÍA",
     "credits": 5,
     "references": [
       "IAE4413"
+    ]
+  },
+  {
+    "code": "IAE5407",
+    "name": "ESTADÍSTICA II",
+    "credits": 5,
+    "references": [
+      "IAE4407"
+    ]
+  },
+  {
+    "code": "IAE5405",
+    "name": "GESTIÓN COMERCIAL",
+    "credits": 5,
+    "references": [
+      "IAE4405",
+      "IAE06213"
     ]
   },
   {
@@ -109,20 +110,13 @@
     "name": "DIRECCIÓN DE PERSONAS",
     "credits": 5,
     "references": [
-      "IAE4315"
+      "IAE4315",
+      "IAE06221"
     ]
   },
   {
     "code": "IAE5503",
     "name": "FINANZAS OPERACIONALES Y CORPORATIVAS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "IAE5505",
-    "name": "MARKETING DIGITAL",
     "credits": 5,
     "references": [
       ""
@@ -153,11 +147,51 @@
     ]
   },
   {
+    "code": "IAE5605",
+    "name": "INVESTIGACIÓN DE MERCADOS",
+    "credits": 5,
+    "references": [
+      "IAE4605"
+    ]
+  },
+  {
+    "code": "IAE5615",
+    "name": "MEDICIONES EN GESTIÓN DE RRHH",
+    "credits": 5,
+    "references": [
+      "IAE4715"
+    ]
+  },
+  {
     "code": "IAE5606",
     "name": "GERENCIA DE VENTAS",
     "credits": 5,
     "references": [
       "IAE4606"
+    ]
+  },
+  {
+    "code": "IAE5616",
+    "name": "ESTRATÉGIAS COMUNICACIONALES",
+    "credits": 5,
+    "references": [
+      "IAE4705"
+    ]
+  },
+  {
+    "code": "IAE5613",
+    "name": "FUNDAMENTOS DE ECONOMETRÍA",
+    "credits": 5,
+    "references": [
+      "IAE4613"
+    ]
+  },
+  {
+    "code": "IAE5603",
+    "name": "FINANZAS INTERNACIONALES",
+    "credits": 5,
+    "references": [
+      "IAE4703"
     ]
   },
   {
@@ -185,14 +219,6 @@
     ]
   },
   {
-    "code": "IAE5703",
-    "name": "MERCADO DE CAPITALES",
-    "credits": 5,
-    "references": [
-      "IAE4803"
-    ]
-  },
-  {
     "code": "IAE5704",
     "name": "ESTRATÉGIAS FINANCIERAS",
     "credits": 5,
@@ -209,16 +235,48 @@
     ]
   },
   {
-    "code": "IIG4001",
-    "name": "GESTIÓN DE SERVICIOS TI BASADOS EN ITIL",
+    "code": "INL4090",
+    "name": "HERRAMIENTAS APLICADAS PROC LOGÍSTICOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "INL4080",
-    "name": "NORMATIVA DE SEG. EN LAS OP. LOGÍSTICAS",
+    "code": "CAV00004",
+    "name": "APLICACIÓN DE LAS IFRS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00003",
+    "name": "AUDITORÍA FORENSE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00001",
+    "name": "GESTIÓN TRIBUTARIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IIG4002",
+    "name": "NEGOCIOS EN INTERNET",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5801",
+    "name": "GESTIÓN DE DATOS PARA TOMA DE DECISIONES",
     "credits": 5,
     "references": [
       ""
@@ -233,24 +291,16 @@
     ]
   },
   {
-    "code": "EVE5804",
-    "name": "RESPONSABILIDAD SOCIAL CORPORATIVA",
+    "code": "EVE5803",
+    "name": "ÉTICA DE LOS NEGOCIOS Y LA GERENCIA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "EVE5806",
-    "name": "REESTRUCTURACION DE EMPRESAS",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CAV00006",
-    "name": "MARCOS ASG Y AUDITORIA SUSTENTABLE",
+    "code": "EVE5807",
+    "name": "GERENCIA DE RETAIL",
     "credits": 5,
     "references": [
       ""
@@ -261,31 +311,31 @@
     "name": "TECNOLOGÍAS DE INFORMACIÓN",
     "credits": 5,
     "references": [
-      ""
+      "EVE0601"
     ]
   },
   {
-    "code": "IAE06112",
-    "name": "ADMINISTRACIÓN DE EMPRESAS",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "IAE06113",
-    "name": "CONTABILIDAD FINANCIERA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "EVE08111",
-    "name": "ÁLGEBRA APLICADA",
+    "code": "IAE06121",
+    "name": "MICROECONOMÍA",
     "credits": 5,
     "references": [
-      "EVE0102"
+      ""
+    ]
+  },
+  {
+    "code": "IAE06122",
+    "name": "CONTABILIDAD GERENCIAL",
+    "credits": 5,
+    "references": [
+      "IAE5309"
+    ]
+  },
+  {
+    "code": "IAE06123",
+    "name": "CÁLCULO",
+    "credits": 5,
+    "references": [
+      "IAE5207"
     ]
   }
 ]

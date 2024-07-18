@@ -224,25 +224,25 @@
     ]
   },
   {
-    "code": "COC4014",
-    "name": "EXAMEN DE TITULO",
-    "credits": 30,
+    "code": "COC3410",
+    "name": "EP. TECNOLOGÍA DEL ASFALTO",
+    "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "COC4015",
-    "name": "MEMORIA DE TITULACIÓN",
-    "credits": 30,
+    "code": "COC3413",
+    "name": "EP. TRANSPORTE DE SEDIMENTOS",
+    "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "COC4016",
-    "name": "TALLER PROFESIONAL",
-    "credits": 30,
+    "code": "COC3518",
+    "name": "EP. SISTEMAS DE CONTENCIÓN DE TALUDES",
+    "credits": 6,
     "references": [
       ""
     ]
@@ -251,22 +251,6 @@
     "code": "FIC1000",
     "name": "COMUNICACIÓN PARA LA INGENIERÍA",
     "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PRACT1",
-    "name": "PRÁCTICA I OBRERA",
-    "credits": 0,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PRACT2",
-    "name": "PRÁCTICA II PROFESIONAL",
-    "credits": 0,
     "references": [
       ""
     ]
@@ -294,27 +278,11 @@
     ]
   },
   {
-    "code": "COC3619",
-    "name": "ELECTIVO PROFESIONAL; DISEÑO EN MADERA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CIG1014",
     "name": "INGLÉS GENERAL III",
     "credits": 5,
     "references": [
       "ICG3573"
-    ]
-  },
-  {
-    "code": "COC3625",
-    "name": "MANEJO DEL RIESGO Y APOYO DE LA TOMA DE",
-    "credits": 6,
-    "references": [
-      ""
     ]
   },
   {
@@ -414,62 +382,6 @@
     ]
   },
   {
-    "code": "COC3331",
-    "name": "PRÁCTICA I",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC3431",
-    "name": "PRÁCTICA II",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC4017",
-    "name": "EXAMEN VIA INVESTIGACIÓN",
-    "credits": 30,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC4018",
-    "name": "EXAMEN DE TITULO",
-    "credits": 30,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC4019",
-    "name": "MEMORIA DE TITULACIÓN",
-    "credits": 30,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC4020",
-    "name": "TALLER PROFESIONAL",
-    "credits": 30,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "COC3530",
-    "name": "EP EG; INGENIERÍA GEOTÉCNICA AVANZADA",
-    "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "COC3428",
     "name": "EP HM; MODELACIÓN HIDROLÓGICA",
     "credits": 6,
@@ -478,24 +390,24 @@
     ]
   },
   {
-    "code": "COC3532",
-    "name": "EP EG; TALLER  DE ESTRUCTURAS",
+    "code": "COC3630",
+    "name": "EP GC;INDUSTRIALIZACIÓN EN CONSTRUCCIÓN",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "COC3433",
-    "name": "EP HM; AGUAS RESIDUALES Y MEDIO AMBIENTE",
+    "code": "COC3531",
+    "name": "EP EG; MODELACIÓN NUMÉRICA DE ESTRUCTURA",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "COC3633",
-    "name": "EP GC; SISTEMAS INTEGRADOS DE GESTIÓN",
+    "code": "COC3435",
+    "name": "EP HM; COMPUTATIONAL FLUID DYNAMICS",
     "credits": 6,
     "references": [
       ""

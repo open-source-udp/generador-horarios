@@ -1,16 +1,24 @@
 [
   {
-    "code": "MED1012",
-    "name": "EL SER HUMANO NORMAL I",
-    "credits": 20,
+    "code": "EST1001",
+    "name": "BIOESTADÍSTICA",
+    "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "MED1013",
-    "name": "DIÁLOGOS INTEGRADOS: PATOLOGÍA GENERAL",
-    "credits": 10,
+    "code": "MED1009",
+    "name": "DIÁLOGOS SOBRE ESTRUCTURA Y FUNCIÓN III",
+    "credits": 22,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED1017",
+    "name": "DIÁLOGOS INTEGRADOS MÉDICO QUIRÚRGICOS I",
+    "credits": 25,
     "references": [
       ""
     ]
@@ -24,32 +32,40 @@
     ]
   },
   {
-    "code": "MED1037",
-    "name": "ADMINISTRACIÓN GENERAL Y SALUD",
+    "code": "MED1036",
+    "name": "DIÁLOGOS INTEGRADOS EN MEDICINA LEGAL",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "MED2003",
-    "name": "TALLER DE INVESTIGACIÓN II",
+    "code": "MED2001",
+    "name": "TALLER DE INVESTIGACIÓN I",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "MED2005",
-    "name": "TALLER DE INVESTIGACIÓN III",
+    "code": "MED2002",
+    "name": "SALUD PUBLICA",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "MED2006",
-    "name": "BIOÉTICA CLÍNICA I",
+    "code": "MED2004",
+    "name": "BIOÉTICA FUNDAMENTOS II",
+    "credits": 2,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MED2010",
+    "name": "BIOÉTICA CLÍNICA II",
     "credits": 2,
     "references": [
       ""
@@ -136,8 +152,8 @@
     ]
   },
   {
-    "code": "MED2029",
-    "name": "EPIDEMIOLOGÍA",
+    "code": "MED2030",
+    "name": "IMÁGENOLOGÍA",
     "credits": 3,
     "references": [
       ""
@@ -206,73 +222,25 @@
     ]
   },
   {
-    "code": "MED03111",
-    "name": "VIVENCIAS DE LA MEDICINA 1",
+    "code": "MED03121",
+    "name": "VIVENCIAS DE LA MEDICINA 2",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "MED03112",
-    "name": "BASES CIENTÍFICAS DE LA MEDICINA",
-    "credits": 9,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "MED03113",
-    "name": "MECANISMOS CELULARES EN SALUD Y ENFERMED",
-    "credits": 7,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "MED03114",
-    "name": "PENSAMIENTO CRÍTICO",
+    "code": "MED03122",
+    "name": "PSICOLOGÍA MÉDICA",
     "credits": 3,
     "references": [
       ""
     ]
   },
   {
-    "code": "MED03115",
-    "name": "TÉCNICAS AVANZADAS DE APRENDIZAJE",
-    "credits": 3,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "MED03211",
-    "name": "INTRODUCCIÓN A LA PRÁCTICA CLÍNICA",
-    "credits": 3,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "MED03212",
-    "name": "BASES ESTRUCTURALES Y FUNCIONALES 2",
+    "code": "MED03123",
+    "name": "BASES ESTRUCTURALES Y FUNCIONALES 1",
     "credits": 10,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "MED03213",
-    "name": "BIOESTADÍSTICA",
-    "credits": 3,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "MED03214",
-    "name": "BIOÉTICA",
-    "credits": 3,
     "references": [
       ""
     ]

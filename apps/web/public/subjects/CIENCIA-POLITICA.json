@@ -152,6 +152,14 @@
     ]
   },
   {
+    "code": "CFG2238",
+    "name": "CIUDADANÍA Y GÉNERO EN CHILE:SIGLOS XX Y",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
     "code": "CFG2244",
     "name": "CIUDADANÍA , POBREZA E INNOVACIÓN SOCIAL",
     "credits": 5,
@@ -208,64 +216,80 @@
     ]
   },
   {
-    "code": "CPO2020",
-    "name": "TEORÍA POLÍTICA MODERNA",
+    "code": "CPO2016",
+    "name": "TEORÍA POLÍTICA CLÁSICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CPO3001",
-    "name": "TEORÍAS, CONCEPTOS Y MÉTODO COMPARADO",
+    "code": "CPO2025",
+    "name": "TEORÍA POLÍTICA CONTEMPORÁNEA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CPO3002",
-    "name": "TEORÍAS Y CONCEPTOS DE RELACIONES INTERN",
-    "credits": 5,
-    "references": [
-      "DER9896"
-    ]
-  },
-  {
-    "code": "CPO3003",
-    "name": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
-    "credits": 5,
-    "references": [
-      "DER9897"
-    ]
-  },
-  {
-    "code": "CPO3008",
-    "name": "TALLER DE RECURSOS Y REDACCIÓN EN CIENCI",
+    "code": "CPO3005",
+    "name": "MÉTODOS CUALITATIVOS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CPO3011",
-    "name": "DESARROLLO POLÍTICO Y ECONÓMICO DE AMÉRI",
+    "code": "CPO3006",
+    "name": "SISTEMA POLÍTICO E INSTITUCIONES COMPARA",
     "credits": 5,
     "references": [
-      "DER9898"
+      ""
     ]
   },
   {
-    "code": "CPO3012",
-    "name": "RELACIONES INTERNACIONALES EN AMÉRICA LA",
+    "code": "CPO3007",
+    "name": "SISTEMA E INSTITUCIONES INTERNACIONALES",
     "credits": 5,
     "references": [
-      "DER9899"
+      ""
     ]
   },
   {
-    "code": "CPO3014",
-    "name": "MÉTODOS CUANTITATIVOS AVANZADOS",
+    "code": "CPO3010",
+    "name": "MÉTODOS CUANTITATIVOS INTRODUCTORIOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3016",
+    "name": "CHILE Y EL SISTEMA INTERNACIONAL",
+    "credits": 5,
+    "references": [
+      "DER9905"
+    ]
+  },
+  {
+    "code": "CPO3019",
+    "name": "TALLER DE ANÁLISIS EN POLÍTICA COMPARADA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3020",
+    "name": "TALLER DE ANÁLISIS EN RELACIONES INTERNA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CPO3021",
+    "name": "TALLER DE DEBATE TEÓRICO CONTEMPORÁNEO",
     "credits": 5,
     "references": [
       ""
@@ -280,9 +304,17 @@
     ]
   },
   {
-    "code": "CPO3600",
-    "name": "OPTATIVO DE DESARROLLO PROFESIONAL: TALL",
+    "code": "CPO3604",
+    "name": "OPTATIVO DE DESARROLLO PROFESIONAL",
     "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "DER5005",
+    "name": "DERECHO Y MORAL",
+    "credits": 6,
     "references": [
       ""
     ]
@@ -296,41 +328,49 @@
     ]
   },
   {
-    "code": "HIS4004",
-    "name": "PUEBLOS ORIGINARIOS",
+    "code": "DER9637",
+    "name": "GÉNERO Y DERECHO INTERNACIONAL DE LOS DE",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "HIS4009",
+    "name": "CHILE COLONIAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "HIS4015",
-    "name": "CHILE S. XIX",
+    "code": "HIS4011",
+    "name": "HISTORIA MEDIEVAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "HIS4040",
-    "name": "ESPACIO Y TERRITORIALIDAD",
+    "code": "HIS4018",
+    "name": "GEOGRAFÍA HUMANA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "LIT3002",
-    "name": "LATÍN I",
+    "code": "HIS4019",
+    "name": "HISTORIA COMPARADA DE LA MODERNIDAD",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "PSI4113",
-    "name": "PSICOLOGÍA GENERAL",
-    "credits": 6,
+    "code": "LIT1013",
+    "name": "LITERATURA HISPANOAMERICANA I",
+    "credits": 5,
     "references": [
       ""
     ]
@@ -363,22 +403,6 @@
     "code": "PSI4414",
     "name": "PSICOLOGÍA Y SUJETOS SOCIALES",
     "credits": 6,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "SOC9078",
-    "name": "SOCIOLOGIA URBANA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "SOC9080",
-    "name": "SOCIOLOGÍA POLÍTICA",
-    "credits": 5,
     "references": [
       ""
     ]
@@ -430,14 +454,6 @@
     ]
   },
   {
-    "code": "CPO3517",
-    "name": "ENCUESTAS DE OPINIÓN PÚBLICA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
     "code": "CFG2318",
     "name": "RELACIONES DE GÉNERO Y VIOLENCIA",
     "credits": 5,
@@ -446,19 +462,61 @@
     ]
   },
   {
-    "code": "CFG2321",
-    "name": "REP. MUJER EN LOS MEDIOS DE COM Y CULTUR",
+    "code": "ARQ4112",
+    "name": "HISTORIA DEL URBANISMO",
     "credits": 5,
     "references": [
-      ""
+      "ARQ3123",
+      "ARQ3151"
     ]
   },
   {
-    "code": "CFG2327",
-    "name": "EL INMIGRANTE SUEÑO Y CONFLICTOS",
+    "code": "ARQ4113",
+    "name": "ARQUITECTURA CLÁSICA",
     "credits": 5,
     "references": [
-      ""
+      "ARQ3117",
+      "ARQ3152"
+    ]
+  },
+  {
+    "code": "ARQ4114",
+    "name": "CIENCIAS PARA LA ARQUITECTURA",
+    "credits": 6,
+    "references": [
+      "ARQ3120"
+    ]
+  },
+  {
+    "code": "ARQ4232",
+    "name": "PAISAJE Y LUGAR",
+    "credits": 5,
+    "references": [
+      "ARQ3156"
+    ]
+  },
+  {
+    "code": "ARQ4233",
+    "name": "TEORÍA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3132"
+    ]
+  },
+  {
+    "code": "ARQ4234",
+    "name": "ARQUITECTURA MODERNA",
+    "credits": 5,
+    "references": [
+      "ARQ3128"
+    ]
+  },
+  {
+    "code": "ARQ4354",
+    "name": "ARQUITECTURA CONTEMPORÁNEA",
+    "credits": 5,
+    "references": [
+      "ARQ3136"
     ]
   },
   {
@@ -502,27 +560,37 @@
     ]
   },
   {
-    "code": "CPO4000",
-    "name": "INTRODUCCIÓN A MÉTODOS",
+    "code": "CPO4002",
+    "name": "POLÍTICAS SOCIALES",
     "credits": 5,
     "references": [
-      "CPO3000"
+      "CPO3028",
+      "DER9904"
     ]
   },
   {
-    "code": "CPO4001",
-    "name": "TEO. Y CONCEPTOS  DE POLÍTICAS PÚBLICAS",
+    "code": "CPO4004",
+    "name": "DISEÑO Y EVALUACIÓN DE PROYECTOS",
     "credits": 5,
     "references": [
-      "CPO3023"
+      ""
     ]
   },
   {
-    "code": "CPO4003",
-    "name": "GESTIÓN PÚBLICA Y PRESUPUESTARIA",
+    "code": "CPO4015",
+    "name": "PROCESO POLÍTICO Y LEGISLATIVO CHILENO",
     "credits": 5,
     "references": [
-      "CPO3013"
+      "CPO3015",
+      "DER9906"
+    ]
+  },
+  {
+    "code": "CPO4005",
+    "name": "TALLER DE POLÍTICAS PÚBLICAS",
+    "credits": 5,
+    "references": [
+      "CPO3027"
     ]
   },
   {
@@ -534,32 +602,56 @@
     ]
   },
   {
-    "code": "CPO4007",
-    "name": "DISEÑO DE INVESTIGACIÓN",
-    "credits": 10,
-    "references": [
-      "CPO3024"
-    ]
-  },
-  {
-    "code": "CPO4008",
-    "name": "ECONOMÍA POLÍTICA",
+    "code": "CPO4006",
+    "name": "INTRODUCCIÓN A LA ECONOMÍA",
     "credits": 5,
     "references": [
-      "CPO3022"
+      "CPO3018"
     ]
   },
   {
-    "code": "SOC8112",
-    "name": "INTRODUCCIÓN A LAS SOCIEDADES MODERNAS",
+    "code": "SOC8222",
+    "name": "ESTRATIFICACIÓN Y DESIGUALDAD",
     "credits": 5,
     "references": [
-      "SOC7112"
+      ""
     ]
   },
   {
-    "code": "SOC8115",
-    "name": "PROBLEMAS SOCIALES",
+    "code": "AUD8041",
+    "name": "SOCIEDAD Y ENTORNO LEGAL DE LA EMPRESA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8061",
+    "name": "SOCIEDAD,ORGANIZACIÓN EMPRESA Y PERSONAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8091",
+    "name": "SISTEMA DE INFORMACIÓN Y COMUNICACIÓN I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8042",
+    "name": "DERECHO DEL TRABAJO Y SEGURIDAD SOCIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "AUD8081",
+    "name": "SOCIEDAD Y ENTORNO MICROECONÓMICO",
     "credits": 5,
     "references": [
       ""
@@ -568,14 +660,6 @@
   {
     "code": "CFG2352",
     "name": "MUJER Y PENSAMIENTO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "CFG2354",
-    "name": "B-LEARNING GUERRA FRÍA Y SOCIEDAD ACTUAL",
     "credits": 5,
     "references": [
       ""
@@ -606,35 +690,27 @@
     ]
   },
   {
-    "code": "PER6114",
-    "name": "ARGUMENTACIÓN Y PENSAMIENTO CRÍTICO",
-    "credits": 5,
+    "code": "CPO4029",
+    "name": "TALLER DE TESINA Y PROGRAMACIÓN DE DEFEN",
+    "credits": 16,
     "references": [
-      "PER5114"
+      "CPO3029"
     ]
   },
   {
-    "code": "PER6215",
-    "name": "CHILE ENTRE SIGLOS",
-    "credits": 4,
-    "references": [
-      "PER5125"
-    ]
-  },
-  {
-    "code": "CPO3521",
-    "name": "POLÍTICA Y GÉNERO",
-    "credits": 5,
-    "references": [
-      "DER9900"
-    ]
-  },
-  {
-    "code": "SOC9101",
-    "name": "DESARROLLO ORGANIZACIONAL APLICADO",
+    "code": "AUD8065",
+    "name": "DIRECCIÓN ESTRATEGICA DE EMPRESAS",
     "credits": 5,
     "references": [
       ""
+    ]
+  },
+  {
+    "code": "PER6225",
+    "name": "CHILE EN EL SIGLO XX",
+    "credits": 4,
+    "references": [
+      "PER5215"
     ]
   },
   {
@@ -654,22 +730,6 @@
     ]
   },
   {
-    "code": "CPO3523",
-    "name": "PROGRAMACIÓN CIENCIAS SOCIALES",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "PUB9113",
-    "name": "ANTROPOLOGÍA DEL CONSUMO",
-    "credits": 5,
-    "references": [
-      "PUB8121"
-    ]
-  },
-  {
     "code": "ICO09122",
     "name": "MICROECONOMÍA I",
     "credits": 6,
@@ -686,32 +746,40 @@
     ]
   },
   {
-    "code": "SOC00001",
-    "name": "BIG DATA PARA LAS CIENCIAS SOCIALES",
+    "code": "CFG2374",
+    "name": "MOVIMIENTOS DE DDHH EN EL CONO SUR",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "SOC00002",
-    "name": "ESTUDIOS DE CASO",
+    "code": "CPO00001",
+    "name": "HERRAMIENTAS PARA LA GESTIÓN",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CPO00002",
-    "name": "POLITICA (S) DEL MEDIO AMBIENTE",
+    "code": "CFG2378",
+    "name": "B-LEARNING BLACK POWER",
     "credits": 5,
     "references": [
-      "DER9903"
+      ""
     ]
   },
   {
     "code": "CFG2380",
     "name": "HISTORIA LGBTI DE CHILE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CFG2384",
+    "name": "B-LEARNING EDUC EN EL MUNDO CONTEMP",
     "credits": 5,
     "references": [
       ""
@@ -726,32 +794,24 @@
     ]
   },
   {
-    "code": "CFG2388",
-    "name": "WOMEN'S RIGHTS MOVEMENTS",
+    "code": "HIS9049",
+    "name": "CULTURAS ANDINAS",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "BAC08113",
-    "name": "HISTORIA DE CHILE SIGLO XX",
+    "code": "CFG2394",
+    "name": "TRANSHUMANISMO, DIGNIDAD Y DDHH",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "CPO00003",
-    "name": "DEBATES SOBRE MULTICULTURALISMO",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "BAC08117",
-    "name": "FUNDAMENTOS DEL DERECHO PRIVADO",
+    "code": "CFG2398",
+    "name": "USA: A HISTORY OF IMMIGRANTS",
     "credits": 5,
     "references": [
       ""
@@ -774,11 +834,11 @@
     ]
   },
   {
-    "code": "CPO00005",
-    "name": "ETNOGRAFÍA POLÍTICA",
-    "credits": 5,
+    "code": "CPO4912",
+    "name": "SEMINARIO AVANZADO INTEGRADO",
+    "credits": 16,
     "references": [
-      ""
+      "CPO3117"
     ]
   }
 ]

@@ -1,72 +1,112 @@
 [
   {
-    "code": "OBS0001",
-    "name": "GESTACIÓN CONSCIENTE Y PARTO RESPETADO",
+    "code": "OBS0003",
+    "name": "PISO PÉLVICO",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "OBS0002",
-    "name": "INTRODUCCIÓN A LA ULTRASONOGRAFÍA OBSTÉT",
+    "code": "OBS0004",
+    "name": "GESTIÓN DEL CUIDADO DEL RECIÉN NACIDO DE",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "OBS2020",
-    "name": "BIOESTADÍSTICA",
-    "credits": 3,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS2021",
-    "name": "CLÍNICA I",
-    "credits": 23,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS2022",
-    "name": "GESTIÓN EN SALUD III",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS2028",
-    "name": "INVESTIGACIÓN CUALITATIVA",
+    "code": "OBS2014",
+    "name": "FARMACOLOGÍA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "OBS2029",
-    "name": "GINECOLOGÍA II",
+    "code": "OBS2015",
+    "name": "NEONATOLOGÍA I",
     "credits": 6,
     "references": [
       ""
     ]
   },
   {
-    "code": "OBS2030",
-    "name": "BIOÉTICA",
+    "code": "OBS2016",
+    "name": "OBSTETRICIA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2017",
+    "name": "ENFERMERÍA MÉDICO QUIRÚRGICA",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "OBS2031",
-    "name": "MEDICINA LEGAL",
+    "code": "OBS2018",
+    "name": "SALUD COMUNITARIA I",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2019",
+    "name": "GESTIÓN EN SALUD II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2023",
+    "name": "INVESTIGACIÓN CUANTITATIVA",
     "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2024",
+    "name": "GINECOLOGÍA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2025",
+    "name": "NEONATOLOGÍA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2026",
+    "name": "OBSTETRICIA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2027",
+    "name": "SALUD COMUNITARIA II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2032",
+    "name": "CLÍNICA II",
+    "credits": 21,
     "references": [
       ""
     ]
@@ -134,73 +174,25 @@
     ]
   },
   {
-    "code": "FSO9100",
-    "name": "PRÁCTICA ELECTIVA",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS03111",
-    "name": "BASES CIENTÍFICAS DEL FUNC. HUMANO",
-    "credits": 8,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS03112",
-    "name": "CUIDADOS EN SALUD MENTAL",
-    "credits": 5,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS03113",
-    "name": "FUNDAMENTOS DE LA MATRONERÍA",
+    "code": "OBS03121",
+    "name": "MORFOFUNCIÓN I",
     "credits": 10,
     "references": [
       ""
     ]
   },
   {
-    "code": "OBS03114",
-    "name": "SALUD CON PERSPECTIVA DE GÉNERO",
+    "code": "OBS03122",
+    "name": "SALUD SEXUAL INTEGRAL",
     "credits": 5,
     "references": [
       ""
     ]
   },
   {
-    "code": "OBS03211",
-    "name": "MORFOFUNCIÓN II",
-    "credits": 9,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS03212",
-    "name": "CUIDADO INTEGRAL DE LA/EL RN SANO",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS03213",
-    "name": "CUID. INTEG. EN EL PERÍODO GRÁVIDO PUERP",
-    "credits": 4,
-    "references": [
-      ""
-    ]
-  },
-  {
-    "code": "OBS03214",
-    "name": "ATENCIÓN EN SALUD REPRODUCTIVA",
-    "credits": 4,
+    "code": "OBS03123",
+    "name": "CLÍNICA DE PAM",
+    "credits": 8,
     "references": [
       ""
     ]

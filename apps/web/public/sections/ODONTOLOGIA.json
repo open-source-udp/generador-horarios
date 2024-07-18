@@ -1,490 +1,588 @@
 [
   {
-    "code": "ODT3001_VC01",
-    "subjectCode": "ODT3001",
+    "code": "S1",
+    "subjectCode": "ODT3006",
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "LU",
-        "block": "B",
-        "description": "CÁTEDRAS TODOS",
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
-        "teacher": "CABRERA MARTA LISSETTE"
+        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
         "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRAS MADRE",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRAS MADRE",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "SA",
         "block": "A",
-        "description": "LABORATORIO MARTES",
+        "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
-        "teacher": "CORDOVA ROSA DEL CARMEN"
+        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "CÁTEDRAS MADRE",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRAS MADRE",
+        "isMandatory": true,
+        "teacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "MA",
         "block": "B",
-        "description": "LABORATORIO MARTES",
+        "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
         "teacher": "CORDOVA ROSA DEL CARMEN"
       },
       {
         "day": "MA",
         "block": "C",
-        "description": "LABORATORIO MARTES",
+        "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
         "teacher": "CORDOVA ROSA DEL CARMEN"
       },
       {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRAS TODOS",
+        "day": "SA",
+        "block": "C",
+        "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+        "teacher": "CORDOVA ROSA DEL CARMEN"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "LABORATORIO MARTES - SABADO",
+        "isMandatory": true,
+        "teacher": "MIRALLES RODOLFO"
       },
       {
         "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRAS TODOS",
+        "block": "B",
+        "description": "LABORATORIO MARTES - SABADO",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "LABORATORIO MARTES - SABADO",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
         "day": "MA",
-        "block": "G",
-        "description": "CÁTEDRAS TODOS",
+        "block": "C",
+        "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRAS TODOS",
+        "day": "SA",
+        "block": "C",
+        "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
-        "day": "MI",
-        "block": "H",
-        "description": "CÁTEDRAS TODOS",
+        "day": "SA",
+        "block": "C",
+        "description": "LABORATORIO MARTES - SABADO",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+        "teacher": "VALENZUELA SAUL MANUEL"
       }
     ]
   },
   {
-    "code": "ODT3001_VC02",
-    "subjectCode": "ODT3001",
+    "code": "S2",
+    "subjectCode": "ODT3006",
     "section": "Sección 2",
     "timeBlocks": [
       {
         "day": "JU",
         "block": "E",
-        "description": "LABORATORIO JUEVES",
+        "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+        "teacher": "CORDOVA ROSA DEL CARMEN"
       },
       {
         "day": "JU",
         "block": "F",
-        "description": "LABORATORIO JUEVES",
+        "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+        "teacher": "CORDOVA ROSA DEL CARMEN"
       },
       {
-        "day": "JU",
-        "block": "G",
-        "description": "LABORATORIO JUEVES",
+        "day": "SA",
+        "block": "B",
+        "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+        "teacher": "CORDOVA ROSA DEL CARMEN"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "CÁTEDRAS MADRE",
+        "isMandatory": true,
+        "teacher": "BRAVO DANIELA ALEJANDRA"
+      },
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRAS MADRE",
+        "isMandatory": true,
+        "teacher": "PEÑA MARIA CORINA"
       },
       {
         "day": "MA",
         "block": "E",
-        "description": "CÁTEDRAS TODOS",
+        "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
         "day": "MA",
         "block": "F",
-        "description": "CÁTEDRAS TODOS",
+        "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
         "day": "MA",
         "block": "G",
-        "description": "CÁTEDRAS TODOS",
+        "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
-        "day": "MI",
-        "block": "G",
-        "description": "CÁTEDRAS TODOS",
+        "day": "SA",
+        "block": "A",
+        "description": "CÁTEDRAS MADRE",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
-        "day": "MI",
-        "block": "H",
-        "description": "CÁTEDRAS TODOS",
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
         "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
       },
       {
-        "day": "LU",
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO JUEVES - SABADO",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "SA",
         "block": "B",
-        "description": "CÁTEDRAS TODOS",
+        "description": "LABORATORIO JUEVES - SABADO",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "LABORATORIO JUEVES - SABADO",
+        "isMandatory": true,
+        "teacher": "VALENZUELA SAUL MANUEL"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "LABORATORIO JUEVES - SABADO",
+        "isMandatory": true,
+        "teacher": "MIRALLES RODOLFO"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "LABORATORIO JUEVES - SABADO",
+        "isMandatory": true,
+        "teacher": "GAMBOA NATALIA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "LABORATORIO JUEVES - SABADO",
+        "isMandatory": true,
+        "teacher": "PEÑA MARIA CORINA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "LABORATORIO JUEVES - SABADO",
         "isMandatory": true,
         "teacher": "PEÑA MARIA CORINA"
       }
     ]
   },
   {
-    "code": "ODT3002_VC01",
-    "subjectCode": "ODT3002",
+    "code": "ODT3007_VC01",
+    "subjectCode": "ODT3007",
     "section": "Sección 1",
     "timeBlocks": [
       {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BARRIA JOEL ALBERTO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BARRIA JOEL ALBERTO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BARRIA JOEL ALBERTO"
+      }
+    ]
+  },
+  {
+    "code": "ODT3008_VC01",
+    "subjectCode": "ODT3008",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MENESES ANA MARIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MENESES ANA MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BRAVO JESSICA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "BRAVO JESSICA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ARIAS MARIA PATRICIA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GONZALEZ MARIA FLORENCIA"
+      },
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
         "day": "MI",
-        "block": "F",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3009_VC01",
+    "subjectCode": "ODT3009",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "GALLARDO MAURICIO ORLANDO"
+        "teacher": "CARBONE MICHELE ANGELO"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
+        "teacher": "CARBONE MICHELE ANGELO"
       },
       {
         "day": "LU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "ECHEVARRIA CLAUDIO ARTURO"
-      }
-    ]
-  },
-  {
-    "code": "ODT3003_VC01",
-    "subjectCode": "ODT3003",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "JU",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BRAVO JESSICA ANDREA"
+        "teacher": "CARBONE MICHELE ANGELO"
       },
-      {
-        "day": "LU",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BRAVO JESSICA ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BRAVO JESSICA ANDREA"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "BRAVO JESSICA ANDREA"
-      },
-      {
-        "day": "JU",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "TOUMA JORGE HANTAR"
-      }
-    ]
-  },
-  {
-    "code": "ODT3004_VC01",
-    "subjectCode": "ODT3004",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "LU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "LU",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "MI",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": ""
-      },
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "OSORIO MANUEL ISAIAS"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "OSORIO MANUEL ISAIAS"
-      },
-      {
-        "day": "JU",
-        "block": "C",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "JU",
-        "block": "D",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      },
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "GONZALEZ MARIA FLORENCIA"
-      }
-    ]
-  },
-  {
-    "code": "ODT3005_VC01",
-    "subjectCode": "ODT3005",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "A",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORDENES WALDO GONZALO"
-      },
-      {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "ORDENES WALDO GONZALO"
-      }
-    ]
-  },
-  {
-    "code": "ODT3010_VC01",
-    "subjectCode": "ODT3010",
-    "section": "Sección 1",
-    "timeBlocks": [
       {
         "day": "LU",
         "block": "E",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
+        "teacher": "FUENTES MARIANA"
       },
       {
         "day": "LU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "HERNANDEZ RODRIGO ALEJANDRO"
-      }
-    ]
-  },
-  {
-    "code": "ODT3011_VC01",
-    "subjectCode": "ODT3011",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "RETAMALES PATRICIO EDGARDO"
+        "teacher": "FUENTES MARIANA"
       },
       {
-        "day": "MA",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "RETAMALES PATRICIO EDGARDO"
-      },
-      {
-        "day": "MA",
+        "day": "LU",
         "block": "G",
-        "description": "CÁTEDRA",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "FUENTES MARIANA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COLOSIA KAREN NICOLE"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COLOSIA KAREN NICOLE"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COLOSIA KAREN NICOLE"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GODOY ELOISA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GODOY ELOISA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GODOY ELOISA ANDREA"
+      },
+      {
+        "day": "LU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TAPIA VERONICA DEL ROSARIO"
+      },
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TAPIA VERONICA DEL ROSARIO"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "TAPIA VERONICA DEL ROSARIO"
+      }
+    ]
+  },
+  {
+    "code": "ODT3015_VC01",
+    "subjectCode": "ODT3015",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "RETAMALES PATRICIO EDGARDO"
       },
       {
-        "day": "MI",
-        "block": "B",
-        "description": "CÁTEDRA",
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "RETAMALES PATRICIO EDGARDO"
+      },
+      {
+        "day": "JU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "RETAMALES PATRICIO EDGARDO"
       },
       {
         "day": "MI",
         "block": "C",
-        "description": "CÁTEDRA",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DONDERS MICHELLE RENATA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "DONDERS MICHELLE RENATA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA 01",
         "isMandatory": true,
         "teacher": "WIESE GUILLERMO SEBASTIAN"
-      }
-    ]
-  },
-  {
-    "code": "ODT3012_VC01",
-    "subjectCode": "ODT3012",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MA",
-        "block": "A",
-        "description": "B-LEARNING HORARIO BLOQUEADO 01",
-        "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
       },
       {
-        "day": "MA",
-        "block": "B",
-        "description": "B-LEARNING HORARIO BLOQUEADO 01",
-        "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
-      },
-      {
-        "day": "MA",
-        "block": "C",
-        "description": "B-LEARNING HORARIO BLOQUEADO 01",
-        "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
-      }
-    ]
-  },
-  {
-    "code": "ODT3014_VC01",
-    "subjectCode": "ODT3014",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "VALDES ALEJANDRA VICTORIA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "VALDES ALEJANDRA VICTORIA"
-      }
-    ]
-  },
-  {
-    "code": "ODT3014_FG",
-    "subjectCode": "ODT3014",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "E",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "VALDES ALEJANDRA VICTORIA"
-      },
-      {
-        "day": "VI",
-        "block": "F",
-        "description": "CÁTEDRA",
-        "isMandatory": true,
-        "teacher": "VALDES ALEJANDRA VICTORIA"
-      }
-    ]
-  },
-  {
-    "code": "ODT3019_VC01",
-    "subjectCode": "ODT3019",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "VI",
-        "block": "A",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MARTINEZ MARIA SOLEDAD"
-      },
-      {
-        "day": "VI",
-        "block": "B",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MARTINEZ MARIA SOLEDAD"
-      },
-      {
-        "day": "VI",
-        "block": "C",
-        "description": "CÁTEDRA B-LEARNING",
-        "isMandatory": true,
-        "teacher": "MARTINEZ MARIA SOLEDAD"
-      }
-    ]
-  },
-  {
-    "code": "ODT3021_VC01",
-    "subjectCode": "ODT3021",
-    "section": "Sección 1",
-    "timeBlocks": [
-      {
-        "day": "MI",
-        "block": "E",
-        "description": "CÁTEDRA 01",
-        "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
-      },
-      {
-        "day": "MI",
+        "day": "JU",
         "block": "F",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
+        "teacher": "WIESE GUILLERMO SEBASTIAN"
       },
       {
-        "day": "MI",
+        "day": "JU",
         "block": "G",
         "description": "CÁTEDRA 01",
         "isMandatory": true,
-        "teacher": "MARTINEZ CAROLINA ANDREA"
+        "teacher": "WIESE GUILLERMO SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "NAVARRO MYRIAM ANDREA"
       }
     ]
   },
   {
-    "code": "ODT3035_VC01",
-    "subjectCode": "ODT3035",
+    "code": "ODT3016_VC01",
+    "subjectCode": "ODT3016",
     "section": "Sección 1",
     "timeBlocks": [
       {
@@ -492,48 +590,454 @@
         "block": "E",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "DEL VALLE CAROLINA ANDREA"
+        "teacher": "ZAMORA RENATO ANDRES"
       },
       {
         "day": "MA",
         "block": "F",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "DEL VALLE CAROLINA ANDREA"
+        "teacher": "ZAMORA RENATO ANDRES"
       },
       {
         "day": "MA",
         "block": "G",
         "description": "CÁTEDRA",
         "isMandatory": true,
-        "teacher": "DEL VALLE CAROLINA ANDREA"
+        "teacher": "ZAMORA RENATO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ZAMORA RENATO ANDRES"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "PADILLA PAMELA DEL CARMEN"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "PADILLA PAMELA DEL CARMEN"
       }
     ]
   },
   {
-    "code": "ODT3036_VC01",
-    "subjectCode": "ODT3036",
+    "code": "ODT3017_VC01",
+    "subjectCode": "ODT3017",
     "section": "Sección 1",
     "timeBlocks": [
       {
-        "day": "SA",
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MARTINEZ CAROLINA ANDREA"
+      },
+      {
+        "day": "MA",
         "block": "B",
-        "description": "CÁTEDRA 01",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MARTINEZ CAROLINA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MARTINEZ CAROLINA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CRIADO LIANET"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CRIADO LIANET"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "CRIADO LIANET"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MONASTERIO SANDRA ANA MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MONASTERIO SANDRA ANA MARIA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MONASTERIO SANDRA ANA MARIA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3018_VC01",
+    "subjectCode": "ODT3018",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LETELIER MARIA JOSE"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LETELIER MARIA JOSE"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LETELIER MARIA JOSE"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "PERRY GUILLERMO SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "PERRY GUILLERMO SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "PERRY GUILLERMO SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ESTAY PAMELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ESTAY PAMELA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ESTAY PAMELA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3025VC01",
+    "subjectCode": "ODT3025",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SCHOTT SEBASTIAN ANDREAS"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SCHOTT SEBASTIAN ANDREAS"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "SCHOTT SEBASTIAN ANDREAS"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MARTINEZ MARIA SOLEDAD"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MARTINEZ MARIA SOLEDAD"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "MARTINEZ MARIA SOLEDAD"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "REICHBERG CYNTHIA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "REICHBERG CYNTHIA ANDREA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "REICHBERG CYNTHIA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3026_VC01",
+    "subjectCode": "ODT3026",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MARTINEZ CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MARTINEZ CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "MARTINEZ CAROLINA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ARANEDA SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ARANEDA SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ARANEDA SEBASTIAN"
+      },
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO JUAN ENRIQUE"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO JUAN ENRIQUE"
+      },
+      {
+        "day": "MI",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "REBOLLEDO JUAN ENRIQUE"
+      }
+    ]
+  },
+  {
+    "code": "ODT3032_VC02",
+    "subjectCode": "ODT3032",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "CÁTEDRA SECCION 2",
         "isMandatory": true,
         "teacher": "SILVA DANIELA ALEJANDRA"
       },
       {
-        "day": "SA",
-        "block": "C",
-        "description": "CÁTEDRA 01",
+        "day": "JU",
+        "block": "F",
+        "description": "CÁTEDRA SECCION 2",
         "isMandatory": true,
         "teacher": "SILVA DANIELA ALEJANDRA"
       }
     ]
   },
   {
-    "code": "ODT3041_VC",
-    "subjectCode": "ODT3041",
+    "code": "ODT3032_VC01",
+    "subjectCode": "ODT3032",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA-SECCION 1",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA-SECCION 1",
+        "isMandatory": true,
+        "teacher": "PANES CAMILA ANDREA"
+      }
+    ]
+  },
+  {
+    "code": "ODT3038_VC01",
+    "subjectCode": "ODT3038",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "GODOY ELOISA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "GODOY ELOISA ANDREA"
+      },
+      {
+        "day": "MA",
+        "block": "H",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RUEDA EDGAR GERARDO"
+      },
+      {
+        "day": "MA",
+        "block": "I",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "RUEDA EDGAR GERARDO"
+      }
+    ]
+  },
+  {
+    "code": "ODT3039_VC01",
+    "subjectCode": "ODT3039",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GODOY SEBASTIAN ALFONSO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GODOY SEBASTIAN ALFONSO"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "GODOY SEBASTIAN ALFONSO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LETELIER MARIA JOSE"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LETELIER MARIA JOSE"
+      },
+      {
+        "day": "MA",
+        "block": "G",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "LETELIER MARIA JOSE"
+      }
+    ]
+  },
+  {
+    "code": "ODT3042_VC1",
+    "subjectCode": "ODT3042",
     "section": "Sección 1",
     "timeBlocks": [
       {
@@ -541,21 +1045,84 @@
         "block": "A",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "URZUA MADELEINE DEL CARMEN"
+        "teacher": "LETELIER MARIA JOSE"
       },
       {
         "day": "SA",
         "block": "B",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "URZUA MADELEINE DEL CARMEN"
+        "teacher": "LETELIER MARIA JOSE"
       },
       {
         "day": "SA",
         "block": "C",
         "description": "CÁTEDRA B-LEARNING",
         "isMandatory": true,
-        "teacher": "URZUA MADELEINE DEL CARMEN"
+        "teacher": "LETELIER MARIA JOSE"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "PERRY GUILLERMO SEBASTIAN"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "PERRY GUILLERMO SEBASTIAN"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "PERRY GUILLERMO SEBASTIAN"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FALEIROS SIMONE"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FALEIROS SIMONE"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "FALEIROS SIMONE"
+      },
+      {
+        "day": "SA",
+        "block": "A",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "GODOY SEBASTIAN ALFONSO"
+      },
+      {
+        "day": "SA",
+        "block": "B",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "GODOY SEBASTIAN ALFONSO"
+      },
+      {
+        "day": "SA",
+        "block": "C",
+        "description": "CÁTEDRA B-LEARNING",
+        "isMandatory": true,
+        "teacher": "GODOY SEBASTIAN ALFONSO"
       }
     ]
   }

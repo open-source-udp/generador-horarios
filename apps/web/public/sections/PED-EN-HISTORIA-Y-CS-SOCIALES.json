@@ -1,0 +1,527 @@
+[
+  {
+    "code": "PEH2004_VC",
+    "subjectCode": "PEH2004",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "KONG FELIPE IGOR"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "KONG FELIPE IGOR"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "AYUDANTÍA OBLIGATORIA",
+        "isMandatory": true,
+        "teacher": "BUGUEÑO SEBASTIAN IGNACIO"
+      },
+      {
+        "day": "MI",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      }
+    ]
+  },
+  {
+    "code": "PEH2005_VC",
+    "subjectCode": "PEH2005",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ROMAN CONSTANZA JEANNETTE"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "ROMAN CONSTANZA JEANNETTE"
+      }
+    ]
+  },
+  {
+    "code": "PEH2006_VC01",
+    "subjectCode": "PEH2006",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      }
+    ]
+  },
+  {
+    "code": "PEH2006_VC02",
+    "subjectCode": "PEH2006",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      }
+    ]
+  },
+  {
+    "code": "PEH2006_VC03",
+    "subjectCode": "PEH2006",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      }
+    ]
+  },
+  {
+    "code": "PHL2014_VC",
+    "subjectCode": "PHL2014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA",
+        "isMandatory": true,
+        "teacher": "CUEVAS FRANCISCA SOFIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2016_VC01",
+    "subjectCode": "PHL2016",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "COX CRISTIAN"
+      }
+    ]
+  },
+  {
+    "code": "PHL2016_VC02",
+    "subjectCode": "PHL2016",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "PEREZ DAVID JACOB"
+      }
+    ]
+  },
+  {
+    "code": "PHL2016_VC03",
+    "subjectCode": "PHL2016",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "ROCHA VICTOR MARIO"
+      }
+    ]
+  },
+  {
+    "code": "PHL2016_VC04",
+    "subjectCode": "PHL2016",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "ALCATRUZ PAULA DE LAS MERCEDES"
+      }
+    ]
+  },
+  {
+    "code": "PHL2016_VC05",
+    "subjectCode": "PHL2016",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "ROMAN CONSTANZA JEANNETTE"
+      }
+    ]
+  }
+]
