@@ -1,0 +1,210 @@
+[
+  {
+    "code": "EDB4003",
+    "name": "FUNDAM. TEÓRICOS ENSEÑANZA DE LA LENGUA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4004",
+    "name": "MATEMÁTICA 1: NÚMEROS Y SU DIDÁCTICA.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4005",
+    "name": "PSICOLOGÍA APREN. Y NEUROC. F. PRÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4006",
+    "name": "NECESIDADES EDUCATIVAS ESPECIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4011",
+    "name": "FORMACIÓN PRÁCTICA: LENGUAJE Y COM.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4012",
+    "name": "LECTURA Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4013",
+    "name": "MATEMÁTICAS 3: ÁLGEBRA Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4014",
+    "name": "C. NATURALES 2: SERES VIVOS, ORGANISMOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4015",
+    "name": "E. SOCIALES 2: ESPACIO GEOGRÁF. Y SU DID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4016",
+    "name": "POLÍTICA EDUCATIVA Y LIDERAZGO PEDAGÓGIC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4021",
+    "name": "FORMACIÓN PRÁCTICA: C. NATURAL Y SOCIAL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4022",
+    "name": "COMUNICACIÓN ORAL Y SU DIDÁCTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4023",
+    "name": "MATEMÁTICAS 5: DATOS Y AZAR Y SU DIDÁCTI",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4024",
+    "name": "CIENCIAS NATURALES 3: MATERIA, ENERGÍA Y",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4025",
+    "name": "E. SOCIALES 3: HISTORIA E INTERDISCIP.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4029",
+    "name": "PRÁCTICA PROFESIONAL II",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDB4030",
+    "name": "SEMINARIO DE TÍTULO",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1003",
+    "name": "FORMACIÓN PRÁCTICA 1",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD1029",
+    "name": "FORMACIÓN PRÁCTICA 3",
+    "credits": 5,
+    "references": [
+      "EDD1009"
+    ]
+  },
+  {
+    "code": "EDU4001",
+    "name": "EDUCACIÓN EN DERECHOS HUMANOS Y DIVERSID",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EDD9101",
+    "name": "TIC: RECURSO PARA EL APRENDIZAJE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "EDU9205",
+    "name": "EDUCACIÓN SEXUAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

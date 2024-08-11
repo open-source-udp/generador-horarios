@@ -1,0 +1,378 @@
+[
+  {
+    "code": "ARQ9156",
+    "name": "TALLER VERTICAL DE ARQUITECTURA EN TERRI",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9227",
+    "name": "TALLER VERTICAL DE ARQUITECTURA",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FAD1018",
+    "name": "TALLER INTERNACIONAL EUROPA",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "ARQ4112",
+    "name": "HISTORIA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3123",
+      "ARQ3151"
+    ]
+  },
+  {
+    "code": "ARQ4113",
+    "name": "ARQUITECTURA CLÁSICA",
+    "credits": 5,
+    "references": [
+      "ARQ3117",
+      "ARQ3152"
+    ]
+  },
+  {
+    "code": "ARQ4114",
+    "name": "CIENCIAS PARA LA ARQUITECTURA",
+    "credits": 6,
+    "references": [
+      "ARQ3120"
+    ]
+  },
+  {
+    "code": "ARQ4115",
+    "name": "VISUALIZACIÓN Y MATERIA",
+    "credits": 5,
+    "references": [
+      "ARQ3153"
+    ]
+  },
+  {
+    "code": "ARQ4121",
+    "name": "ANÁLISIS ESTRUCTURAL",
+    "credits": 5,
+    "references": [
+      "ARQ3124"
+    ]
+  },
+  {
+    "code": "ARQ4122",
+    "name": "PROCESOS CONSTRUCTIVOS MACIZOS",
+    "credits": 5,
+    "references": [
+      "ARQ3118"
+    ]
+  },
+  {
+    "code": "ARQ4123",
+    "name": "DISEÑO ASISTIDO POR COMPUTADOR",
+    "credits": 5,
+    "references": [
+      "ARQ3131"
+    ]
+  },
+  {
+    "code": "ARQ4232",
+    "name": "PAISAJE Y LUGAR",
+    "credits": 5,
+    "references": [
+      "ARQ3156"
+    ]
+  },
+  {
+    "code": "ARQ4233",
+    "name": "TEORÍA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3132"
+    ]
+  },
+  {
+    "code": "ARQ4234",
+    "name": "ARQUITECTURA MODERNA",
+    "credits": 5,
+    "references": [
+      "ARQ3128"
+    ]
+  },
+  {
+    "code": "ARQ4242",
+    "name": "DISEÑO ESTRUCTURAL",
+    "credits": 5,
+    "references": [
+      "ARQ3129"
+    ]
+  },
+  {
+    "code": "ARQ4243",
+    "name": "SISTEMAS RETICULADOS",
+    "credits": 5,
+    "references": [
+      "ARQ3130"
+    ]
+  },
+  {
+    "code": "ARQ4244",
+    "name": "MODELADO DE INFORMACIÓN DE CONSTRUCCIÓN",
+    "credits": 5,
+    "references": [
+      "ARQ3159"
+    ]
+  },
+  {
+    "code": "ARQ4352",
+    "name": "PAISAJE Y TERRITORIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4353",
+    "name": "PRÁCTICA DEL URBANISMO",
+    "credits": 5,
+    "references": [
+      "ARQ3140"
+    ]
+  },
+  {
+    "code": "ARQ4354",
+    "name": "ARQUITECTURA CONTEMPORÁNEA",
+    "credits": 5,
+    "references": [
+      "ARQ3136"
+    ]
+  },
+  {
+    "code": "ARQ4362",
+    "name": "LAB.DE APLICACIÓN ESTRUCT.",
+    "credits": 5,
+    "references": [
+      "ARQ3160"
+    ]
+  },
+  {
+    "code": "ARQ4363",
+    "name": "INFRAESTRUCTURAS DE LA EDIFICACIÓN",
+    "credits": 5,
+    "references": [
+      "ARQ3158"
+    ]
+  },
+  {
+    "code": "ARQ4364",
+    "name": "FABRICACIÓN DIGITAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4510",
+    "name": "SEMINARIO Y ANTEPROYECTO",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4591",
+    "name": "PRÁCTICA PROFESIONAL INTENSIVA",
+    "credits": 21,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4592",
+    "name": "SEMINARIO PROFESIONAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4611",
+    "name": "PROYECTO DE TITULO",
+    "credits": 30,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ARQ4248",
+    "name": "TALLER 4+3",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4368",
+    "name": "TALLER 6 + 5",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ4236",
+    "name": "SEMINARIO DE EXTENSIÓN 1",
+    "credits": 2,
+    "references": [
+      "ARQ4245"
+    ]
+  },
+  {
+    "code": "ARQ4356",
+    "name": "SEMINARIO DE EXTENSIÓN 2",
+    "credits": 2,
+    "references": [
+      "ARQ4365"
+    ]
+  },
+  {
+    "code": "ARQ9351",
+    "name": "NUEVOS PAISAJES SOCIALES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9404",
+    "name": "HERRAMIENTAS DIGITALES DISEÑO SOSTENIBLE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9415",
+    "name": "TALLER VERTICAL EN CIUDAD Y TERRITORIO",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9416",
+    "name": "TALLER VERTICAL EN MATERIALES Y PROTOTIP",
+    "credits": 9,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9422",
+    "name": "ESTRATEGIAS MATERIALES PARA LA FABRIC.",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9424",
+    "name": "HERRAM. PARA EL ANÁLISIS Y VIS DE DATOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9426",
+    "name": "ECONOMÍA CIRCULAR EN LAS CIUDADES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9433",
+    "name": "DEBATES SOBRE VIVIENDA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9434",
+    "name": "ARCHIVO, PALABRA Y EXPERIENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9435",
+    "name": "CUIR: ACTO, APROPIACIÓN, MOVIMIENTO Y PR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9436",
+    "name": "TERRITORIO Y RESILIENCIA ANTE DESASTRES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9437",
+    "name": "PENSAMIENTO Y DISEÑO COMPUTACIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ARQ9438",
+    "name": "LABORATORIO DE EXPLORACIÓN MATERIAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "code": "PEL2004_VC01",
+    "subjectCode": "PEL2004",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "PEL2004_FG01",
+    "subjectCode": "PEL2004",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MI",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "PEL2005_VC01",
+    "subjectCode": "PEL2005",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "A",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "LU",
+        "block": "B",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "PEL2006_VC01",
+    "subjectCode": "PEL2006",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "PRÁCTICA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "PEL2006_VC02",
+    "subjectCode": "PEL2006",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "VI",
+        "block": "E",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      },
+      {
+        "day": "VI",
+        "block": "F",
+        "description": "PRÁCTICA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "PEL2006_VC03",
+    "subjectCode": "PEL2006",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "F",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "LU",
+        "block": "G",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "MA",
+        "block": "A",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "MA",
+        "block": "B",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "MA",
+        "block": "C",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "MA",
+        "block": "D",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "MA",
+        "block": "E",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "MA",
+        "block": "F",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "JU",
+        "block": "A",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "JU",
+        "block": "B",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "JU",
+        "block": "C",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "JU",
+        "block": "D",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "JU",
+        "block": "E",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "JU",
+        "block": "F",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "VI",
+        "block": "A",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "VI",
+        "block": "B",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      },
+      {
+        "day": "VI",
+        "block": "C",
+        "description": "PRÁCTICA 03",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2014_VC01",
+    "subjectCode": "PHL2014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2014_VFG",
+    "subjectCode": "PHL2014",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "GOMEZ MARISOL PATRICIA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2014_VC02",
+    "subjectCode": "PHL2014",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "MI",
+        "block": "E",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      },
+      {
+        "day": "MI",
+        "block": "F",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": ""
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC01",
+    "subjectCode": "PHL2015",
+    "section": "Sección 1",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 01",
+        "isMandatory": true,
+        "teacher": "OCHOA MARIA ALEJANDRA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC02",
+    "subjectCode": "PHL2015",
+    "section": "Sección 2",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 02",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC03",
+    "subjectCode": "PHL2015",
+    "section": "Sección 3",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 03",
+        "isMandatory": true,
+        "teacher": "DE LA HOZ SILVANA MARCELA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC04",
+    "subjectCode": "PHL2015",
+    "section": "Sección 4",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "C",
+        "description": "CÁTEDRA 04",
+        "isMandatory": true,
+        "teacher": "LETELIER BÁRBARA"
+      }
+    ]
+  },
+  {
+    "code": "PHL2015_VC05",
+    "subjectCode": "PHL2015",
+    "section": "Sección 5",
+    "timeBlocks": [
+      {
+        "day": "LU",
+        "block": "D",
+        "description": "CÁTEDRA 05",
+        "isMandatory": true,
+        "teacher": "HERNANDEZ BLANCA PAULINA"
+      }
+    ]
+  }
+]

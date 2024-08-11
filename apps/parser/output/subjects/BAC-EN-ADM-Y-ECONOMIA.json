@@ -1,0 +1,168 @@
+[
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ICO09111",
+    "name": "MATEMÁTICAS I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09112",
+    "name": "PROGRAMACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09113",
+    "name": "FUNDAMENTOS DE ADM. Y NEGOCIOS I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09114",
+    "name": "TALLER DE COMUNICACIÓN I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09121",
+    "name": "MATEMÁTICAS II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09122",
+    "name": "MICROECONOMÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09123",
+    "name": "CONTABILIDAD I",
+    "credits": 6,
+    "references": [
+      "ICO8401"
+    ]
+  },
+  {
+    "code": "ICO09124",
+    "name": "FUNDAMENTOS DE ADM. Y NEGOCIOS II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09211",
+    "name": "MATEMÁTICAS III",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09212",
+    "name": "ESTADÍSTICA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09213",
+    "name": "MACROECONOMÍA I",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09214",
+    "name": "TECNOLOGÍA Y EMPRESA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09215",
+    "name": "TALLER DE COMUNICACIÓN II",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO09226",
+    "name": "INGLÉS IV",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "BAE01111",
+    "name": "INTRODUCCIÓN A LA MATEMÁTICA",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4112",
+    "name": "MATEMÁTICAS 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4113",
+    "name": "TEC.  DE INF. PARA LOS NEGOCIOS 1",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

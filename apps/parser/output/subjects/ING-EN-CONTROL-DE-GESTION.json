@@ -1,0 +1,522 @@
+[
+  {
+    "code": "ICG3111",
+    "name": "ENTORNO ECONÓMICO",
+    "credits": 5,
+    "references": [
+      "EIG2081"
+    ]
+  },
+  {
+    "code": "ICG3151",
+    "name": "TI PARA LOS NEGOCIOS I",
+    "credits": 5,
+    "references": [
+      "EIG2091"
+    ]
+  },
+  {
+    "code": "ICG3161",
+    "name": "MATEMÁTICAS",
+    "credits": 6,
+    "references": [
+      "EIG2051"
+    ]
+  },
+  {
+    "code": "ICG3212",
+    "name": "ENTORNO MICROECONÓMICO INDUSTRIAL",
+    "credits": 5,
+    "references": [
+      "EIG2082"
+    ]
+  },
+  {
+    "code": "ICG3221",
+    "name": "GESTIÓN CONTABLE I",
+    "credits": 6,
+    "references": [
+      "EIG2001"
+    ]
+  },
+  {
+    "code": "ICG3242",
+    "name": "POLÍTICA E INSTITUCIONES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG3252",
+    "name": "TI PARA LOS NEGOCIOS II",
+    "credits": 5,
+    "references": [
+      "EIG2002"
+    ]
+  },
+  {
+    "code": "ICG3262",
+    "name": "ÁLGEBRA",
+    "credits": 7,
+    "references": [
+      "EIG2052"
+    ]
+  },
+  {
+    "code": "ICG3322",
+    "name": "GESTIÓN CONTABLE II",
+    "credits": 5,
+    "references": [
+      "EIG2013"
+    ]
+  },
+  {
+    "code": "ICG3353",
+    "name": "TI PARA LOS NEGOCIOS III",
+    "credits": 5,
+    "references": [
+      "EIG2092"
+    ]
+  },
+  {
+    "code": "ICG3363",
+    "name": "CÁLCULO",
+    "credits": 6,
+    "references": [
+      "EIG2053"
+    ]
+  },
+  {
+    "code": "ICG3413",
+    "name": "ENTORNO MACROECONÓMICO INSTITUCIONAL",
+    "credits": 5,
+    "references": [
+      "EIG2083"
+    ]
+  },
+  {
+    "code": "ICG3424",
+    "name": "GESTIÓN FINANCIERA",
+    "credits": 5,
+    "references": [
+      "EIG2071"
+    ]
+  },
+  {
+    "code": "ICG3425",
+    "name": "CONTABILIDAD DE COSTOS",
+    "credits": 5,
+    "references": [
+      "EIG2021"
+    ]
+  },
+  {
+    "code": "ICG3426",
+    "name": "GESTIÓN DE MARKETING",
+    "credits": 5,
+    "references": [
+      "EIG2063"
+    ]
+  },
+  {
+    "code": "ICG3464",
+    "name": "ESTADÍSTICA DESCRIPTIVA",
+    "credits": 6,
+    "references": [
+      "EIG2054"
+    ]
+  },
+  {
+    "code": "ICG3527",
+    "name": "FINANZAS",
+    "credits": 5,
+    "references": [
+      "EIG2072"
+    ]
+  },
+  {
+    "code": "ICG3532",
+    "name": "CONTROL DE GESTIÓN I",
+    "credits": 5,
+    "references": [
+      "EIG2003"
+    ]
+  },
+  {
+    "code": "ICG3565",
+    "name": "INFERENCIA ESTADÍSTICA",
+    "credits": 6,
+    "references": [
+      "EIG2055"
+    ]
+  },
+  {
+    "code": "ICG3628",
+    "name": "ESTRATEGÍA EMPRESARIAL",
+    "credits": 5,
+    "references": [
+      "EIG2065"
+    ]
+  },
+  {
+    "code": "ICG3633",
+    "name": "OPERACIONES Y PROCESOS",
+    "credits": 6,
+    "references": [
+      "EIG2111"
+    ]
+  },
+  {
+    "code": "ICG3634",
+    "name": "CONTROL DE GESTIÓN II",
+    "credits": 5,
+    "references": [
+      "EIG2004"
+    ]
+  },
+  {
+    "code": "ICG3655",
+    "name": "MINERÍA DE DATOS",
+    "credits": 5,
+    "references": [
+      "EIG2705"
+    ]
+  },
+  {
+    "code": "ICG3674",
+    "name": "INGLÉS IV",
+    "credits": 4,
+    "references": [
+      "EIG2304"
+    ]
+  },
+  {
+    "code": "ICG3714",
+    "name": "ENTORNO TRIBUTARIO",
+    "credits": 5,
+    "references": [
+      "EIG2044"
+    ]
+  },
+  {
+    "code": "ICG3729",
+    "name": "MODELOS DE NEGOCIOS",
+    "credits": 5,
+    "references": [
+      "EIG2715"
+    ]
+  },
+  {
+    "code": "ICG3735",
+    "name": "ADMINISTRACIÓN DE PROCESOS (BPM)",
+    "credits": 5,
+    "references": [
+      "EIG2708"
+    ]
+  },
+  {
+    "code": "ICG3736",
+    "name": "CONTROL DE GESTIÓN ESTRATÉGICO",
+    "credits": 5,
+    "references": [
+      "EIG2025"
+    ]
+  },
+  {
+    "code": "ICG3756",
+    "name": "INTELIGENCIA DE NEGOCIOS",
+    "credits": 5,
+    "references": [
+      "EIG2533"
+    ]
+  },
+  {
+    "code": "ICG3837",
+    "name": "ADMINISTRACIÓN DE RIESGOS (ERM)",
+    "credits": 5,
+    "references": [
+      "EIG2531"
+    ]
+  },
+  {
+    "code": "ICG3838",
+    "name": "GESTIÓN ESTRATÉGICA DE PRESUPUESTOS",
+    "credits": 5,
+    "references": [
+      "EIG2728"
+    ]
+  },
+  {
+    "code": "ICG3839",
+    "name": "JUEGO CONTROL DE GESTIÓN",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG3857",
+    "name": "GOBIERNO DE TECNOLOGÍAS DE INFORMACIÓN",
+    "credits": 5,
+    "references": [
+      "EIG2093"
+    ]
+  },
+  {
+    "code": "ICG3981",
+    "name": "PRÁCTICA PROFESIONAL",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "MCA1026",
+    "name": "ECONOMÍA FINANCIERA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8867",
+    "name": "GESTIÓN DE CALIDAD DE VIDA LABORAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ICG9039",
+    "name": "CONTROL DE GESTIÓN DE T.I.",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA001",
+    "name": "PROYECTO 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND003",
+    "name": "BUSINESS ANALYTICS I",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA002",
+    "name": "GESTIÓN DE PRODUCTO, MARCA Y CLIENTES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA003",
+    "name": "MARKETING DIGITAL",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA004",
+    "name": "MARKETING, ANALÍTICA Y MÉTRICAS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND001",
+    "name": "PROYECTO 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND002",
+    "name": "MODELOS DE NEGOCIOS DIGITALES",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEFI005",
+    "name": "PROYECTO 2",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEMA005",
+    "name": "PROYECTO 2",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND004",
+    "name": "BUSINESS ANALYTICS II",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEND005",
+    "name": "PROYECTO 2",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FEEPO005",
+    "name": "PROYECTO 2",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG9049",
+    "name": "GESTIÓN DE PROYECTOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG9050",
+    "name": "HERRAMIENTAS FORENSES DIGITALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICO8931",
+    "name": "COMUNICACIÓN INT. EN MTK.",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4112",
+    "name": "MATEMÁTICAS 1",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4113",
+    "name": "TEC.  DE INF. PARA LOS NEGOCIOS 1",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4114",
+    "name": "PRINCIPIOS DE ECONOMÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4121",
+    "name": "CONTABILIDAD 1",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4122",
+    "name": "PLANIFICACIÓN Y DISEÑO ORGANIZACIONAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4123",
+    "name": "MATEMÁTICAS 2",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4124",
+    "name": "TEC. DE INF. PARA LOS NEGOCIOS 2",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ICG4125",
+    "name": "INTRODUCCIÓN A LA MICROECONOMÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

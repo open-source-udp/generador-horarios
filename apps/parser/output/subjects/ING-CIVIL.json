@@ -1,0 +1,82 @@
+[
+  {
+    "code": "CBF1000",
+    "name": "MECÁNICA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1000",
+    "name": "ÁLGEBRA Y GEOMETRÍA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1001",
+    "name": "CÁLCULO I",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1002",
+    "name": "ÁLGEBRA LINEAL",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBM1003",
+    "name": "CÁLCULO II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CBQ1000",
+    "name": "QUÍMICA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT1000",
+    "name": "PROGRAMACIÓN",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIT1010",
+    "name": "PROGRAMACIÓN AVANZADA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "COC2001",
+    "name": "INGENIERÍA EN MATERIALES",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "FIC1000",
+    "name": "COMUNICACIÓN PARA LA INGENIERÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

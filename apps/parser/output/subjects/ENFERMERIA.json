@@ -1,0 +1,232 @@
+[
+  {
+    "code": "ENF2038",
+    "name": "SEMINARIO PROFESIONAL II",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF9001",
+    "name": "ONCOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF9009",
+    "name": "SALUD OCUPACIONAL",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ENF3005",
+    "name": "BIOQUÍMICA",
+    "credits": 5,
+    "references": [
+      "ENF2006"
+    ]
+  },
+  {
+    "code": "ENF3006",
+    "name": "MORFOFUNCIÓN I",
+    "credits": 8,
+    "references": [
+      "ENF2007"
+    ]
+  },
+  {
+    "code": "ENF3007",
+    "name": "BASES TEÓRICAS DE LA ENFERMERÍA II",
+    "credits": 5,
+    "references": [
+      "ENF2008"
+    ]
+  },
+  {
+    "code": "ENF3008",
+    "name": "COMUNICACIÓN Y EDUCACIÓN EN SALUD",
+    "credits": 3,
+    "references": [
+      "ENF2009"
+    ]
+  },
+  {
+    "code": "ENF3013",
+    "name": "FARMACOLOGÍA EN ENFERMERÍA",
+    "credits": 6,
+    "references": [
+      "ENF2015"
+    ]
+  },
+  {
+    "code": "ENF3014",
+    "name": "FISIOPATOLOGÍA EN ENFERMERÍA",
+    "credits": 6,
+    "references": [
+      "ENF2016"
+    ]
+  },
+  {
+    "code": "ENF3015",
+    "name": "CUIDADOS DE ENFERMERÍA II",
+    "credits": 11,
+    "references": [
+      "ENF2017"
+    ]
+  },
+  {
+    "code": "ENF3016",
+    "name": "ENFERMERÍA EN SALUD MENTAL",
+    "credits": 5,
+    "references": [
+      "ENF2022"
+    ]
+  },
+  {
+    "code": "ENF3017",
+    "name": "BIOESTADÍSTICA",
+    "credits": 3,
+    "references": [
+      "ENF2014"
+    ]
+  },
+  {
+    "code": "ENF3022",
+    "name": "GESTIÓN DEL CUIDADO EN LA COMUNIDAD I",
+    "credits": 12,
+    "references": [
+      "ENF2020"
+    ]
+  },
+  {
+    "code": "ENF3023",
+    "name": "ENF. DEL ADULTO MAYOR Y PSICOGERIATRÍA",
+    "credits": 6,
+    "references": [
+      "ENF2029"
+    ]
+  },
+  {
+    "code": "ENF3024",
+    "name": "ENFERMERÍA BASADA EN EVIDENCIA",
+    "credits": 3,
+    "references": [
+      "ENF2033"
+    ]
+  },
+  {
+    "code": "ENF3025",
+    "name": "GESTIÓN Y LIDERAZGO EN ENFERMERÍA",
+    "credits": 4,
+    "references": [
+      "ENF2030"
+    ]
+  },
+  {
+    "code": "ENF3029",
+    "name": "GES. CUIDADO INFANTO-JUVENIL INTRAHOSP.",
+    "credits": 12,
+    "references": [
+      "ENF2028"
+    ]
+  },
+  {
+    "code": "ENF3030",
+    "name": "CUID. ENFER. PERSONAS UNIDADES CRÍTICAS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF3031",
+    "name": "METODOLOGÍAS DE LA INVESTIGACIÓN II",
+    "credits": 6,
+    "references": [
+      "ENF2027"
+    ]
+  },
+  {
+    "code": "ENF3032",
+    "name": "ENFERMERÍA Y MEDICINA INTEGRATIVA",
+    "credits": 3,
+    "references": [
+      "ENF2034"
+    ]
+  },
+  {
+    "code": "ENF3033",
+    "name": "INTERNADO COMUNITARIO",
+    "credits": 25,
+    "references": [
+      "ENF2037"
+    ]
+  },
+  {
+    "code": "ENF3035",
+    "name": "INTER. INTRAHOSPITALARIO",
+    "credits": 25,
+    "references": [
+      "ENF2035"
+    ]
+  },
+  {
+    "code": "ENF3034",
+    "name": "INTER. UNIDADES CRÍTICAS Y DE URGENCIAS",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF9012",
+    "name": "ENFERMERÍA EN SALUD DIGITAL",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ENF9011",
+    "name": "CUIDADOS PALIATIVOS Y FIN DE LA VIDA",
+    "credits": 3,
+    "references": [
+      ""
+    ]
+  }
+]

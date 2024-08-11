@@ -1,0 +1,341 @@
+[
+  {
+    "code": "CIG1001",
+    "name": "INGLÉS GENERAL I",
+    "credits": 5,
+    "references": [
+      "ENG1500",
+      "IAE3521",
+      "IFM2203"
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "EVE0202",
+    "name": "ADMINISTRACIÓN II",
+    "credits": 5,
+    "references": [
+      "IAE4201"
+    ]
+  },
+  {
+    "code": "EVE0401",
+    "name": "ENTORNO ECONÓMICO Y EMPRESA",
+    "credits": 5,
+    "references": [
+      "IAE4113"
+    ]
+  },
+  {
+    "code": "EVE0301",
+    "name": "DERECHO EMPRESARIAL",
+    "credits": 5,
+    "references": [
+      "IAE4811"
+    ]
+  },
+  {
+    "code": "EVE0101",
+    "name": "ESTADISTICA I",
+    "credits": 5,
+    "references": [
+      "IAE4307",
+      "IFG1302"
+    ]
+  },
+  {
+    "code": "IAE5313",
+    "name": "MICROECONOMÍA",
+    "credits": 5,
+    "references": [
+      "IAE4313"
+    ]
+  },
+  {
+    "code": "IAE5413",
+    "name": "MACROECONOMÍA",
+    "credits": 5,
+    "references": [
+      "IAE4413"
+    ]
+  },
+  {
+    "code": "IAE5407",
+    "name": "ESTADÍSTICA II",
+    "credits": 5,
+    "references": [
+      "IAE4407"
+    ]
+  },
+  {
+    "code": "IAE5405",
+    "name": "GESTIÓN COMERCIAL",
+    "credits": 5,
+    "references": [
+      "IAE4405",
+      "IAE06213"
+    ]
+  },
+  {
+    "code": "IAE5403",
+    "name": "FINANZAS BÁSICAS",
+    "credits": 5,
+    "references": [
+      "IAE4403"
+    ]
+  },
+  {
+    "code": "IAE5515",
+    "name": "DIRECCIÓN DE PERSONAS",
+    "credits": 5,
+    "references": [
+      "IAE4315",
+      "IAE06221"
+    ]
+  },
+  {
+    "code": "IAE5503",
+    "name": "FINANZAS OPERACIONALES Y CORPORATIVAS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IAE5599",
+    "name": "PRÁCTICA PROFESIONAL",
+    "credits": 12,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IAE5623",
+    "name": "EVALUACIÓN ECONÓMICA DE PROYECTOS",
+    "credits": 5,
+    "references": [
+      "IAE4723"
+    ]
+  },
+  {
+    "code": "IAE5601",
+    "name": "GESTIÓN DE LA PRODUCCIÓN",
+    "credits": 5,
+    "references": [
+      "IAE4601"
+    ]
+  },
+  {
+    "code": "IAE5605",
+    "name": "INVESTIGACIÓN DE MERCADOS",
+    "credits": 5,
+    "references": [
+      "IAE4605"
+    ]
+  },
+  {
+    "code": "IAE5615",
+    "name": "MEDICIONES EN GESTIÓN DE RRHH",
+    "credits": 5,
+    "references": [
+      "IAE4715"
+    ]
+  },
+  {
+    "code": "IAE5606",
+    "name": "GERENCIA DE VENTAS",
+    "credits": 5,
+    "references": [
+      "IAE4606"
+    ]
+  },
+  {
+    "code": "IAE5616",
+    "name": "ESTRATÉGIAS COMUNICACIONALES",
+    "credits": 5,
+    "references": [
+      "IAE4705"
+    ]
+  },
+  {
+    "code": "IAE5613",
+    "name": "FUNDAMENTOS DE ECONOMETRÍA",
+    "credits": 5,
+    "references": [
+      "IAE4613"
+    ]
+  },
+  {
+    "code": "IAE5603",
+    "name": "FINANZAS INTERNACIONALES",
+    "credits": 5,
+    "references": [
+      "IAE4703"
+    ]
+  },
+  {
+    "code": "IAE5702",
+    "name": "NEGOCIOS INTERNACIONALES",
+    "credits": 5,
+    "references": [
+      "IAE4802"
+    ]
+  },
+  {
+    "code": "IAE5701",
+    "name": "ESTRATÉGIA DE EMPRESAS",
+    "credits": 5,
+    "references": [
+      "IAE4801"
+    ]
+  },
+  {
+    "code": "IAE5705",
+    "name": "DECISIONES ESTRATÉGICAS EN MARKETING",
+    "credits": 5,
+    "references": [
+      "IAE4805"
+    ]
+  },
+  {
+    "code": "IAE5704",
+    "name": "ESTRATÉGIAS FINANCIERAS",
+    "credits": 5,
+    "references": [
+      "IAE4804"
+    ]
+  },
+  {
+    "code": "IAE5899",
+    "name": "JUEGO DE GESTIÓN EMPRESARIAL",
+    "credits": 10,
+    "references": [
+      "IAE4899"
+    ]
+  },
+  {
+    "code": "INL4090",
+    "name": "HERRAMIENTAS APLICADAS PROC LOGÍSTICOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00004",
+    "name": "APLICACIÓN DE LAS IFRS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00003",
+    "name": "AUDITORÍA FORENSE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CAV00001",
+    "name": "GESTIÓN TRIBUTARIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IIG4002",
+    "name": "NEGOCIOS EN INTERNET",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5801",
+    "name": "GESTIÓN DE DATOS PARA TOMA DE DECISIONES",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5802",
+    "name": "TALLER DE EMPRENDIMIENTO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5803",
+    "name": "ÉTICA DE LOS NEGOCIOS Y LA GERENCIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "EVE5807",
+    "name": "GERENCIA DE RETAIL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IAE06111",
+    "name": "TECNOLOGÍAS DE INFORMACIÓN",
+    "credits": 5,
+    "references": [
+      "EVE0601"
+    ]
+  },
+  {
+    "code": "IAE06121",
+    "name": "MICROECONOMÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "IAE06122",
+    "name": "CONTABILIDAD GERENCIAL",
+    "credits": 5,
+    "references": [
+      "IAE5309"
+    ]
+  },
+  {
+    "code": "IAE06123",
+    "name": "CÁLCULO",
+    "credits": 5,
+    "references": [
+      "IAE5207"
+    ]
+  }
+]

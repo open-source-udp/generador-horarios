@@ -1,11 +1,11 @@
-import { Section, Subject, XLSXRow } from "contracts";
+import { Section, Subject, UDPXLSXRow } from "contracts";
 import { readFile, utils } from "xlsx";
 import { join, dirname } from "node:path";
 import parseTimeBlocks from "./parseTimeBlocks";
 import { writeFileSync, existsSync, mkdirSync } from "node:fs";
 
 export default class XLSParser {
-  rows: XLSXRow[];
+  rows: UDPXLSXRow[];
   fileName: string;
   private subjectsOutputData: Record<string, Subject> = {};
   private sectionsOutputData: Record<string, Section> = {};
@@ -27,7 +27,7 @@ export default class XLSParser {
     }
   }
 
-  parseRow(row: XLSXRow) {
+  parseRow(row: UDPXLSXRow) {
     if (!row.Asignatura || !row.Horario || !row.Paquete) {
       console.error("Invalid row", row);
       return;
@@ -73,6 +73,16 @@ export default class XLSParser {
         };
       } else {
         for (const timeBlock of timeBlocks) {
+          const timeBlockExists = this.sectionsOutputData[
+            sectionCode
+          ].timeBlocks.find(
+            (block) =>
+              block.day === timeBlock.day && block.block === timeBlock.block
+          );
+          if (timeBlockExists) {
+            timeBlockExists.secondTeacher = row.Profesor || "";
+            continue;
+          }
           this.sectionsOutputData[sectionCode].timeBlocks.push({
             ...timeBlock,
             description: row["Descrip. Evento"] || "",

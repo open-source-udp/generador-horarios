@@ -21,7 +21,6 @@ const useSections = (career: string) => {
     data.push(...careerSections);
   }
   for (const cfgFile of CFG_FILES) {
-    
     // eslint-disable-next-line react-hooks/rules-of-hooks
     const { data: cfgSections } = useSWR<Array<SectionData>>(
       `/sections/${CFG_FOLDER}/${cfgFile}`,

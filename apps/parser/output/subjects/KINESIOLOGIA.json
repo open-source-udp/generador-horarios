@@ -1,0 +1,256 @@
+[
+  {
+    "code": "KIN0902",
+    "name": "KINESIOLOGÍA DEPORTIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1008",
+    "name": "BIOFÍSICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1015",
+    "name": "BASES DEL MOVIMIENTO HUMANO II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1016",
+    "name": "DISFUNCIÓN MUSCULOESQUELÉTICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1017",
+    "name": "ATENCIÓN EN BASE COMUNITARIA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1018",
+    "name": "DISFUNCIÓN EN CARDIORESPIRATORIO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1019",
+    "name": "NEUROFISIOLOGÍA",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1025",
+    "name": "EVALUACIÓN MUSCULOESQUELÉTICA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1026",
+    "name": "FISIOLOGÍA CLÍNICA DE LA ACTIVIDAD FÍSIC",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1027",
+    "name": "GESTIÓN Y DESARROLLO EN SALUD",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1028",
+    "name": "EVALUACIÓN CARDIORESPIRATORIA II",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1029",
+    "name": "EVALUACIÓN EN NEUROKINESIOLOGÍA",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1035",
+    "name": "INTEGRACIÓN EN KINESIOLOGÍA MUSCULOESQUE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1036",
+    "name": "INTEGRACIÓN EN KINESIOLOGÍA CARDIORESPIR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1037",
+    "name": "INTEGRACIÓN EN NEUROKINESIOLOGÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN1038",
+    "name": "METODOLOGÍA DE LA INVESTIGACIÓN 2 :PROYE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0903",
+    "name": "KINESIOLOGÍA INTENSIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0904",
+    "name": "DEPORTE ADAPTADO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "KIN02121",
+    "name": "MORFOFUNCIÓN II",
+    "credits": 8,
+    "references": [
+      "KIN1006"
+    ]
+  },
+  {
+    "code": "KIN02122",
+    "name": "QUÍMICA Y BIOQUÍMICA",
+    "credits": 5,
+    "references": [
+      "KIN1002"
+    ]
+  },
+  {
+    "code": "KIN02123",
+    "name": "BIOÉTICA",
+    "credits": 4,
+    "references": [
+      "KIN1013"
+    ]
+  },
+  {
+    "code": "KIN02124",
+    "name": "BASES DEL MOVIMIENTO HUMANO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN02221",
+    "name": "ANÁLISIS DE DATOS",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN02222",
+    "name": "FISIOLOGÍA DE LA ACT FÍSICA Y EJERCICIO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN02223",
+    "name": "ANÁLISIS BIOINSTRUMENTAL DEL MOV HUMANO",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0915",
+    "name": "ERGONOMÍA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0917",
+    "name": "KINESIOLOGÍA EN PERSONA MAYOR",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "KIN0916",
+    "name": "KINESIOLOGÍA EN QUEMADOS",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]

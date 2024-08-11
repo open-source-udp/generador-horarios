@@ -1,0 +1,184 @@
+[
+  {
+    "code": "OBS0003",
+    "name": "PISO PÉLVICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS0004",
+    "name": "GESTIÓN DEL CUIDADO DEL RECIÉN NACIDO DE",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2023",
+    "name": "INVESTIGACIÓN CUANTITATIVA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2024",
+    "name": "GINECOLOGÍA I",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2025",
+    "name": "NEONATOLOGÍA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2026",
+    "name": "OBSTETRICIA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2027",
+    "name": "SALUD COMUNITARIA II",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2032",
+    "name": "CLÍNICA II",
+    "credits": 21,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2034",
+    "name": "INTERNADO DE NEONATOLOGÍA",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2035",
+    "name": "INTERNADO DE ATENCIÓN PRIMARIA URBANA Y",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "OBS2036",
+    "name": "INTERNADO DE GINECOLOGÍA",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS2037",
+    "name": "INTERNADO DE OBSTETRICIA",
+    "credits": 15,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03121",
+    "name": "MORFOFUNCIÓN I",
+    "credits": 10,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03122",
+    "name": "SALUD SEXUAL INTEGRAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03123",
+    "name": "CLÍNICA DE PAM",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03221",
+    "name": "ABORDAJE INTEGRAL DE PATOLOGÍAS FRECUENT",
+    "credits": 8,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03222",
+    "name": "CUIDADO INTEGRAL DE LA/EL RN CON PATOLOG",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03223",
+    "name": "CUIDADO DEL ALTO RIESGO OBSTÉTRICO",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "OBS03224",
+    "name": "SALUD FAMILIAR",
+    "credits": 4,
+    "references": [
+      ""
+    ]
+  }
+]

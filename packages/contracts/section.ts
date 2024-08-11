@@ -6,6 +6,7 @@ export interface TimeBlockItem {
   description: string;
   isMandatory: boolean;
   teacher: string;
+  secondTeacher?: string;
 }
 
 export interface Section {

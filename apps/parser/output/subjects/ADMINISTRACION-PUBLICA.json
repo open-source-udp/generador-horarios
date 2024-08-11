@@ -1,0 +1,104 @@
+[
+  {
+    "code": "CIG1002",
+    "name": "INGLÉS GENERAL II",
+    "credits": 5,
+    "references": [
+      "ENG2100",
+      "IAE3621",
+      "IFM2303",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1003",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ENG2500",
+      "IAE3721",
+      "ICO8703",
+      "CI"
+    ]
+  },
+  {
+    "code": "CIG1014",
+    "name": "INGLÉS GENERAL III",
+    "credits": 5,
+    "references": [
+      "ICG3573"
+    ]
+  },
+  {
+    "code": "ADP01121",
+    "name": "MATEMÁTICA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01122",
+    "name": "MICROECONOMÍA",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01123",
+    "name": "CONTABILIDAD GUBERNAMENTAL",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01124",
+    "name": "TEORÍAS Y CONCEPTOS DE POLÍTICAS PÚBLICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01125",
+    "name": "SISTEMA POLÍTICO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01221",
+    "name": "ESTADISTICA II",
+    "credits": 6,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01222",
+    "name": "CONTROL DE GESTIÓN EN LA ADM PÚBLICA",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01223",
+    "name": "TALLER DE POLÍTICAS PÚBLICAS",
+    "credits": 7,
+    "references": [
+      ""
+    ]
+  },
+  {
+    "code": "ADP01224",
+    "name": "DERECHO ADMINISTRATIVO",
+    "credits": 5,
+    "references": [
+      ""
+    ]
+  }
+]
