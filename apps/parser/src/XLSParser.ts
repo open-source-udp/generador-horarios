@@ -1,14 +1,14 @@
 import { Section, Subject, UDPXLSXRow } from "contracts";
 import { readFile, utils } from "xlsx";
 import { join, dirname } from "node:path";
-import parseTimeBlocks from "./parseTimeBlocks";
+import parseTimeBlocks from "./UDPXLSParser/parseTimeBlocks";
 import { writeFileSync, existsSync, mkdirSync } from "node:fs";
 
-export default class XLSParser {
-  rows: UDPXLSXRow[];
+export default abstract class XLSParser<TUniversityRow> {
+  rows: TUniversityRow[];
   fileName: string;
-  private subjectsOutputData: Record<string, Subject> = {};
-  private sectionsOutputData: Record<string, Section> = {};
+  protected subjectsOutputData: Record<string, Subject> = {};
+  protected sectionsOutputData: Record<string, Section> = {};
   constructor(file: string) {
     this.fileName = file;
     const workbook = readFile(file, {});
@@ -27,72 +27,7 @@ export default class XLSParser {
     }
   }
 
-  parseRow(row: UDPXLSXRow) {
-    if (!row.Asignatura || !row.Horario || !row.Paquete) {
-      console.error("Invalid row", row);
-      return;
-    }
-    const subjectCode = row.Asignatura;
-    const sectionCode = row.Paquete;
-    const timeBlocks = parseTimeBlocks(row.Horario);
-    if (!this.subjectsOutputData[subjectCode]) {
-      this.subjectsOutputData[subjectCode] = {
-        code: subjectCode,
-        name: row["Nombre Asig."] || "",
-        credits: row["Créditos Asignatura"] || 0,
-        references: row["Asig. Referenciadas"]?.split(/\s*,\s*/) ?? [],
-      };
-
-      this.sectionsOutputData[sectionCode] = {
-        code: sectionCode,
-        subjectCode: subjectCode,
-        section: row.Sección || "Sección 1",
-        timeBlocks: [
-          ...timeBlocks.map((timeBlock) => ({
-            ...timeBlock,
-            description: row["Descrip. Evento"] || "",
-            isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
-            teacher: row.Profesor || "",
-          })),
-        ],
-      };
-    } else {
-      if (!this.sectionsOutputData[sectionCode]) {
-        this.sectionsOutputData[sectionCode] = {
-          code: row.Paquete || "",
-          subjectCode: subjectCode,
-          section: row.Sección || "Sección 1",
-          timeBlocks: [
-            ...timeBlocks.map((timeBlock) => ({
-              ...timeBlock,
-              description: row["Descrip. Evento"] || "",
-              isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
-              teacher: row.Profesor || "",
-            })),
-          ],
-        };
-      } else {
-        for (const timeBlock of timeBlocks) {
-          const timeBlockExists = this.sectionsOutputData[
-            sectionCode
-          ].timeBlocks.find(
-            (block) =>
-              block.day === timeBlock.day && block.block === timeBlock.block
-          );
-          if (timeBlockExists) {
-            timeBlockExists.secondTeacher = row.Profesor || "";
-            continue;
-          }
-          this.sectionsOutputData[sectionCode].timeBlocks.push({
-            ...timeBlock,
-            description: row["Descrip. Evento"] || "",
-            isMandatory: !row["Descrip. Evento"]?.includes("OPCIONAL"),
-            teacher: row.Profesor || "",
-          });
-        }
-      }
-    }
-  }
+  abstract parseRow(row: TUniversityRow): void;
 
   getOutputData() {
     return [this.subjectsOutputData, this.sectionsOutputData];
