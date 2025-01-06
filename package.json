@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "npm run parser:build && npm run parse && rm -rf apps/web/public/* && cp -r apps/parser/output/ apps/web/public/ && npm run web:build",
+    "build": "npm run parser:build && rm -rf apps/web/public/* && npm run parse && npm run web:build",
     "dev": "NEXT_PUBLIC_LAST_UPDATED=$(date '+%Y-%m-%d') turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
