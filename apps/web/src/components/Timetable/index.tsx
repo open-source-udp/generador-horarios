@@ -79,14 +79,22 @@ export const Timetable: FC<TimetableProps> = memo(function Timetable({
                   <StyledTableCell key={day} sx={{ lineHeight: "15px" }}>
                     {timeBlock ? (
                       <>
-                        {timeBlock.course.name} <br />{" "}
-                        <small>
+                        <span style={{ fontWeight: "bold", fontSize: 13 }}>
+                          {timeBlock.course.name} <br />{" "}
+                        </span>
+                        <small style={{ fontSize: 10, color: "#777" }}>
                           {timeBlock.course.selectedSection.section}
                           {" - "}
                           {timeBlock.description}
                         </small>{" "}
                         <br />
-                        <small>{timeBlock.teacher} </small>
+                        <small style={{ fontSize: 10 }}>
+                          {timeBlock.teacher}{" "}
+                          {timeBlock.secondTeacher
+                            ? `- ${timeBlock.secondTeacher}`
+                            : null}{" "}
+                        </small>
+                        <br />
                       </>
                     ) : (
                       ""

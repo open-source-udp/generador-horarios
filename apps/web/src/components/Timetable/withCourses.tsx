@@ -16,6 +16,7 @@ const withCourses = (
           description: timeBlock.description,
           isMandatory: timeBlock.isMandatory,
           teacher: timeBlock.teacher,
+          secondTeacher: timeBlock.secondTeacher
         });
       }
     }
