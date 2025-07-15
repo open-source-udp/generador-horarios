@@ -5,11 +5,11 @@
   ],
   "globalEnv": [
     "NEXT_PUBLIC_LAST_UPDATED"
-  ],
-  "pipeline": {
+  ],  "pipeline": {
     "build": {
       "dependsOn": [
-        "^build"
+        "^build",
+        "parse"
       ],
       "outputs": [
         ".next/**",
@@ -22,7 +22,13 @@
       "persistent": true
     },
     "parse": {
-      "cache": false
+      "dependsOn": [
+        "^build"
+      ],
+      "cache": false,
+      "outputs": [
+        "output/**"
+      ]
     },
     "storybook": {},
     "start": {
