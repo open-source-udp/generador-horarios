@@ -4,7 +4,7 @@
   "description": "Next.js project with TypeScript, MUI and MVC architecture",
   "main": "index.js",  "scripts": {
     "dev": "next dev",
-    "build": "cd ../.. && npm run parser:build && npm run parse && cd apps/web && next build",
+    "build": "next build",
     "start": "next start"
   },
   "keywords": [
