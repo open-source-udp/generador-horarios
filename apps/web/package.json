@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "NEXT_PUBLIC_LAST_UPDATED=$(date '+%Y-%m-%d') next build",
+    "build": "next build",
     "start": "next start"
   },
   "keywords": [
