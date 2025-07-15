@@ -9,6 +9,9 @@ const NextConfig = {
     config.cache = false;
     return config;
   },
+  // Configure output for Vercel
+  output: "standalone",
+  distDir: ".next",
 };
 
 module.exports = NextConfig;

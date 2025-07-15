@@ -2,10 +2,9 @@
   "name": "my-nextjs-app",
   "version": "1.0.0",
   "description": "Next.js project with TypeScript, MUI and MVC architecture",
-  "main": "index.js",
-  "scripts": {
+  "main": "index.js",  "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "cd ../.. && npm run parser:build && npm run parse && cd apps/web && next build",
     "start": "next start"
   },
   "keywords": [
