@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "npm run parser:build && npm run parse && npm run web:build",
+  "outputDirectory": "apps/web/.next",
+  "installCommand": "npm install",
+  "framework": "nextjs"
+}
