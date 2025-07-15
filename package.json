@@ -1,11 +1,11 @@
 {
-  "private": true,  "scripts": {
-    "build": "npm run parser:build && npm run clean:public && npm run parse && npm run web:build",
+  "private": true,
+  "scripts": {
+    "build": "npm run parser:build && rm -rf apps/web/public/* && npm run parse && npm run web:build",
     "dev": "NEXT_PUBLIC_LAST_UPDATED=$(date '+%Y-%m-%d') turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "clean": "git clean -dfqX -- ./node_modules **/dist/ **/node_modules/ **/tsconfig*tsbuildinfo **/.turbo **/output",
-    "clean:public": "node -e \"const fs = require('fs'); const path = require('path'); const publicDir = path.join(__dirname, 'apps/web/public'); if (fs.existsSync(publicDir)) { fs.rmSync(publicDir, { recursive: true, force: true }); fs.mkdirSync(publicDir, { recursive: true }); }\"",
     "parse": "turbo run parse",
     "parser:build": "turbo run --scope parser build",
     "web:build": "cd apps/web && NEXT_PUBLIC_LAST_UPDATED=$(date '+%Y-%m-%d') npm run build",

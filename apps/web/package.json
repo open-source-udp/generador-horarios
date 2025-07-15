@@ -2,7 +2,8 @@
   "name": "my-nextjs-app",
   "version": "1.0.0",
   "description": "Next.js project with TypeScript, MUI and MVC architecture",
-  "main": "index.js",  "scripts": {
+  "main": "index.js",
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
@@ -28,11 +29,12 @@
     "react-dom": "^18.2.0",
     "swr": "^2.2.4",
     "zustand": "^4.4.6"
-  },  "devDependencies": {
+  },
+  "devDependencies": {
     "@types/node": "^16.11.6",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
-    "eslint": "^7.32.0",
+    "eslint": "^9.31.0",
     "typescript": "^4.5.2"
   }
 }
