@@ -7,7 +7,10 @@
     "parse": "node build/index.js && cp -r output/* ../web/public"
   },
   "dependencies": {
-    "xlsx": "^0.18.5",
-    "contracts": "*"
+    "contracts": "*",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
   }
 }
